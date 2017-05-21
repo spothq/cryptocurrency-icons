@@ -23,11 +23,11 @@ If there is an altcoin you’re looking for that hasn’t been included, please 
 
 If you find these icons useful, or if you’ve used them for your projects, please consider making a donation.
 
-<img src="32/color/bitcoin@2x.png"width="16" height="16"> **Bitcoin**
+**Bitcoin**
 `1EoTAPJAZSaZjbQwFFmGi8c6HfdLGVkYWq`
 
-<img src="32/color/ether@2x.png"width="16" height="16">  **Ethereum**
+**Ethereum**
 `0xd301Ad9f4de0B93844724dC3F6ee65C9F3670a6c`
 
-<img src="32/color/litecoin@2x.png"width="16" height="16">  **Litecoin**
+**Litecoin**
 `LaZyVy2cJKAynxdANn22P72KVp39X258hG`

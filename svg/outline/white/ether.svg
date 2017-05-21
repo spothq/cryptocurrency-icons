@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="#FFF" fill-rule="evenodd">
+    <path d="M16,32 C7.163444,32 0,24.836556 0,16 C0,7.163444 7.163444,0 16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 Z M16,30 C23.7319865,30 30,23.7319865 30,16 C30,8.2680135 23.7319865,2 16,2 C8.2680135,2 2,8.2680135 2,16 C2,23.7319865 8.2680135,30 16,30 Z"/>
+    <g fill-rule="nonzero" transform="translate(9 4)">
+      <polygon fill-opacity=".602" points="7.498 0 7.498 8.87 14.995 12.22"/>
+      <polygon points="7.498 0 0 12.22 7.498 8.87"/>
+      <polygon fill-opacity=".602" points="7.498 17.968 7.498 23.995 15 13.616"/>
+      <polygon points="7.498 23.995 7.498 17.967 0 13.616"/>
+      <polygon fill-opacity=".2" points="7.498 16.573 14.995 12.22 7.498 8.872"/>
+      <polygon fill-opacity=".602" points="0 12.22 7.498 16.573 7.498 8.872"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="lkk-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="lkk-b" cx="16" cy="15" r="15"/>
+    <filter id="lkk-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="lkk-e" d="M10.0051903,25 L10.0051903,21.3444445 L16,15.2388889 L21.9757785,21.3444445 L21.9757785,25 L16,18.8944445 L10.0051903,25 Z M5,12.6333334 L13.4688581,12.6333334 L16,15.2388889 L7.53114187,15.2388889 L5,12.6333334 Z M27,12.6333333 L24.4688581,15.2388889 L16,15.2388889 L16,4 L18.5311419,6.58611111 L18.5311419,12.6333333 L27,12.6333333 Z"/>
+    <filter id="lkk-d" width="115.9%" height="116.7%" x="-8%" y="-6%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#lkk-a)" xlink:href="#lkk-b"/>
+    <use fill="#9D01EB" xlink:href="#lkk-b"/>
+    <use fill="url(#lkk-c)" style="mix-blend-mode:soft-light" xlink:href="#lkk-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#lkk-d)" xlink:href="#lkk-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#lkk-e"/>
+    </g>
+  </g>
+</svg>

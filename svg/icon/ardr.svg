@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="ardr-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="ardr-b" cx="16" cy="15" r="15"/>
+    <filter id="ardr-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="ardr-e" d="M15.8833119,16.1899719 L17.6515558,18.5015484 L12.4999997,22 L15.8833119,16.1899719 Z M16,5 L18.7272727,9.47368421 L11.4545455,22 L6,22 L16,5 Z M16,14.8421053 L19.6363636,12.1578947 L26,22 L21.4545455,22 L16,14.8421053 Z"/>
+    <filter id="ardr-d" width="117.5%" height="120.6%" x="-8.8%" y="-7.4%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#ardr-a)" xlink:href="#ardr-b"/>
+    <use fill="#3C87C7" xlink:href="#ardr-b"/>
+    <use fill="url(#ardr-c)" style="mix-blend-mode:soft-light" xlink:href="#ardr-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#ardr-d)" xlink:href="#ardr-e"/>
+      <use fill="#FFF" xlink:href="#ardr-e"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="neo-a" x1="53856%" x2="53856%" y1="-3432%" y2="77792%">
+      <stop offset="0%" stop-color="#58BF00"/>
+      <stop offset="23%" stop-color="#58BF00"/>
+      <stop offset="42%" stop-color="#58BF00"/>
+      <stop offset="61%" stop-color="#29B800"/>
+      <stop offset="78%" stop-color="#00AE1D"/>
+      <stop offset="99%" stop-color="#00A62C"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="16" cy="16" r="16" fill="url(#neo-a)"/>
+    <path fill="#FFF" fill-rule="nonzero" d="M25,22.5792095 L18.0093653,19.3222295 L18.0093653,12.1025447 L25,9.62203372 L25,22.5792095 Z M14.823082,26 L8,22.820976 L8,9.95789691 L14.823082,13.138638 L14.823082,26 Z M24.8324472,9.15738865 L24.720166,9.19722518 L18.0093653,11.5781449 L17.8418125,11.6378997 L14.9989776,12.646176 L8.26975299,9.51007933 L17.8418125,6.1140149 L17.9255889,6.0841375 L18.1032226,6.02129194 L18.165099,6 L24.8943236,9.13575329 L24.8324472,9.15738865 Z"/>
+  </g>
+</svg>

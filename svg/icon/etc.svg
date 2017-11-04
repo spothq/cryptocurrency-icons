@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="etc-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="etc-b" cx="16" cy="15" r="15"/>
+    <filter id="etc-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="etc-e" d="M9.26925954,13.7537415 L16.5617053,10.7714286 L23.6297681,13.829932 L16.5504862,3 L9.26925954,13.7537415 Z M9.29169783,17.062585 L16.5729245,21.155102 L24,17.062585 L16.6402393,27 L9.29169783,17.062585 Z M16.5953628,12.229932 L23.9775617,15.4190476 L16.5953628,19.4244898 L9,15.3319728 L16.5953628,12.229932 Z"/>
+    <filter id="etc-d" width="123.3%" height="114.6%" x="-11.7%" y="-5.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#etc-a)" xlink:href="#etc-b"/>
+    <use fill="#669073" xlink:href="#etc-b"/>
+    <use fill="url(#etc-c)" style="mix-blend-mode:soft-light" xlink:href="#etc-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#etc-d)" xlink:href="#etc-e"/>
+      <use fill="#FFF" xlink:href="#etc-e"/>
+    </g>
+  </g>
+</svg>

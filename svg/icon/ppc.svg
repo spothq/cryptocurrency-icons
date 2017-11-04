@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="ppc-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="ppc-b" cx="16" cy="15" r="15"/>
+    <filter id="ppc-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="ppc-e" d="M9,6.5 C21.0928762,6.94729254 25.756194,14.2055284 23.4151328,20.683199 C22.7518289,22.485651 22.047155,23.4721875 20.5649647,24.5 C20.625337,24.2402883 20.6874908,23.9791463 20.7344031,23.7133046 C21.6112866,18.6596549 19.9497606,12.5790101 11.8230501,9.21992281 C18.2888285,13.068396 20.8981012,19.9150982 17.8828493,24.3348961 C12.7508047,25.1416165 9,20.7585992 9,15.7088319 L9,6.5 Z"/>
+    <filter id="ppc-d" width="123.3%" height="119.4%" x="-11.7%" y="-6.9%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#ppc-a)" xlink:href="#ppc-b"/>
+    <use fill="#3CB054" xlink:href="#ppc-b"/>
+    <use fill="url(#ppc-c)" style="mix-blend-mode:soft-light" xlink:href="#ppc-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#ppc-d)" xlink:href="#ppc-e"/>
+      <use fill="#FFF" xlink:href="#ppc-e"/>
+    </g>
+  </g>
+</svg>

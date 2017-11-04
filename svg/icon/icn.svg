@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="icn-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="icn-b" cx="16" cy="15" r="15"/>
+    <filter id="icn-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="icn-e" d="M20.8333333,6 L23.5,6 L23.5,24 L20.8333333,24 L20.8333333,6 Z M16.3888889,15 L19.0555556,15 L19.0555556,24 L16.3888889,24 L16.3888889,15 Z M11.9444444,10.5 L14.6111111,10.5 L14.6111111,24 L11.9444444,24 L11.9444444,10.5 Z M7.5,19.5 L10.1666667,19.5 L10.1666667,24 L7.5,24 L7.5,19.5 Z"/>
+    <filter id="icn-d" width="121.9%" height="119.4%" x="-10.9%" y="-6.9%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#icn-a)" xlink:href="#icn-b"/>
+    <use fill="#4C6F8C" xlink:href="#icn-b"/>
+    <use fill="url(#icn-c)" style="mix-blend-mode:soft-light" xlink:href="#icn-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#icn-d)" xlink:href="#icn-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#icn-e"/>
+    </g>
+  </g>
+</svg>

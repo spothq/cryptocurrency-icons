@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="bts-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="bts-b" cx="16" cy="15" r="15"/>
+    <filter id="bts-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="bts-e" d="M11,12.2023917 L15.2098878,16.5462723 C15.041674,16.7992421 14.9223379,17.0895258 14.8659303,17.4026254 L11,17.4026254 L11,12.2023917 Z M11,11.0337335 L11,4 L16.6061302,9.13896426 L16.6061302,15.6070382 C16.3026886,15.6652411 16.0213591,15.7883755 15.7761925,15.9619432 L11,11.0337335 Z M21.5276148,21.8964224 L18.8032484,19.0853446 C18.9714622,18.8323748 19.0907983,18.542091 19.1472059,18.2289915 L23,18.2289915 C22.910656,19.6295852 22.3704013,20.9030961 21.5276148,21.8964224 Z M20.9613101,22.4807515 C19.9986242,23.3503623 18.7643965,23.9078123 17.407006,24 L17.407006,20.0245787 C17.7104475,19.9663758 17.9917771,19.8432414 18.2369437,19.6696737 L20.9613101,22.4807515 Z M11.0131362,18.2289915 L14.8659303,18.2289915 C14.9223379,18.542091 15.041674,18.8323748 15.2098878,19.0853446 L12.4855214,21.8964224 C11.6427349,20.9030961 11.1024802,19.6295852 11.0131362,18.2289915 Z M23,17.4026254 L19.1472059,17.4026254 C19.0907983,17.0895258 18.9714622,16.7992421 18.8032484,16.5462723 L21.5276148,13.7351944 C22.3704013,14.7285208 22.910656,16.0020316 23,17.4026254 Z M13.0518261,22.4807515 L15.7761925,19.6696737 C16.0213591,19.8432414 16.3026886,19.9663758 16.6061302,20.0245787 L16.6061302,24 C15.2487397,23.9078123 14.014512,23.3503623 13.0518261,22.4807515 Z M20.9613101,13.1508654 L18.2369437,15.9619432 C17.9917771,15.7883755 17.7104475,15.6652411 17.407006,15.6070382 L17.407006,11.6316169 C18.7643965,11.7238045 19.9986242,12.2812546 20.9613101,13.1508654 Z"/>
+    <filter id="bts-d" width="129.2%" height="117.5%" x="-14.6%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#bts-a)" xlink:href="#bts-b"/>
+    <use fill="#35BAEB" xlink:href="#bts-b"/>
+    <use fill="url(#bts-c)" style="mix-blend-mode:soft-light" xlink:href="#bts-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#bts-d)" xlink:href="#bts-e"/>
+      <use fill="#FFF" xlink:href="#bts-e"/>
+    </g>
+  </g>
+</svg>

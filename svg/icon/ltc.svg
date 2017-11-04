@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="ltc-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="ltc-b" cx="16" cy="15" r="15"/>
+    <filter id="ltc-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <polygon id="ltc-e" points="10.427 18.214 9 18.768 9.688 16.009 11.132 15.429 13.213 7 18.342 7 16.823 13.196 18.233 12.625 17.553 15.375 16.126 15.946 15.278 19.429 23 19.429 22.127 23 9.252 23"/>
+    <filter id="ltc-d" width="125%" height="121.9%" x="-12.5%" y="-7.8%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#ltc-a)" xlink:href="#ltc-b"/>
+    <use fill="#CBC6C6" xlink:href="#ltc-b"/>
+    <use fill="url(#ltc-c)" style="mix-blend-mode:soft-light" xlink:href="#ltc-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#ltc-d)" xlink:href="#ltc-e"/>
+      <use fill="#FFF" xlink:href="#ltc-e"/>
+    </g>
+  </g>
+</svg>

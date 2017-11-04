@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="dcr-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="dcr-b" cx="16" cy="15" r="15"/>
+    <filter id="dcr-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="dcr-e" d="M14.8560388,16.6191919 L19.2758825,16.6191919 C20.9208281,16.6191919 22.25432,15.2782169 22.25432,13.6240404 C22.25432,11.9698639 20.9208281,10.6288889 19.2758825,10.6288889 L17.8696325,10.6288889 L14.8560388,8 L19.2758825,8 C21.9505636,8.00059197 24.2506288,9.9050849 24.7644999,12.5446682 C25.2783709,15.1842516 23.8622625,17.8203474 21.3852575,18.8351515 L24.869945,21.8769697 L20.8790075,21.8769697 L14.8560388,16.6191919 Z M17.0132263,13.2591919 L12.5933825,13.2591919 C10.9484369,13.2591919 9.61494501,14.6001669 9.61494501,16.2543434 C9.61494501,17.9085199 10.9484369,19.2494949 12.5933825,19.2494949 L13.9996325,19.2494949 L17.01182,21.8783838 L12.5933825,21.8783838 C9.91870138,21.8777919 7.61863624,19.9732989 7.10476515,17.3337156 C6.59089407,14.6941323 8.00700253,12.0580364 10.4840075,11.0432323 L7.00213251,8 L10.99307,8 L17.0132263,13.2591919 Z"/>
+    <filter id="dcr-d" width="119.6%" height="125.2%" x="-9.8%" y="-9%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#dcr-a)" xlink:href="#dcr-b"/>
+    <use fill="#2ED6A1" xlink:href="#dcr-b"/>
+    <use fill="url(#dcr-c)" style="mix-blend-mode:soft-light" xlink:href="#dcr-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#dcr-d)" xlink:href="#dcr-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#dcr-e"/>
+    </g>
+  </g>
+</svg>

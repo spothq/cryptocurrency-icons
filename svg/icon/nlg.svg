@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="nlg-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="nlg-b" cx="16" cy="15" r="15"/>
+    <filter id="nlg-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="nlg-e" d="M25.515224,13.8042885 C25.6796598,13.8019231 25.7841588,13.8235576 25.8511952,13.8847096 C25.9201095,13.9475747 25.9494329,14.0522025 25.9635819,14.2154516 C26.4299169,19.5937947 22.3618601,24.4563542 16.965526,24.9555823 C11.4020072,25.4702948 6.57245259,21.4545822 6.04369899,15.8742945 C5.5304498,10.4574412 9.59944219,5.54140009 15.0313963,5.04725912 C18.1071268,4.76746828 20.7634364,5.73308136 22.9988995,7.86268235 C23.0218442,7.88452567 23.0168098,7.97662906 22.9911696,8.00273395 C22.4884794,8.51412199 21.9822028,9.02200707 21.4704015,9.52424725 C21.4422441,9.55184703 21.3379904,9.5480317 21.3058677,9.51860235 C18.9987413,7.40511053 16.326014,6.77879405 13.402788,7.84382882 C10.4457242,8.92117974 8.75480866,11.1502693 8.42133034,14.2911558 C7.9702547,18.5396927 11.1775053,22.284673 15.4556734,22.6075927 C19.3342245,22.9003244 22.8482885,20.155072 23.4908524,16.323477 C23.4973126,16.2849221 23.4103899,16.1896281 23.3668618,16.1895389 C20.972278,16.1829123 18.5776498,16.1850319 16.183066,16.1758394 C16.1205583,16.1756163 16.0056342,16.0608217 16.0043867,15.9977238 C15.9913327,15.3286577 15.9919565,14.6591232 16.0040303,13.9900125 C16.0050996,13.9303059 16.1123829,13.8216025 16.170814,13.8212678 C17.767166,13.8119861 23.9970845,13.8260426 25.515224,13.8042885 Z"/>
+    <filter id="nlg-d" width="117.5%" height="117.5%" x="-8.8%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#nlg-a)" xlink:href="#nlg-b"/>
+    <use fill="#2AB0FD" xlink:href="#nlg-b"/>
+    <use fill="url(#nlg-c)" style="mix-blend-mode:soft-light" xlink:href="#nlg-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#nlg-d)" xlink:href="#nlg-e"/>
+      <use fill="#FFF" xlink:href="#nlg-e"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="btcd-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="btcd-b" cx="16" cy="15" r="15"/>
+    <filter id="btcd-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="btcd-e" d="M17.0784132,18.3558047 C22.1584192,16.7890574 20.345117,11.5223621 17.0784132,11.3223237 C17.9084141,11.3223237 18.5861149,8.94454112 18.5861149,6 C26.5617244,6.56665687 30.3091289,19.7114285 18.3461147,23.8226401 C18.4226148,22.755938 17.9856142,19.7781419 17.0787132,18.3558047 L17.0784132,18.3558047 Z M6,16.7998373 L6,11.3330019 L6.01090001,11.3330019 C8.89530344,11.3219169 11.2224062,8.93294764 11.2115062,6.01067821 L16.7725128,6.01067821 C16.7725128,11.9774571 11.9544071,16.7998373 6,16.7998373 Z M13.2873087,15.8109336 L13.2874087,15.8109336 C16.5869126,18.5220796 16.7726128,23.0888947 16.7726128,24 L11.2115062,24 C11.2115062,20.9776605 9.24490385,18.5331646 6.80850096,18.5331646 C10.9383059,17.8665394 11.7800069,17.1665574 13.2873087,15.8109336 Z"/>
+    <filter id="btcd-d" width="117.5%" height="119.4%" x="-8.8%" y="-6.9%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none">
+    <use fill="#000" filter="url(#btcd-a)" xlink:href="#btcd-b"/>
+    <use fill="#F60" fill-rule="evenodd" xlink:href="#btcd-b"/>
+    <use fill="url(#btcd-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#btcd-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#btcd-d)" xlink:href="#btcd-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#btcd-e"/>
+    </g>
+  </g>
+</svg>

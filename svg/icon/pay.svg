@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="pay-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="pay-b" cx="16" cy="15" r="15"/>
+    <filter id="pay-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="pay-e" d="M26.9101661,14.6957203 C26.8597861,14.5813286 26.778166,14.4858529 26.695116,14.3950783 C24.7932147,12.2427906 20.9224221,8 20.9224221,8 L16.0054187,13.3775294 L11.0245053,8.05081588 C11.0245053,8.05081588 7.10850269,12.3298715 5.19054139,14.5067837 C4.94095122,14.7530281 4.94095122,15.196268 5.16480137,15.4590779 C6.16173205,16.5947121 11.0590454,21.995187 11.0590454,21.995187 L15.9992587,16.5809448 L20.904162,22 L26.8213961,15.454041 C26.8213961,15.454041 26.9462461,15.324427 26.9726462,15.2370102 C27.0309462,15.0575876 26.9894762,14.8610398 26.9101661,14.6957203 M7.91777324,15.2948776 C7.75838313,15.1061649 7.81184317,14.8086569 7.96067327,14.6303536 C8.58679369,13.9174762 11.0921554,11.2296069 11.0921554,11.2296069 L14.5815778,14.9354728 L11.0858854,18.7587525 C11.0858854,18.7587525 8.94671394,16.474724 7.91777324,15.2948776 M23.9060641,15.4213577 C23.842484,15.5546655 23.6495439,15.7759496 23.6495439,15.7759496 L20.9391421,18.7206965 L17.4411397,15.0002798 L20.885022,11.2260252 C20.885022,11.2260252 22.8690934,13.2811583 23.778024,14.3853405 C23.855024,14.4823831 23.9457741,14.5734936 23.9848241,14.694601 C24.0684242,14.93357 24.0157342,15.2001855 23.9060641,15.4212458"/>
+    <filter id="pay-d" width="115.9%" height="125%" x="-8%" y="-8.9%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none">
+    <use fill="#000" filter="url(#pay-a)" xlink:href="#pay-b"/>
+    <use fill="#302C2C" fill-rule="evenodd" xlink:href="#pay-b"/>
+    <use fill="url(#pay-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#pay-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#pay-d)" xlink:href="#pay-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#pay-e"/>
+    </g>
+  </g>
+</svg>

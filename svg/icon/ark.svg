@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="ark-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="ark-b" cx="16" cy="15" r="15"/>
+    <filter id="ark-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="ark-e" d="M15.94676,12.3465207 L5,23.8909637 L15.99593,6 L27,24 L15.94676,12.3465207 Z M17.53516,16.9324656 L14.11273,16.9324656 L15.87273,14.9958323 L17.53516,16.9486859 L17.53516,16.9324656 Z M10.93593,20.1093867 L10.9356,20.0846058 L12.876,18.097622 L12.876,18.0893992 L18.79609,18.0638298 L20.7938,20.1093867 L10.93593,20.1093867 Z"/>
+    <filter id="ark-d" width="115.9%" height="119.4%" x="-8%" y="-6.9%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none">
+    <use fill="#000" filter="url(#ark-a)" xlink:href="#ark-b"/>
+    <use fill="#F70000" fill-rule="evenodd" xlink:href="#ark-b"/>
+    <use fill="url(#ark-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#ark-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#ark-d)" xlink:href="#ark-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#ark-e"/>
+    </g>
+  </g>
+</svg>

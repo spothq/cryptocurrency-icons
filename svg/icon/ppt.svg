@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="ppt-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="ppt-b" cx="16" cy="15" r="15"/>
+    <filter id="ppt-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="ppt-e" d="M16.0488,7.31584 C14.7330368,7.31584 13.6664,6.58251824 13.6664,5.67792 C13.6664,4.77332176 14.7330368,4.04 16.0488,4.04 C17.3645632,4.04 18.4312,4.77332176 18.4312,5.67792 C18.4312,6.58251824 17.3645632,7.31584 16.0488,7.31584 Z M14.816,25.6008 L14.816,8.104 L20.128,8.104 C20.32528,8.104 20.464,8.25104 20.464,8.44752 L20.464,18.15584 C20.464,18.35232 20.32448,18.52 20.128,18.52 L17.2,18.52 L17.2,25.6008 C17.2,25.79744 17.04928,25.976 16.8528,25.976 L15.18512,25.976 C14.98864,25.976 14.816,25.79728 14.816,25.6008 Z M13.92,18.52 L11.90944,18.52 C11.71296,18.52 11.536,18.35232 11.536,18.15584 L11.536,8.44752 C11.536,8.25104 11.7128,8.104 11.90944,8.104 L13.92,8.104 L13.92,18.52 Z"/>
+    <filter id="ppt-d" width="139.2%" height="116%" x="-19.6%" y="-5.7%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none">
+    <use fill="#000" filter="url(#ppt-a)" xlink:href="#ppt-b"/>
+    <use fill="#152743" fill-rule="evenodd" xlink:href="#ppt-b"/>
+    <use fill="url(#ppt-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#ppt-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#ppt-d)" xlink:href="#ppt-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#ppt-e"/>
+    </g>
+  </g>
+</svg>

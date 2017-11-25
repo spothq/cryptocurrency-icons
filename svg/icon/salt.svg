@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="salt-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="salt-b" cx="16" cy="15" r="15"/>
+    <filter id="salt-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="salt-e" d="M16.5,9.4453 L22.3036,21.6587 L10.6964,21.6587 L16.5,9.4453 Z M16.5,4 L7,24 L26,24 L16.5,4 Z"/>
+    <filter id="salt-d" width="118.4%" height="117.5%" x="-9.2%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none">
+    <use fill="#000" filter="url(#salt-a)" xlink:href="#salt-b"/>
+    <use fill="#1BEEF4" fill-rule="evenodd" xlink:href="#salt-b"/>
+    <use fill="url(#salt-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#salt-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#salt-d)" xlink:href="#salt-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#salt-e"/>
+    </g>
+  </g>
+</svg>

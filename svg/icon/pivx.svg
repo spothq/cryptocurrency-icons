@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="pivx-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="pivx-b" cx="16" cy="15" r="15"/>
+    <filter id="pivx-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="pivx-e" d="M17.1534697,10.7413819 L17.1534697,12.9963255 L10,12.9963255 L10,10.7413819 L17.1534697,10.7413819 Z M23,11.8312751 C23,15.039374 20.7098538,17.2255853 17.4722838,17.2255853 L13.929679,17.2255853 L13.929679,23.5 L11.3305342,23.5 L11.3305342,14.807296 L17.2552934,14.807296 C19.1898386,14.807296 20.3501623,13.7039707 20.3501623,11.8312751 C20.3501623,9.99361748 19.200532,8.91798621 17.2807944,8.91798621 L15.5932561,8.91798379 L11.0490959,8.93212086 L11.0490959,6.5 L17.4591469,6.5 C20.5473056,6.5 22.7550929,8.41167079 22.9806412,11.3312751 L23,11.8312751 Z"/>
+    <filter id="pivx-d" width="126.9%" height="120.6%" x="-13.5%" y="-7.4%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none">
+    <use fill="#000" filter="url(#pivx-a)" xlink:href="#pivx-b"/>
+    <use fill="#5E4778" fill-rule="evenodd" xlink:href="#pivx-b"/>
+    <use fill="url(#pivx-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#pivx-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#pivx-d)" xlink:href="#pivx-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#pivx-e"/>
+    </g>
+  </g>
+</svg>

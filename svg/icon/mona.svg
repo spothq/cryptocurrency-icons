@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="mona-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="mona-b" cx="16" cy="15" r="15"/>
+    <filter id="mona-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="mona-e" d="M23.529471,12.4135726 L22.1057935,6 L19.3088161,10.4136848 C17.1345088,9.88872686 14.8664987,9.88872686 12.6921914,10.4136848 L9.90125945,6 L8.47254408,12.4135726 C6.93602015,13.6421761 6,15.247336 6,17.0089736 C6,20.868424 10.4755668,23.9979809 15.9969773,23.9979809 C21.5183879,23.9979809 25.9939547,20.868424 25.9939547,17.0089736 C25.9929471,15.247336 25.0639798,13.6421761 23.529471,12.4135726 Z M10.4433249,15.351318 L9.77732997,15.351318 L11.4035264,13.4745934 L12.5884131,13.4745934 L10.4433249,15.351318 Z M15.9465995,19.9346046 L13.1808564,15.0625911 L13.8639798,14.6729108 L14.4806045,15.7581604 L17.502267,15.7581604 L18.1460957,14.6678632 L18.8221662,15.0696579 L15.9465995,19.9346046 Z M21.5596977,15.351318 L19.413602,13.4745934 L20.6055416,13.4745934 L22.2307305,15.351318 L21.5596977,15.351318 Z M15.9596977,18.365788 L14.9269521,16.5466068 L17.0347607,16.5466068 L15.9596977,18.365788 Z"/>
+    <filter id="mona-d" width="117.5%" height="119.4%" x="-8.8%" y="-6.9%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none">
+    <use fill="#000" filter="url(#mona-a)" xlink:href="#mona-b"/>
+    <use fill="#F0DBB0" fill-rule="evenodd" xlink:href="#mona-b"/>
+    <use fill="url(#mona-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#mona-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#mona-d)" xlink:href="#mona-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#mona-e"/>
+    </g>
+  </g>
+</svg>

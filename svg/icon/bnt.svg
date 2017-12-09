@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="bnt-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="bnt-b" cx="16" cy="15" r="15"/>
+    <filter id="bnt-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="bnt-e" d="M15.92,4.87952 L11.4016,7.52704 L15.92,10.17456 L20.5232,7.52704 L15.92,4.87952 Z M16.66304,19.01408 L16.66304,24.30896 L22.8,20.808 L22.8,15.512 L16.66304,19.01408 Z M21.2656,9.192 L21.2656,14.488 L16.6624,17.13552 L16.6624,11.83952 L21.2656,9.192 Z M10.18432,14.488 L14.78752,17.13552 L14.78752,11.83952 L10.18432,9.192 L10.18432,14.488 Z M10.18432,21.6616 L14.78752,24.30912 L14.78752,19.01408 L10.18432,16.36656 L10.18432,21.66144 L10.18432,21.6616 Z"/>
+    <filter id="bnt-d" width="127.7%" height="118%" x="-13.9%" y="-6.4%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none">
+    <use fill="#000" filter="url(#bnt-a)" xlink:href="#bnt-b"/>
+    <use fill="#000D2B" fill-rule="evenodd" xlink:href="#bnt-b"/>
+    <use fill="url(#bnt-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#bnt-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#bnt-d)" xlink:href="#bnt-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#bnt-e"/>
+    </g>
+  </g>
+</svg>

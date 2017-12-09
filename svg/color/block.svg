@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="16" cy="16" r="16" fill="#101341" fill-rule="nonzero"/>
+    <g fill="#FFF" transform="translate(5.5 7)">
+      <path d="M5.52155172,0 L15.75,0 L21,9 L15.75,18 L5.43103448,18 L10.5905172,9 L5.52155172,0 Z M10.9525862,3.16582915 L14.3017241,9 L10.9525862,14.8341709 L13.9396552,14.8341709 L17.2887931,9 L13.9396552,3.16582915 L10.9525862,3.16582915 Z"/>
+      <polygon points="6.613 4.026 3.711 9 6.587 13.93 4.748 17.139 0 9 4.789 .789" opacity=".5"/>
+    </g>
+  </g>
+</svg>

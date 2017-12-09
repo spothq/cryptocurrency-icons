@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="cvc-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="cvc-b" cx="16" cy="15" r="15"/>
+    <filter id="cvc-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="cvc-e" d="M17.1611168,15.7785 C17.976371,15.3838838 18.4925497,14.5666464 18.4916751,13.6719 C18.4916751,12.3778 17.4294416,11.329 16.120203,11.329 C14.8109645,11.329 13.7482234,12.3777 13.7482234,13.6718 C13.7471759,14.5668731 14.2638948,15.384342 15.079797,15.7784 L15.079797,18.672 L17.1610152,18.672 L17.1610152,15.7785 M16.1203046,22.5 C11.9348223,22.5 8.53015228,19.1358 8.53015228,15 C8.53015228,10.8642 11.9353299,7.5006 16.1203046,7.5006 C19.535736,7.5006 22.4307614,9.7406 23.3806091,12.8122 L25.9965482,12.8122 C24.9872081,8.3417 20.9486294,5 16.1203046,5 C10.531066,5 6,9.4771 6,15 C6,20.5229 10.531066,25 16.1203046,25 C20.9486294,25 24.9872081,21.6583 25.9966497,17.1877 L23.3807107,17.1877 C22.4301523,20.26 19.535736,22.5 16.1203046,22.5"/>
+    <filter id="cvc-d" width="117.5%" height="117.5%" x="-8.8%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none">
+    <use fill="#000" filter="url(#cvc-a)" xlink:href="#cvc-b"/>
+    <use fill="#3AB03E" fill-rule="evenodd" xlink:href="#cvc-b"/>
+    <use fill="url(#cvc-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#cvc-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#cvc-d)" xlink:href="#cvc-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#cvc-e"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="exmo-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="exmo-b" cx="16" cy="15" r="15"/>
+    <filter id="exmo-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="exmo-e" d="M19.6990698,12.055 L16.8313953,19.805 L16.8134884,19.8525 L16.2865116,18.7975 L15.1865116,19.2975 L18.072093,11.5 L19.172093,11 L19.6990698,12.055 Z M26.8797674,12.2375 L24.012093,20 L23.4851163,18.9425 L22.3851163,19.4425 L22.4516279,19.26 L25.3193023,11.5 L26.4193023,11 L26.9437209,12.055 L26.8797674,12.2375 Z M20.7402326,18.95 L22.4286047,14.3875 L21.3260465,14.8875 L20.8016279,13.83 L19.1081395,18.3925 L19.6325581,19.45 L20.7402326,18.95 Z M11.6025581,14.45 L6.55790698,14.45 L7.41744186,15.25 L6.55790698,16.0625 L11.5974419,16.0625 L12.4544186,15.25 L11.6025581,14.45 Z M5.85953488,17.8325 L14.0148837,17.8325 L13.157907,18.64 L14.0148837,19.445 L5.85953488,19.445 L5,18.64 L5.85953488,17.8325 Z M8.36139535,11.065 L16.5116279,11.065 L15.6572093,11.8725 L16.5116279,12.6775 L8.36139535,12.6775 L7.50186047,11.8725 L8.36139535,11.065 Z"/>
+    <filter id="exmo-d" width="115.9%" height="138.9%" x="-8%" y="-13.9%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#exmo-a)" xlink:href="#exmo-b"/>
+      <use fill="#347FFB" fill-rule="evenodd" xlink:href="#exmo-b"/>
+      <use fill="url(#exmo-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#exmo-b"/>
+      <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    </g>
+    <use fill="#000" filter="url(#exmo-d)" xlink:href="#exmo-e"/>
+    <use fill="#FFF" xlink:href="#exmo-e"/>
+  </g>
+</svg>

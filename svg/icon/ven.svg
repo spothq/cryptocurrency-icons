@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="ven-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="ven-b" cx="16" cy="15" r="15"/>
+    <filter id="ven-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="ven-e" d="M14.7383779,23.7343956 L7.03961387,8.0462207 C6.91428516,7.79549644 7.10227823,7.5 7.37979182,7.5 L10.0475031,7.5 C10.1907359,7.5 10.3250166,7.58058994 10.387681,7.70595207 L16.0095691,19.0870424 C16.510884,20.1078483 17.9611163,20.1078483 18.4624311,19.0870424 L24.0664152,7.71490651 C24.1290795,7.58954438 24.2633603,7.50895444 24.4065931,7.50895444 L24.737819,7.50895444 C24.9347641,7.50895444 25.0600928,7.71490651 24.9705723,7.88504082 L17.1912399,23.7343956 C16.689925,24.7552015 15.2396927,24.7552015 14.7383779,23.7343956 Z"/>
+    <filter id="ven-d" width="119.4%" height="120.6%" x="-9.7%" y="-7.4%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#ven-a)" xlink:href="#ven-b"/>
+    <use fill="#15BDFF" xlink:href="#ven-b"/>
+    <use fill="url(#ven-c)" style="mix-blend-mode:soft-light" xlink:href="#ven-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#ven-d)" xlink:href="#ven-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#ven-e"/>
+    </g>
+  </g>
+</svg>

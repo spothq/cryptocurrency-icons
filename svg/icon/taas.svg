@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="taas-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="taas-b" cx="16" cy="15" r="15"/>
+    <filter id="taas-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="taas-e" d="M4,12 L5.29805014,12 L5.29805014,13.2209607 L4,13.2209607 L4,12 Z M5.29805014,16.7737991 L9.07520891,16.7737991 L9.07520891,18 L4,18 L4,14.4419214 L7.81058496,14.4419214 L7.81058496,15.6628821 L5.29805014,15.6628821 L5.29805014,16.7737991 Z M22.9247911,14.4419214 L28,14.4419214 L28,18 L24.189415,18 L24.189415,16.7737991 L26.7019499,16.7737991 L26.7019499,15.6628821 L22.9247911,15.6628821 L22.9247911,14.4419214 Z M26.7231922,13.2798393 L22.9237493,13.2798393 L22.9237493,12.0588786 L26.7231922,12.0588786 L26.7231922,13.2798393 Z M10.3119777,14.4419214 L15.3871866,14.4419214 L15.3871866,16.8262009 L14.1225627,16.8262009 L14.1225627,18 L10.3119777,18 L10.3119777,14.4419214 Z M14.0891365,16.7737991 L14.0891365,15.6628821 L11.6100279,15.6628821 L11.6100279,16.7737991 L14.0891365,16.7737991 Z M10.3119777,12 L15.3871866,12 L15.3871866,13.2209607 L10.3119777,13.2209607 L10.3119777,12 Z M16.6462396,14.4419214 L21.7214485,14.4419214 L21.7214485,16.8262009 L20.4568245,16.8262009 L20.4568245,18 L16.6462396,18 L16.6462396,14.4419214 Z M20.4178273,16.7737991 L20.4178273,15.6628821 L17.9387187,15.6628821 L17.9387187,16.7737991 L20.4178273,16.7737991 Z M16.6462396,12 L21.7214485,12 L21.7214485,13.2209607 L16.6462396,13.2209607 L16.6462396,12 Z"/>
+    <filter id="taas-d" width="114.6%" height="158.3%" x="-7.3%" y="-20.8%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none">
+    <use fill="#000" filter="url(#taas-a)" xlink:href="#taas-b"/>
+    <use fill="#002342" fill-rule="evenodd" xlink:href="#taas-b"/>
+    <use fill="url(#taas-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#taas-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#taas-d)" xlink:href="#taas-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#taas-e"/>
+    </g>
+  </g>
+</svg>

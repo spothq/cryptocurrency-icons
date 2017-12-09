@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="ubq-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="ubq-b" cx="16" cy="15" r="15"/>
+    <filter id="ubq-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <filter id="ubq-d" width="117.5%" height="115.9%" x="-8.8%" y="-5.7%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.104987545 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#ubq-a)" xlink:href="#ubq-b"/>
+    <use fill="#00EA90" xlink:href="#ubq-b"/>
+    <use fill="url(#ubq-c)" style="mix-blend-mode:soft-light" xlink:href="#ubq-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g fill="#FFF" fill-rule="nonzero" filter="url(#ubq-d)" transform="translate(6 4)">
+      <path fill-opacity=".698" d="M12.214969,2.50782779 L19.9917798,6.57563871 L12.4990433,11.1693053 L12.214969,2.50782779 Z M7.78503095,19.4491194 L0.00841440213,15.3812076 L7.50095667,10.7874266 L7.78503095,19.4491194 Z"/>
+      <path d="M19.9917839,15.6786595 L9.17884074,22 L9.17884074,13.1311155 L19.9917839,6.57556751 L19.9917839,15.6786595 Z M0.00821609454,6.27828767 L10.8211593,0 L10.8211593,8.83433464 L0.00821609454,15.3813796 L0.00821609454,6.27828767 Z"/>
+    </g>
+  </g>
+</svg>

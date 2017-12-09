@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="sky-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="sky-b" cx="16" cy="15" r="15"/>
+    <filter id="sky-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="sky-e" d="M24.027027,11.8029795 L19.2148159,22.5 L17.292396,22.5 L22.3572329,11.2394786 C22.9518275,11.3376164 23.5125333,11.5275605 24.027027,11.8029795 Z M15.6071979,5.51899441 L8.20403305,21.9776536 C6.31550203,21.0817505 5,19.1189944 5,16.8333333 C5,13.7024209 7.46156001,11.1666667 10.4992298,11.1666667 C10.4992298,8.17188082 12.7543761,5.72793296 15.6071979,5.51899441 Z M21.5007702,11.1666667 L16.4020445,22.5 L14.319423,22.5 L20.7213275,8.27001862 C21.2142557,9.11843575 21.5007702,10.1061453 21.5007702,11.1666667 Z M23.3954628,22.1486034 L26.6611119,14.8927374 C26.876768,15.5005587 27,16.1527002 27,16.8364991 C27,19.2741155 25.4996499,21.350838 23.3954628,22.1486034 Z M24.8372777,12.3348231 C25.2932362,12.6957169 25.6968212,13.1230912 26.0233861,13.6137803 L22.0368296,22.4715084 C21.8612239,22.4905028 21.6794567,22.5 21.5007702,22.5 L20.265369,22.5 L24.8372777,12.3348231 Z M16.0200252,5.5 C16.7994679,5.50316574 17.5388601,5.67411546 18.2104747,5.98119181 L10.7795827,22.5 L10.4992298,22.5 C9.80913037,22.5 9.14983896,22.3638734 8.54292116,22.1232775 L16.0200252,5.5 Z M20.2869346,7.61787709 L13.592354,22.5 L11.3464501,22.5 L18.6725949,6.21545624 C19.2949167,6.57318436 19.8432993,7.05121043 20.2869346,7.61787709 Z"/>
+    <filter id="sky-d" width="115.9%" height="120.6%" x="-8%" y="-7.4%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none">
+    <use fill="#000" filter="url(#sky-a)" xlink:href="#sky-b"/>
+    <use fill="#0072FF" fill-rule="evenodd" xlink:href="#sky-b"/>
+    <use fill="url(#sky-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#sky-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#sky-d)" xlink:href="#sky-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#sky-e"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="gup-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="gup-b" cx="16" cy="15" r="15"/>
+    <filter id="gup-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="gup-e" d="M15.9896177,11.6785074 L13.2057104,8.87510431 C14.0415036,7.51611121 14.9754704,6.22091158 16.0000432,5 C17.0228599,6.21548371 17.9554662,7.50513527 18.7903051,8.85850429 L15.9896177,11.6785074 Z M21.7082546,14.4895106 C22.4944368,16.691013 23.6468024,18.8926154 22.5482523,21.0074178 C21.846544,22.3430378 20.762047,23.4351112 19.4357927,24.1416213 C15.8171501,26.0612234 11.3371624,24.6514218 9.43078461,21.0074178 C8.32151105,18.8926154 9.6138763,16.5176128 10.4000585,14.3160104 C11.122397,12.6934086 11.8518844,11.1972069 12.6794708,9.75930529 L15.9896177,13.092609 L19.3177363,9.74110527 C20.1927835,11.255007 20.9492779,12.8133087 21.7082546,14.4895106 Z"/>
+    <filter id="gup-d" width="125%" height="117.5%" x="-12.5%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none">
+    <use fill="#000" filter="url(#gup-a)" xlink:href="#gup-b"/>
+    <use fill="#37DCD8" fill-rule="evenodd" xlink:href="#gup-b"/>
+    <use fill="url(#gup-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#gup-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#gup-d)" xlink:href="#gup-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#gup-e"/>
+    </g>
+  </g>
+</svg>

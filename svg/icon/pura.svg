@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="pura-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="pura-b" cx="16" cy="15" r="15"/>
+    <filter id="pura-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="pura-e" d="M11.191913,7 L18.9564516,7 C21.1036629,7.12663356 23.4671433,8.00915839 24.4161895,10.06 C25.6033747,12.671495 25.013427,16.3428019 22.3385479,17.8329901 C19.8725579,19.2436435 16.9228198,18.6866336 14.2149108,18.8023366 C14.1416511,20.1370099 14.5154196,21.6886932 13.5849133,22.8171981 C13.2108748,23.3561683 11.4960218,24 11.4960218,24 C11.4960218,24 11.3379824,22.5514898 11.2800227,19.2906534 C11.2433928,18.39 11.3899122,17.3808416 12.1630991,16.7949503 C13.0681354,16.017287 14.3506302,16.2596236 15.4498858,16.2198118 C17.1097491,16.1764454 18.853942,16.4296236 20.4295656,15.7893466 C22.7416562,14.8453267 22.8259859,10.9859801 20.4955353,10.0130789 C18.117475,9.09074229 15.4902056,9.92990068 13.0461755,9.41990068 C11.93576,9.10869315 11.436982,8.01635651 11.191913,7 Z M7,11.4308416 C9.02994178,11.4670099 11.0636635,11.358505 13.0899153,11.481495 C14.5629394,11.5936435 15.5302555,12.9283168 15.6841548,14.2919603 C13.6395431,14.2811187 11.5912414,14.3570988 9.54617969,14.2666336 C8.28978478,14.1942969 7.36278853,13.1742969 7,12.0493466 L7,11.4308416 Z"/>
+    <filter id="pura-d" width="119.4%" height="120.6%" x="-9.7%" y="-7.4%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#pura-a)" xlink:href="#pura-b"/>
+    <use fill="#333" xlink:href="#pura-b"/>
+    <use fill="url(#pura-c)" style="mix-blend-mode:soft-light" xlink:href="#pura-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#pura-d)" xlink:href="#pura-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#pura-e"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="sberbank-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="sberbank-b" cx="16" cy="15" r="15"/>
+    <filter id="sberbank-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="sberbank-e" d="M22.6809817,6.36781609 L23.625767,7.22605364 L11.694479,14.0383142 L5.91779207,10.7126437 L6.45766935,9.63984674 L11.694479,12.6168582 L22.6809817,6.36781609 Z M20.2785278,5 L21.5472394,5.64367816 L11.694479,11.2758621 L7.10552209,8.6743295 L7.88834415,7.73563218 L11.694479,9.90804598 L20.2785278,5 Z M24.4625768,8.11111111 L25.1644172,9.04980843 L11.694479,16.7471264 L5.18895773,13.045977 L5.48589024,11.8659004 L11.694479,15.4061303 L24.4625768,8.11111111 Z M26.406135,11.5708812 C26.801865,12.6796169 27,13.8414559 27,15.0574713 C27,16.2734866 26.801865,17.4535632 26.406135,18.5977011 L26.1361963,19.3218391 C25.5825507,20.6212507 24.7856152,21.8044005 23.7877302,22.8084291 C22.7807896,23.7975389 21.5886156,24.5811258 20.2785278,25.1149425 C18.8932027,25.7049808 17.4625279,26 15.9865034,26 C14.492663,26 13.0619882,25.7049808 11.694479,25.1149425 C10.4165895,24.5785441 9.25585331,23.8098851 8.21227052,22.8084291 C7.18650368,21.789272 6.40368162,20.627433 5.86380434,19.3218391 C5.29315436,17.9716486 4.99948329,16.521873 5.00000068,15.0574713 L5.00000068,14.3333333 L11.694479,18.1149425 L25.81227,10.0689655 L26.406135,11.5708812 Z"/>
+    <filter id="sberbank-d" width="115.9%" height="116.7%" x="-8%" y="-6%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#sberbank-a)" xlink:href="#sberbank-b"/>
+      <use fill="#48B254" fill-rule="evenodd" xlink:href="#sberbank-b"/>
+      <use fill="url(#sberbank-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#sberbank-b"/>
+      <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    </g>
+    <use fill="#000" filter="url(#sberbank-d)" xlink:href="#sberbank-e"/>
+    <use fill="#FFF" xlink:href="#sberbank-e"/>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="block-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="block-b" cx="16" cy="15" r="15"/>
+    <filter id="block-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="block-e" d="M5.52155172,0 L15.75,0 L21,9 L15.75,18 L5.43103448,18 L10.5905172,9 L5.52155172,0 Z M10.9525862,3.16582915 L14.3017241,9 L10.9525862,14.8341709 L13.9396552,14.8341709 L17.2887931,9 L13.9396552,3.16582915 L10.9525862,3.16582915 Z"/>
+    <filter id="block-d" width="122.5%" height="119.4%" x="-11.2%" y="-6.9%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+    <polygon id="block-g" points="6.613 4.026 3.711 9 6.587 13.93 4.748 17.139 0 9 4.789 .789"/>
+    <filter id="block-f" width="152.9%" height="121.4%" x="-26.5%" y="-7.6%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#block-a)" xlink:href="#block-b"/>
+      <use fill="#101341" fill-rule="evenodd" xlink:href="#block-b"/>
+      <use fill="url(#block-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#block-b"/>
+      <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    </g>
+    <g transform="translate(5.5 6)">
+      <use fill="#000" filter="url(#block-d)" xlink:href="#block-e"/>
+      <use fill="#FFF" xlink:href="#block-e"/>
+      <g opacity=".5">
+        <use fill="#000" filter="url(#block-f)" xlink:href="#block-g"/>
+        <use fill="#FFF" xlink:href="#block-g"/>
+      </g>
+    </g>
+  </g>
+</svg>

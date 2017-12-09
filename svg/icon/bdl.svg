@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="bdl-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="bdl-b" cx="16" cy="15" r="15"/>
+    <filter id="bdl-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="bdl-e" d="M9.328,7.61664 C9.30864,7.4704 9.4456,7.3824 9.52544,7.28224 C10.51936,6.29845333 11.5085333,5.30992 12.49296,4.31664 C12.47872,7.03264 12.50112,9.74864 12.48176,12.4648 C14.53104,11.33488 17.11216,11.28464 19.21776,12.29712 C19.216,12.472 19.216,12.64592 19.216,12.82176 C17.53488,11.91776 15.46816,11.80224 13.67456,12.4312 C11.612,13.14288 9.968,14.88944 9.32448,16.968 C9.328,13.8504 9.32352,10.7336 9.328,7.61664 Z M22.71792,19.27936 C22.66672,20.91552 21.96832,22.51696 20.82096,23.68368 C19.83312,24.69808 18.51696,25.39248 17.11808,25.62048 C15.46352,25.89968 13.71184,25.52848 12.31808,24.5928 C10.83888,23.62048 9.76832,22.04 9.44,20.29792 C9.15472,18.9184 9.348,17.45296 9.94112,16.17888 C10.60176,14.75488 11.78384,13.58352 13.20944,12.92592 C15.09312,12.03824 17.3888,12.11296 19.21312,13.11792 C19.20192,14.6118933 19.20224,16.10592 19.21408,17.6 C18.91648,16.98336 18.47376,16.4312 17.8888,16.06512 C16.73216,15.3176 15.12368,15.35344 14.00704,16.16336 C12.77792,17.00912 12.2216,18.6872 12.71104,20.0984 C13.14768,21.48912 14.5312,22.50976 15.99264,22.4944 C17.39872,22.52912 18.75568,21.60992 19.25888,20.29888 C19.57888,19.55648 19.49888,18.73536 19.5064,17.94896 C19.51248,13.8944 19.49616,9.83968 19.49824,5.78512 C19.4992,5.27584 19.50752,4.7656 19.47888,4.25728 C20.568,5.3312 21.648,6.41824 22.7288,7.5032 C22.70624,11.428 22.7288,15.35376 22.71744,19.27952 L22.71792,19.27936 Z"/>
+    <filter id="bdl-d" width="126.1%" height="116.3%" x="-13%" y="-5.8%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#bdl-a)" xlink:href="#bdl-b"/>
+    <use fill="#E54C40" xlink:href="#bdl-b"/>
+    <use fill="url(#bdl-c)" style="mix-blend-mode:soft-light" xlink:href="#bdl-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#bdl-d)" xlink:href="#bdl-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#bdl-e"/>
+    </g>
+  </g>
+</svg>

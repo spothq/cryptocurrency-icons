@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="dcn-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="dcn-a" cx="16" cy="15" r="15"/>
+    <filter id="dcn-b" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="dcn-d" fill="#fff">
+      <use xlink:href="#dcn-a"/>
+    </mask>
+    <use fill="#000" filter="url(#dcn-b)" xlink:href="#dcn-a"/>
+    <use fill="#136485" xlink:href="#dcn-a"/>
+    <use fill="url(#dcn-c)" style="mix-blend-mode:soft-light" xlink:href="#dcn-a"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <path fill="#FFF" d="M21.0525422,30 C18.8186932,23.1840165 17.1796883,18.205228 16.1355277,15.0636346 C16.0875137,15.0628104 16.0395818,15.0619863 15.9915678,15.0611621 C14.8905564,18.1609973 13.2148622,22.886985 10.9644853,29.2391253 L13.9097589,30 L5,30 L5.58340767,26.0772701 C5.71399352,25.8627937 5.89583324,25.5338416 5.916624,25.5009148 C8.15210614,21.9634698 10.1599117,18.3028929 11.671983,14.3917665 C13.2759786,10.2427005 14.5590601,5.98500824 15.7826372,1.70959615 C15.8917972,1.32841484 16.0215581,0.953085165 16.1417162,0.575035714 C16.270328,0.723552198 16.3176033,0.86118956 16.3568353,1.0010522 C17.1244846,3.74390934 17.867101,6.49418407 18.6633945,9.22863462 C20.1139095,14.2095412 22.1545451,18.9347885 24.8582662,23.36325 C25.198933,23.921272 25.7976705,24.883522 26.6544787,26.25 C26.6926111,26.1839507 26.7304878,26.118034 26.7681088,26.0522501 L27,30 L21.0525422,30 Z M16.188638,0.0454690844 L16.2340426,0 L16.3042648,0.0457093263 C16.2657729,0.0454885834 16.2272305,0.0454083022 16.188638,0.0454690844 Z" mask="url(#dcn-d)"/>
+  </g>
+</svg>

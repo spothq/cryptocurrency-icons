@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="mtl-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="mtl-b" cx="16" cy="15" r="15"/>
+    <filter id="mtl-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="mtl-e" d="M8,8 L9,8 L9,22 L8,22 L8,8 Z M13,11 L14,11 L14,20 L13,20 L13,11 Z M18,13 L19,13 L19,18 L18,18 L18,13 Z M23,8 L24,8 L24,22 L23,22 L23,8 Z"/>
+    <filter id="mtl-d" width="121.9%" height="125%" x="-10.9%" y="-8.9%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none">
+    <use fill="#000" filter="url(#mtl-a)" xlink:href="#mtl-b"/>
+    <use fill="#302C2C" fill-rule="evenodd" xlink:href="#mtl-b"/>
+    <use fill="url(#mtl-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#mtl-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#mtl-d)" xlink:href="#mtl-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#mtl-e"/>
+    </g>
+  </g>
+</svg>

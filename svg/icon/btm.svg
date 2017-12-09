@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="btm-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="btm-b" cx="16" cy="15" r="15"/>
+    <filter id="btm-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="btm-e" d="M10.8269,14.3755 L9.0822,18.0742 L9.8942,21.1058 L11.9598,21.6579 L14.5244,24.2248 L13.7516,25 L7.64,23.36 L6,17.2484 L7.2306,16.0201 L12.5716,10.6768 L10.8269,14.3755 L9.0822,18.0742 L14.5244,12.632 L12.5716,10.6768 L10.8269,14.3755 Z M13.632,16.4756 L19.0742,21.9178 L22.1058,21.1058 L22.6602,19.0403 L25.2248,16.4756 L26,17.2484 L24.3623,23.3623 L18.2484,25 L11.6791,18.4284 L13.632,16.4756 Z M18.368,13.5244 L12.9258,8.0822 L9.8919,8.8942 L9.3399,10.9575 L6.7752,13.5244 L6,12.7516 L7.64,6.6377 L13.7516,5 L14.9799,6.2306 L20.3209,11.5693 L18.368,13.5244 Z M20.0403,8.3399 L17.4756,5.7752 L18.2484,5 L24.3623,6.6377 L26,12.7516 L19.4284,19.3209 L17.4756,17.368 L22.9201,11.9235 L22.1058,8.8919 L20.0403,8.3399 Z"/>
+    <filter id="btm-d" width="117.5%" height="117.5%" x="-8.8%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none">
+    <use fill="#000" filter="url(#btm-a)" xlink:href="#btm-b"/>
+    <use fill="#504C4C" fill-rule="evenodd" xlink:href="#btm-b"/>
+    <use fill="url(#btm-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#btm-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#btm-d)" xlink:href="#btm-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#btm-e"/>
+    </g>
+  </g>
+</svg>

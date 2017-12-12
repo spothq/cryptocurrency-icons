@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="krb-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="krb-b" cx="16" cy="15" r="15"/>
+    <filter id="krb-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+  </defs>
+  <g fill="none">
+    <use fill="#000" filter="url(#krb-a)" xlink:href="#krb-b"/>
+    <use fill="#00AEEF" fill-rule="evenodd" xlink:href="#krb-b"/>
+    <use fill="url(#krb-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#krb-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <path fill="#FFF" d="M15.7608696,13.7064901 C15.9976812,13.6648494 16.2081159,13.5765596 16.3921739,13.4414776 C16.5762319,13.3063956 16.75,13.0778725 16.9130435,12.7662109 L20.5382609,5.77929697 C20.6801449,5.54547926 20.853913,5.35859681 21.053913,5.21306889 C21.2537681,5.0728355 21.4905797,5 21.7536232,5 L24.0527536,5 L19.5386957,13.2182489 C19.3386957,13.5559538 19.1124638,13.8312692 18.8598551,14.044195 C18.602029,14.2571208 18.317971,14.4182461 18.0075362,14.5272847 C18.4915942,14.6519207 18.8966667,14.8545436 19.2281159,15.1401618 C19.5543478,15.4207717 19.8647826,15.8157147 20.1542029,16.3245616 L24.5,25 L21.9692754,25 C21.4589855,25 21.0484058,24.7246847 20.7381159,24.1792054 L17.1762319,16.8285432 C16.992029,16.5012843 16.7921739,16.2676097 16.5763768,16.1273763 C16.3605797,15.9871429 16.0871014,15.9040045 15.7608696,15.8831126 L15.7608696,19.6130346 L13.7721739,19.6130346 L13.7721739,15.8673721 L12.3095652,15.8673721 L12.3095652,25 L9.5,25 L9.5,5 L12.3095652,5 L12.3095652,13.7376849 L13.7721739,13.7376849 L13.7721739,9.41563459 L15.7608696,9.41563459 L15.7608696,13.7064901 Z"/>
+  </g>
+</svg>

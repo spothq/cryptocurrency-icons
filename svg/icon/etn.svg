@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="etn-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="etn-b" cx="16" cy="15" r="15"/>
+    <filter id="etn-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="etn-e" d="M19.87871,12.4688456 L23.11777,9.05747126 C24.5116423,10.7218331 25.2739465,12.8240124 25.27069,14.9945027 C25.27069,20.112004 21.12006,24.2605597 16,24.2605597 C14.4374719,24.2628069 12.8999583,23.8684632 11.53158,23.1144928 L19.7697,18.8684158 L21.11247,18.1757621 L19.86947,17.3169815 L18.981,16.7030485 L21.57095,15.3808496 L22.85872,14.7232684 L21.70548,13.8510745 L19.87871,12.4688456 Z M12.12129,18.0034783 L9.10124,21.1837481 C7.62669,19.5429285 6.72931,17.3736032 6.72931,14.9945027 C6.72931,9.8770015 10.87994,5.72844578 16,5.72844578 C17.7348316,5.72599255 19.4352084,6.21245357 20.906,7.132004 L12.2303,11.604018 L10.88753,12.2966717 L12.13053,13.1554523 L13.019,13.7693853 L10.42905,15.091914 L9.14128,15.7494953 L10.29452,16.6216892 L12.12129,18.0034783 Z M8.53628,21.7786607 L7.91115,22.4369015 C6.10495,20.4773513 5,17.8626387 5,14.9945027 C5,8.93213393 9.9346,4 16,4 C18.49348,4 20.796,4.83404298 22.64279,6.23705147 L21.74079,6.70189905 C20.055892,5.53075787 18.0522719,4.90405934 16,4.90627686 C10.43455,4.90627686 5.90673,9.43183408 5.90673,14.9945027 C5.90673,17.6042679 6.903,19.986007 8.53628,21.7786607 Z M23.68427,8.46145927 L24.31182,7.80057971 C25.9858,9.73011494 27,12.2458771 27,14.9945027 C27,21.0568716 22.0654,25.9890055 16,25.9890055 C13.7648389,25.9914111 11.5825965,25.3093047 9.74705,24.0345127 L10.67105,23.5581209 C12.2688591,24.5564594 14.1156789,25.0848329 16,25.0827286 C21.56545,25.0827286 26.09327,20.5571714 26.09327,14.9945027 C26.09327,12.5045777 25.18555,10.2228886 23.68427,8.46145927 Z M10.84166,15.8990205 L14.78318,13.8863668 L12.64643,12.409915 L24.47528,6.31192404 L18.52296,12.58 L21.15834,14.5733033 L17.21682,16.585957 L19.35357,18.0624088 L7.52472,24.1603998 L13.47704,17.8923238 L10.84166,15.8990205 Z"/>
+    <filter id="etn-d" width="115.9%" height="115.9%" x="-8%" y="-5.7%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none">
+    <use fill="#000" filter="url(#etn-a)" xlink:href="#etn-b"/>
+    <use fill="#23BEE2" fill-rule="evenodd" xlink:href="#etn-b"/>
+    <use fill="url(#etn-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#etn-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#etn-d)" xlink:href="#etn-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#etn-e"/>
+    </g>
+  </g>
+</svg>

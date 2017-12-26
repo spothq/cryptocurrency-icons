@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="req-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="req-b" cx="16" cy="15" r="15"/>
+    <filter id="req-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="req-e" d="M10,5 L16.6071261,5 C17.5091483,5.00739996 18.1810767,5.05739971 18.6229113,5.14999925 C20.0991146,5.41559792 21.436038,6.32669337 22.2119674,7.58558707 C23.1296238,9.04337978 23.2497349,10.9444703 22.5518062,12.5111624 C21.9196429,13.9533552 20.597504,15.0822496 19.0521706,15.4911475 C18.070992,15.7689462 17.0411776,15.6655467 16.0341006,15.6844466 C17.1844113,17.5533261 18.9061046,20.3592454 21.1991807,24.1022045 L19.76937,25 C16.7741395,20.1206911 14.5290422,16.460676 13.0340779,14.0199549 C14.6270275,14.0121549 16.219977,14.0321548 17.811703,14.009955 C19.649361,13.9610552 21.2558714,12.3677632 21.294413,10.5655722 C21.414626,9.00887996 20.3848116,7.45668772 18.8789374,6.94439028 C18.4627973,6.78512441 17.8083383,6.71142478 16.9155606,6.72329138 L10,6.72219139 L10,5 Z"/>
+    <filter id="req-d" width="126.9%" height="117.5%" x="-13.5%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none">
+    <use fill="#000" filter="url(#req-a)" xlink:href="#req-b"/>
+    <use fill="#6CFCCD" fill-rule="evenodd" xlink:href="#req-b"/>
+    <use fill="url(#req-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#req-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#req-d)" xlink:href="#req-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#req-e"/>
+    </g>
+  </g>
+</svg>

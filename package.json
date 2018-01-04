@@ -1,0 +1,16 @@
+{
+  "name": "cryptocurrency-icons",
+  "description": "A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.",
+  "version": "0.0.1",
+  "keywords": ["cryptocurrency", "icon"],
+  "homepage": "https://github.com/cjdowner/cryptocurrency-icons",
+  "author": {
+    "name": "Christopher Downer",
+    "web": "https://github.com/cjdowner"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cjdowner/cryptocurrency-icons.git"
+  },
+  "license": "CC0-1.0"
+}

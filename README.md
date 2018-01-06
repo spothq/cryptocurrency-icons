@@ -1,6 +1,6 @@
 # Cryptocurrency Icons
 
-This download contains over 2000 icons – 153 crypto, and fiat currencies, in 4 styles and a range of sizes. Completely free. All I ask is that you don’t claim them as your own, and share this resource with others.
+This download contains over 2000 icons – 161 crypto, and fiat currencies, in 4 styles and a range of sizes. Completely free. All I ask is that you don’t claim them as your own, and share this resource with others.
 
 Images are in the PNG format (transparent) in 32×32, 64×64(@2x), 128×128, and 256×256(@2x) variants, along with SVG versions.
 
@@ -15,13 +15,13 @@ If there is an altcoin you’re looking for that hasn’t been included, please 
 If you find these icons useful, or if you’ve used them for your projects, please consider making a donation. I have invested over 100 hours in creating and maintaining this project, and your donations will help ensure it continues.
 
 **Bitcoin**
-`1EoTAPJAZSaZjbQwFFmGi8c6HfdLGVkYWq`
+`1JoyuwysWLtxd8twdXx6G1ZJ7DHf2jcu8Q`
 
 **Ethereum**
-`0xd301Ad9f4de0B93844724dC3F6ee65C9F3670a6c`
+`0x2a47661bc70478D965C0Fb6121309Cc877BD9508`
 
 **Litecoin**
-`LaZyVy2cJKAynxdANn22P72KVp39X258hG`
+`LW2Nk8T24Dp69DoqaQX2srBGU6jYVx5A9X`
 
 
 ## License

@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <g fill="none">
-    <circle cx="16" cy="16" r="16" fill="#00CBFF"/>
-    <path fill="#FFF" d="M9.61064631,10.3351 L8,7 L23.9993948,7 L22.4081268,10.3351 L23.9993948,10.3351 L15.9512824,27 L8,10.3351 L9.61064631,10.3351 Z M9.61064631,10.3351 L16.0481124,23.6649 L22.4081268,10.3351 L9.61064631,10.3351 Z"/>
-    <polygon fill="#FFF" points="16 24.5 8 7 23.999 7" opacity=".504"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><g fill="none"><circle cx="16" cy="16" r="16" fill="#00CBFF"/><path fill="#FFF" d="M9.61 10.335L8 7h16l-1.592 3.335H24L15.951 27 8 10.335h1.61zm0 0l6.438 13.33 6.36-13.33H9.611z"/><path fill="#FFF" opacity=".504" d="M16 24.5L8 7h15.999z"/></g></svg>

@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <g fill="#FFF" fill-rule="evenodd">
-    <path d="M16,32 C7.163444,32 0,24.836556 0,16 C0,7.163444 7.163444,0 16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 Z M23.9936687,16.2190405 L16.4977734,4 L9.00005273,16.2199022 L16.497709,20.5731108 L23.9936687,16.2190405 Z M23.9999473,17.6164144 L16.4977734,21.9674935 L9,17.6164144 L16.4977207,27.9946245 L23.9999473,17.6164144 Z"/>
-    <g fill-rule="nonzero" transform="translate(9 4)">
-      <polygon fill-opacity=".5" points="7.498 0 7.498 8.87 14.995 12.22"/>
-      <polygon points="7.498 0 0 12.22 7.498 8.87" opacity=".8"/>
-      <polygon fill-opacity=".5" points="7.498 17.968 7.498 23.995 15 13.616"/>
-      <polygon points="7.498 23.995 7.498 17.967 0 13.616" opacity=".796"/>
-      <polygon fill-opacity=".5" points="0 12.22 7.498 16.573 7.498 8.872"/>
-    </g>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><g fill="#FFF" fill-rule="evenodd"><path d="M16 32C7.163 32 0 24.837 0 16S7.163 0 16 0s16 7.163 16 16-7.163 16-16 16zm7.994-15.781L16.498 4 9 16.22l7.498 4.353 7.496-4.354zM24 17.616l-7.502 4.351L9 17.617l7.498 10.378L24 17.616z"/><g fill-rule="nonzero"><path fill-opacity=".5" d="M16.498 4v8.87l7.497 3.35z"/><path opacity=".8" d="M16.498 4L9 16.22l7.498-3.35z"/><path fill-opacity=".5" d="M16.498 21.968v6.027L24 17.616z"/><path opacity=".796" d="M16.498 27.995v-6.028L9 17.616z"/><path fill-opacity=".5" d="M9 16.22l7.498 4.353v-7.701z"/></g></g></svg>

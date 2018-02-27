@@ -9,6 +9,16 @@ If there is an altcoin you’re looking for that hasn’t been included, please 
 
 ![hero](img/hero@2x.jpg)
 
+## Building
+
+The build system requires node and npm to be installed on your system.  After they are installed you can install the npm dependencies with
+
+    npm install
+
+You can then build with
+
+    npm run build
+
 
 ## Donate
 

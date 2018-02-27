@@ -1,0 +1,13 @@
+.crypto-icon-32 {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  background-size: cover;
+}
+
+.crypto-icon-128 {
+  display: inline-block;
+  width: 128px;
+  height: 128px;
+  background-size: cover;
+}

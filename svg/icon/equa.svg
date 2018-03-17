@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="equa-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="equa-b" cx="16" cy="15" r="15"/>
+    <filter id="equa-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="equa-e" d="M16.7191076,9.07822743 C16.7191076,9.07822743 12.5932722,9.68401402 11.9915879,14.2706839 C11.9915879,14.2706839 11.3538025,19.4051579 16.5996303,20.7906784 C16.9630327,20.8863337 17.33713,20.9346144 17.7127463,20.9343363 L17.970611,20.9343363 C18.5048857,20.9341068 19.0173558,21.1476326 19.3952256,21.5279165 C19.7730955,21.9082003 19.9853941,22.4240733 19.985394,22.9619906 C19.9896775,24.0222754 19.1789517,24.9054161 18.1287681,24.9844524 C15.5501209,25.1575343 12.0887169,23.8923057 9.84271524,20.8477954 C9.84271524,20.8477954 5.44440277,14.522518 10.2381078,8.71129384 C11.3719379,7.32772468 12.8468621,6.26830358 14.5152239,5.63909044 C16.4853103,4.90176162 19.3708164,4.42751727 21.8764019,6.39545826 C21.8764019,6.39545826 25.2286432,8.99168649 23.5095451,13.2321926 C23.5095451,13.2321926 22.3061764,16.6072893 18.180341,16.8669121 L17.6070218,16.834892 C17.0585993,16.8210179 16.5429124,16.5691094 16.192667,16.1439922 C15.8424216,15.7188749 15.6918211,15.1620639 15.7796205,14.6168477 C15.9257722,13.7127083 16.6881442,13.0398598 17.5975668,13.0123786 L18.180341,12.9725698 C18.180341,12.9725698 20.1573038,12.8860288 19.985394,10.5494234 C19.985394,10.5494234 19.8134842,8.47244085 16.7191076,9.07822743"/>
+    <filter id="equa-d" width="121.9%" height="117.5%" x="-10.9%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#equa-a)" xlink:href="#equa-b"/>
+      <use fill="#F68922" fill-rule="evenodd" xlink:href="#equa-b"/>
+      <use fill="url(#equa-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#equa-b"/>
+      <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#equa-d)" xlink:href="#equa-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#equa-e"/>
+    </g>
+  </g>
+</svg>

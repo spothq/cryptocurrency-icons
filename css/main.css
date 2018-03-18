@@ -1,0 +1,131 @@
+/* Search control */
+.form-control.search {
+  margin: 0 auto;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='#6c757d'  stroke-opacity='.5' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-search'><circle cx='11' cy='11' r='8'></circle><line x1='21' y1='21' x2='16.65' y2='16.65'></line></svg>");
+  background-repeat: no-repeat;
+  background-position: 1rem center;
+  background-size: 24px auto;
+  padding-left: 3rem;
+  padding-right: 2rem;
+  border-radius: 2rem;
+}
+.close-search {
+  width: 18px;
+  height: 24px;
+  display: block;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='#6c757d' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-x-circle'><circle cx='12' cy='12' r='10'></circle><line x1='15' y1='9' x2='9' y2='15'></line><line x1='9' y1='9' x2='15' y2='15'></line></svg>");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100% auto;
+  float: right;
+  margin-top: -36px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.close-search:hover {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='#007bff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-x-circle'><circle cx='12' cy='12' r='10'></circle><line x1='15' y1='9' x2='9' y2='15'></line><line x1='9' y1='9' x2='15' y2='15'></line></svg>");
+}
+
+/* Icons list */
+.icons {
+  margin-right: -10px;
+  margin-left: -10px;
+}
+.col-6,
+.col-sm-4,
+.col-lg-3,
+.col-xl-2 {
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-bottom: 20px;
+}
+.icon a,
+.icon span.placeholder {
+  border-radius: .3rem;
+  -webkit-transition: all .1s ease-in-out;
+     -moz-transition: all .1s ease-in-out;
+          transition: all .1s ease-in-out;
+}
+.icon a img {
+  width: 24px;
+  height: auto;
+}
+
+/* Icons list: Hover state */
+.icon a:hover {
+  background-color: #FFF !important;
+  box-shadow: 0 0 0 1px  rgba(0, 0, 0, 0.1),
+              0 4px 16px rgba(0, 0, 0, 0.1);
+  /* transform: scale(1.1); */
+  text-decoration: none;
+}
+.icon a:hover::after {
+  content: " ";
+  width: 18px;
+  height: 24px;
+  display: block;
+  float: right;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='#6c757d' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-plus-circle'><circle cx='12' cy='12' r='10'></circle><line x1='12' y1='8' x2='12' y2='16'></line><line x1='8' y1='12' x2='16' y2='12'></line></svg>");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100% auto;
+}
+
+/* Icons list: Placeholder */
+.placeholder {
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: backgroundLoading;
+  animation-timing-function: linear;
+  background: linear-gradient(to right, #f8f9fa 8%, #ffffff 18%, #f8f9fa 33%);
+  background-size: 500px 500px;
+}
+@keyframes backgroundLoading {
+  0%{
+    background-position: -500px 0
+  }
+  100%{
+    background-position: 500px 0
+  }
+}
+
+/* Modal */
+.modal-backdrop.show {
+  opacity: .66;
+}
+.modal-body {
+  padding: 0;
+  border-radius: .3rem !important;
+}
+
+/* Infos icon */
+.info-icon {
+  width: 100%;
+}
+.info-icon td,
+.info-icon th {
+  padding: 1rem;
+}
+.info-icon thead th {
+  border-top: none;
+  border-bottom-width: 1px;
+}
+.info-icon .variant-white {
+  background-color: #343a40 !important;
+}
+.info-icon .format-svg img,
+.info-icon .format-128 img {
+  width: 100%;
+  height: auto;
+}
+.info-icon .format-svg img {
+  max-width: 48px;
+}
+.info-icon .format-128 img {
+  max-width: 128px;
+}
+.info-icon .format-32-2x img {
+  width: 32px;
+  height: auto;
+}

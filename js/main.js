@@ -33,12 +33,14 @@ $(document).ready(function() {
     $.each(data.icons, function(key, val) {
 
       // Construct icon
-      icons += "<div class=\"col-6 col-sm-4 col-lg-3 col-xl-2 text-left icon\">";
-      icons +=   "<a href=\"#" + val + "\" class=\"bg-light text-muted text-uppercase d-block p-4\" data-toggle=\"modal\" data-target=\"#infoIcon\" data-icon=\"" + val + "\">";
-      icons +=     "<img class=\"mr-2\" src=\"svg/" + iconDefault + "/" + val + ".svg\" alt=\"" + val + "\" onerror=\"error(this);\">" + val;
-      icons +=   "</a>";
-      icons += "</div>";
-      count++;
+      if (icons.indexOf("data-icon=\"" + val + "\"") == -1) {
+        icons += "<div class=\"col-6 col-sm-4 col-lg-3 col-xl-2 text-left icon\">";
+        icons +=   "<a href=\"#" + val + "\" class=\"bg-light text-muted text-uppercase d-block p-4\" data-toggle=\"modal\" data-target=\"#infoIcon\" data-icon=\"" + val + "\">";
+        icons +=     "<img class=\"mr-2\" src=\"svg/" + iconDefault + "/" + val + ".svg\" alt=\"" + val + "\" onerror=\"error(this);\">" + val;
+        icons +=   "</a>";
+        icons += "</div>";
+        count++;
+      }
 
     });
 

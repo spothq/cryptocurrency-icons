@@ -63,7 +63,8 @@
     "svgstore": "npm run svgstore:black && npm run svgstore:color && npm run svgstore:icon && npm run svgstore:white",
     "clean": "rimraf build && rimraf dist",
     "build": "npm run minify-images && npm run imacss && npm run svgstore",
-    "prebuild": "npm run clean"
+    "prebuild": "npm run clean",
+    "table": "node src/table.js"
   },
   "repository": {
     "type": "git",
@@ -75,7 +76,13 @@
     "concat": "^1.0.3",
     "imacss": "^1.0.0",
     "imagemin-cli": "^3.0.0",
+    "lodash": "^4.17.5",
+    "markdown-table": "^1.1.1",
     "mkdirp": "^0.5.1",
+    "node-dir": "^0.1.17",
+    "path": "^0.12.7",
+    "recursive-readdir": "^2.2.2",
+    "request": "^2.85.0",
     "rimraf": "^2.6.2",
     "svgstore-cli": "^1.3.1"
   }

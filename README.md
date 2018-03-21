@@ -1,11 +1,10 @@
 # Cryptocurrency Icons
 
-This download contains over 2000 icons – 291 crypto, and fiat currencies, in 4 styles and a range of sizes. Completely free. All I ask is that you don’t claim them as your own, and share this resource with others.
+[This project](http://cryptoicons.co) contains over 2000 icons – 291 crypto, and fiat currencies, in 4 styles and a range of sizes. Completely free. All I ask is that you don’t claim them as your own, and share this resource with others.
 
 Images are in the PNG format (transparent) in 32×32, 64×64(@2x), 128×128, and 256×256(@2x) variants, along with SVG versions.
 
 If there is an altcoin you’re looking for that hasn’t been included, please create a new issue and I shall include it.
-
 
 ![hero](img/hero@2x.jpg)
 
@@ -18,7 +17,6 @@ The build system requires node and npm to be installed on your system.  After th
 You can then build with
 
     npm run build
-
 
 ## Donate
 

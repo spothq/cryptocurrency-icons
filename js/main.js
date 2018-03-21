@@ -8,6 +8,7 @@ $(document).ready(function() {
   var variants    = ["color", "black", "icon", "white"];
   var iconDefault = "black";
   var iconHover   = "color";
+  var url = 'https://api.coinmarketcap.com/v1/ticker/?limit=0'
 
 
   // ------------------------------
@@ -26,40 +27,43 @@ $(document).ready(function() {
   // ------------------------------
   // Get list of icons in manifest
   // ------------------------------
-  $.getJSON(dataJson, function(data) {
+  $.get(url, function(coins){
+    $.getJSON(dataJson, function(data) {
+      var icons = "";
+      var count = 0;
+      data.icons.forEach(function(icon) {
+        var coin = coins.find(function(coin){
+          return coin.symbol.toLowerCase() === icon
+        })
+        var name = coin ? coin.name.toLowerCase() : icon
+        // Construct icon
+        if (icons.indexOf("data-icon=\"" + icon + "\"") === -1) {
+          icons += "<div class=\"col-6 col-sm-4 col-lg-3 col-xl-2 text-left icon\">";
+          icons +=   "<a href=\"#" + icon + "\" class=\"bg-light text-muted text-uppercase d-block p-4\" data-toggle=\"modal\" data-target=\"#infoIcon\" data-icon=\"" + icon + "\" data-name=\"" + name + "\">";
+          icons +=     "<img class=\"mr-2\" src=\"svg/" + iconDefault + "/" + icon + ".svg\" alt=\"" + icon + "\" onerror=\"error(this);\">" + icon;
+          icons +=   "</a>";
+          icons += "</div>";
+          count++;
+        }
+      });
 
-    var icons = "";
-    var count = 0;
-    $.each(data.icons, function(key, val) {
+      // Display
+      $(".row.icons").html(icons);
 
-      // Construct icon
-      if (icons.indexOf("data-icon=\"" + val + "\"") == -1) {
-        icons += "<div class=\"col-6 col-sm-4 col-lg-3 col-xl-2 text-left icon\">";
-        icons +=   "<a href=\"#" + val + "\" class=\"bg-light text-muted text-uppercase d-block p-4\" data-toggle=\"modal\" data-target=\"#infoIcon\" data-icon=\"" + val + "\">";
-        icons +=     "<img class=\"mr-2\" src=\"svg/" + iconDefault + "/" + val + ".svg\" alt=\"" + val + "\" onerror=\"error(this);\">" + val;
-        icons +=   "</a>";
-        icons += "</div>";
-        count++;
-      }
+      // Hover
+      $(".icon").hover(function() {
+        changeFolder($(this), iconDefault, iconHover);
+      });
+
+      // Mouseleave
+      $(".icon").mouseleave(function() {
+        changeFolder($(this), iconHover, iconDefault );
+      });
+
+      // Count icons
+      $(".count-cryptos").text(count);
 
     });
-
-    // Display
-    $(".row.icons").html(icons);
-
-    // Hover
-    $(".icon").hover(function() {
-      changeFolder($(this), iconDefault, iconHover);
-    });
-
-    // Mouseleave
-    $(".icon").mouseleave(function() {
-      changeFolder($(this), iconHover, iconDefault );
-    });
-
-    // Count icons
-    $(".count-cryptos").text(count);
-
   });
 
 
@@ -167,6 +171,7 @@ $(document).ready(function() {
       // Filter icons
       $(".icon").css("display", "none");
       $("a[data-icon*='" + $(target).val().toLowerCase() + "']").parent().css("display", "block");
+      $("a[data-name*='" + $(target).val().toLowerCase() + "']").parent().css("display", "block");
 
       // Close
       $("<div class=\"close-search\"></div>").insertAfter(target);

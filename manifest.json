@@ -1,7 +1,6 @@
 {
   "icons": [
 	"$pac",
-    "_default",
 	"act",
 	"ada",
 	"adx",
@@ -69,6 +68,7 @@
 	"dbc",
 	"dcn",
 	"dcr",
+	"default",
 	"dent",
 	"dew",
 	"dgb",

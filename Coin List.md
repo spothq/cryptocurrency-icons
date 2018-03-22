@@ -4,7 +4,6 @@
 Symbol | Name
 ---------|---------
 $pac     | PACcoin
-_default | Placeholder Coin
 act      | Achain
 ada      | Cardano
 adx      | AdEx
@@ -71,7 +70,8 @@ dat      | Datum
 data     | Streamr DATAcoin            	
 dbc      | DeepBrain Chain             	
 dcn      | Dentacoin                   	
-dcr      | Decred                      	
+dcr      | Decred  
+default  | Placeholder Coin  
 dent     | Dent                        	
 dew      | DEW                         	
 dgb      | DigiByte                    	

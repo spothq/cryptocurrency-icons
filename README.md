@@ -1,6 +1,6 @@
 # Cryptocurrency Icons
 
-[This project](http://cryptoicons.co) contains over 2000 icons – 303 crypto, and fiat currencies, in 4 styles and a range of sizes. Completely free. All I ask is that you don’t claim them as your own, and share this resource with others.
+[This project](http://cryptoicons.co) contains over 2000 icons – [302 crypto, and fiat currencies](Coin List.md), in 4 styles and a range of sizes. Completely free. All I ask is that you don’t claim them as your own, and share this resource with others.
 
 Images are in the PNG format (transparent) in 32×32, 64×64(@2x), and 128×128 variants, along with SVG versions.
 

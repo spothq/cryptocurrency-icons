@@ -1,5 +1,5 @@
 # Coin List
-###### As of 22 March 2018 — [http://cryptoicons.co](http://cryptoicons.co)
+###### As of 23 March 2018 — [http://cryptoicons.co](http://cryptoicons.co)
 
 Symbol | Name
 ---------|---------
@@ -71,7 +71,6 @@ data     | Streamr DATAcoin
 dbc      | DeepBrain Chain             	
 dcn      | Dentacoin                   	
 dcr      | Decred  
-default  | Placeholder Coin  
 dent     | Dent                        	
 dew      | DEW                         	
 dgb      | DigiByte                    	
@@ -116,7 +115,8 @@ game     | GameCredits
 gas      | Gas                         	
 gbp      | Great Britain Pound (Fiat)                           
 gbx      | GoByte                      	
-gbyte    | Byteball Bytes              	
+gbyte    | Byteball Bytes
+generic  | Placeholder (Missing) Coin
 gno      | Gnosis                      	
 gnt      | Golem                       	
 grc      | GridCoin                    	

@@ -26,7 +26,7 @@
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='#007bff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-x-circle'><circle cx='12' cy='12' r='10'></circle><line x1='15' y1='9' x2='9' y2='15'></line><line x1='9' y1='9' x2='15' y2='15'></line></svg>");
 }
 
-/* Icons list */
+/* Icons list: Grid */
 .icons {
   margin-right: -10px;
   margin-left: -10px;
@@ -39,6 +39,22 @@
   padding-left: 10px;
   margin-bottom: 20px;
 }
+
+/* Icons list: Format */
+.icon .container-img {
+  flex: 0 0 32px;
+  max-width: 32px;
+  margin-right: .75rem;
+}
+.icon .name {
+  line-height: 1.2rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.icon .symbol {
+  display: block;
+}
 .icon a,
 .icon span.placeholder {
   border-radius: .3rem;
@@ -47,8 +63,10 @@
           transition: all .1s ease-in-out;
 }
 .icon a img {
-  width: 24px;
+  width: 32px;
   height: auto;
+  display: block;
+  float: left;
 }
 
 /* Icons list: Hover state */
@@ -56,14 +74,14 @@
   background-color: #FFF !important;
   box-shadow: 0 0 0 1px  rgba(0, 0, 0, 0.1),
               0 4px 16px rgba(0, 0, 0, 0.1);
-  /* transform: scale(1.1); */
   text-decoration: none;
 }
-.icon a:hover::after {
+
+.icon a:hover .row::after {
   content: " ";
   width: 18px;
-  height: 24px;
-  display: block;
+  height: 18px;
+  margin-right: 1rem;
   float: right;
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='#6c757d' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-plus-circle'><circle cx='12' cy='12' r='10'></circle><line x1='12' y1='8' x2='12' y2='16'></line><line x1='8' y1='12' x2='16' y2='12'></line></svg>");
   background-repeat: no-repeat;

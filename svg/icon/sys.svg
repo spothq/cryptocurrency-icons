@@ -1,1 +1,33 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="a" height="111.7%" width="111.7%" x="-5.8%" y="-4.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.199473505 0"/></filter><path id="e" d="M18.046 14.103a.117.117 0 0 0-.114.041.108.108 0 0 0 .023.156C22.334 17.478 16.101 24.754 4 17.011c10.26 9.655 24.547-1.01 14.046-2.908zm-5.844-4.248c-9.086 2.907 1.323 9.763 2.226 6.3a.11.11 0 0 0-.083-.137.12.12 0 0 0-.064.001c-1.337.435-8.701-1.624-2.08-6.164zM28 11.602c-7.867-5.61-22.628-.984-15.013 2.977a.119.119 0 0 0 .157-.047.11.11 0 0 0 .003-.098C10.05 7.89 25.781 9.88 28 11.602zm-6.528 8.151c4.159-1.89.777-8.361-4.724-7.112a.116.116 0 0 1-.138-.085.107.107 0 0 1 .04-.11c4.28-3.216 12.314 4.292 4.822 7.307z"/><filter id="d" height="129.2%" width="114.6%" x="-7.3%" y="-10.4%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.204257246 0"/></filter></defs><g fill="none"><use fill="#000" filter="url(#a)" xlink:href="#b"/><use fill="#0082c6" fill-rule="evenodd" xlink:href="#b"/><use fill="url(#c)" fill-rule="evenodd" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/><use fill="#000" filter="url(#d)" xlink:href="#e"/><use fill="#fff" fill-rule="evenodd" xlink:href="#e"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="sys-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="sys-b" cx="16" cy="15" r="15"/>
+    <filter id="sys-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="sys-e" d="M18.04586,14.1026012 C18.0023182,14.0944739 17.9587764,14.1107286 17.9321675,14.144399 C17.8934637,14.1931631 17.9043491,14.2628261 17.9551479,14.2999797 C22.3335181,17.4777739 16.1009928,24.7540749 4,17.0110317 C14.2601421,26.6663244 28.5466915,16.0009181 18.04586,14.1026012 Z M12.2015824,9.85547992 C3.1158595,12.7615883 13.5247694,19.6175892 14.4282619,16.1541768 C14.4439853,16.0949632 14.4077004,16.0334275 14.3448067,16.0183339 C14.3242453,16.0125286 14.3012649,16.0136897 14.2807035,16.0194949 C12.9442121,16.4537277 5.57959986,14.3951858 12.2015824,9.85547992 Z M28,11.6016993 C20.1334476,5.99150516 5.3715668,10.6182898 12.9865444,14.5786318 C13.0433906,14.607658 13.1135413,14.5867591 13.1437787,14.5321898 C13.1607116,14.5020024 13.1619211,14.4648488 13.1474071,14.4335005 C10.0498916,7.89098314 25.7805775,9.88102302 28,11.6016993 Z M21.472358,19.7534321 C25.6306002,17.8620815 22.2488535,11.3915492 16.7480724,12.6408391 C16.6851787,12.6536107 16.6234944,12.615296 16.61019,12.5560825 C16.600514,12.5154457 16.6162375,12.4736479 16.6501033,12.4469438 C20.9305045,9.22967391 28.9639671,16.738185 21.472358,19.7534321 Z"/>
+    <filter id="sys-d" width="114.6%" height="129.2%" x="-7.3%" y="-10.4%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#sys-a)" xlink:href="#sys-b"/>
+      <use fill="#0082C6" fill-rule="evenodd" xlink:href="#sys-b"/>
+      <use fill="url(#sys-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#sys-b"/>
+      <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#sys-d)" xlink:href="#sys-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#sys-e"/>
+    </g>
+  </g>
+</svg>

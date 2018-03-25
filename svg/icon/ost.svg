@@ -1,1 +1,33 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="a" height="111.7%" width="111.7%" x="-5.8%" y="-4.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.199473505 0"/></filter><path id="e" d="M23.082 22.998c-1.769-1.727-3.95-2.441-6.363-2.59-2.053-.127-4.016.217-5.852 1.158a7.15 7.15 0 0 0-1.836 1.333c-.035.036-.076.068-.113.101A10.609 10.609 0 0 1 7.875 7.506c4.32-4.653 11.84-4.68 16.2-.048a10.603 10.603 0 0 1-.993 15.54zM12.02 14.795c.001 2.161 1.77 3.9 3.971 3.904 2.212.004 4.003-1.74 4.005-3.899.003-2.152-1.801-3.915-4-3.91-2.196.005-3.977 1.755-3.976 3.905z"/><filter id="d" height="118.4%" width="115.9%" x="-8%" y="-6.6%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.204257246 0"/></filter></defs><g fill="none"><use fill="#000" filter="url(#a)" xlink:href="#b"/><use fill="#bbdfd0" fill-rule="evenodd" xlink:href="#b"/><use fill="url(#c)" fill-rule="evenodd" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/><use fill="#000" filter="url(#d)" xlink:href="#e"/><use fill="#fff" fill-rule="evenodd" xlink:href="#e"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="ost-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="ost-b" cx="16" cy="15" r="15"/>
+    <filter id="ost-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="ost-e" d="M23.0821087,22.9981669 C21.3133372,21.2711372 19.1319623,20.5567533 16.7190411,20.4077302 C14.6663642,20.2809203 12.7031158,20.6253342 10.8671353,21.5656251 C10.1851463,21.9149992 9.56915623,22.3557066 9.03137488,22.898854 C8.99551546,22.9350854 8.95503611,22.9668957 8.91774671,23 C4.22302228,19.1739219 3.59064246,12.1197992 7.8749635,7.50611965 C12.1959139,2.85329722 19.7149529,2.82558452 24.0756127,7.45770329 C28.406683,12.0585509 27.8038927,19.1409254 23.0821087,22.9981669 Z M12.0192568,14.7954228 C12.0204668,16.9561509 13.7895683,18.6954734 15.9901929,18.698924 C18.2023673,18.7028059 19.9930284,16.9597094 19.9953384,14.8001674 C19.9975384,12.6480659 18.1940074,10.8848048 15.9954728,10.890412 C13.7991381,10.8952644 12.0182668,12.6446153 12.0192568,14.7954228 Z"/>
+    <filter id="ost-d" width="115.9%" height="118.4%" x="-8%" y="-6.6%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#ost-a)" xlink:href="#ost-b"/>
+      <use fill="#BBDFD0" fill-rule="evenodd" xlink:href="#ost-b"/>
+      <use fill="url(#ost-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#ost-b"/>
+      <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#ost-d)" xlink:href="#ost-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#ost-e"/>
+    </g>
+  </g>
+</svg>

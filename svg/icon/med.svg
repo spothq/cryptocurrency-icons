@@ -1,1 +1,31 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="a" height="111.7%" width="111.7%" x="-5.8%" y="-4.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.199473505 0"/></filter><path id="e" d="M15.84 15.005L7 10.002l.003 10.002 2.945 1.667v-6.657l5.893 3.335v-3.336h-.001.001zm5.03-7.159l-2.603 1.472-2.426-1.36-2.431 1.376-2.604-1.486L15.846 5zM16 15.226l9-5.103-.002 10.2L22 22.025v-6.79l-6 3.402v-3.402h.002L16 15.233zm-.379 6.728l2.356-1.417 2.523 1.53L15.616 25l-4.866-2.93 2.523-1.517z"/><filter id="d" height="117.5%" width="119.4%" x="-9.7%" y="-6.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.204257246 0"/></filter></defs><g fill="none" fill-rule="evenodd"><use fill="#000" filter="url(#a)" xlink:href="#b"/><use fill="#00b0ff" xlink:href="#b"/><use fill="url(#c)" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/><g fill-rule="nonzero"><use fill="#000" filter="url(#d)" xlink:href="#e"/><use fill="#fff" fill-rule="evenodd" xlink:href="#e"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="med-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="med-b" cx="16" cy="15" r="15"/>
+    <filter id="med-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="med-e" d="M15.8408443,15.0050916 L7,10.0019094 L7.00256703,20.0038187 L9.9482316,21.671334 L9.9482316,15.014002 L15.841486,18.3490326 L15.841486,15.0133656 L15.8395608,15.0127291 L15.841486,15.0120927 L15.8408443,15.0050916 Z M20.8702938,7.84623218 L18.2666857,9.31771894 L15.841486,7.95888493 L13.4098688,9.33363035 L10.8056189,7.84814155 L15.8466201,5 L20.8702938,7.84623218 Z M16,15.2265784 L25,10.1234725 L24.9980747,20.3233198 L21.9997861,22.0245672 L21.9997861,15.2354888 L16,18.6367108 L16,15.2348523 L16.0019253,15.2342159 L16,15.2335794 L16,15.2265784 Z M15.6213634,21.9539206 L17.9772533,20.537169 L20.5,22.0665733 L15.6155876,25 L10.7504278,22.0691191 L13.2725328,20.5530804 L15.6213634,21.9539206 Z"/>
+    <filter id="med-d" width="119.4%" height="117.5%" x="-9.7%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#med-a)" xlink:href="#med-b"/>
+    <use fill="#00B0FF" xlink:href="#med-b"/>
+    <use fill="url(#med-c)" style="mix-blend-mode:soft-light" xlink:href="#med-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#med-d)" xlink:href="#med-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#med-e"/>
+    </g>
+  </g>
+</svg>

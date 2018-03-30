@@ -1,6 +1,6 @@
 # Cryptocurrency Icons
 
-[This project](http://cryptoicons.co) contains over 2000 icons – [302 crypto, and fiat currencies](https://github.com/cjdowner/cryptocurrency-icons/blob/master/Coin%20List.md), in 4 styles and a range of sizes. Completely free. All I ask is that you don’t claim them as your own, and share this resource with others.
+[This project](http://cryptoicons.co) contains over 2000 icons – [311 crypto, and fiat currencies](https://github.com/cjdowner/cryptocurrency-icons/blob/master/Coin%20List.md), in 4 styles and a range of sizes. Completely free. All I ask is that you don’t claim them as your own, and share this resource with others.
 
 Images are in the PNG format (transparent) in 32×32, 64×64(@2x), and 128×128 variants, along with SVG versions.
 
@@ -18,7 +18,7 @@ You can then build with
 
 ## Donate ☕️
 
-If you find these icons useful, or if you’ve used them for your projects, please consider making a donation. I have invested over 120 hours in creating and maintaining this project, and your donations will help ensure it continues.
+If you find these icons useful, or if you’ve used them for your projects, please consider making a donation. I have invested over 125 hours in creating and maintaining this project, and your donations will help ensure it continues.
 
 **Bitcoin**
 `1JoyuwysWLtxd8twdXx6G1ZJ7DHf2jcu8Q`

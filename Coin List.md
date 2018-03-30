@@ -1,9 +1,10 @@
 # Coin List
-###### As of 23 March 2018 — [http://cryptoicons.co](http://cryptoicons.co)
+###### As of 30 March 2018 — [http://cryptoicons.co](http://cryptoicons.co)
 
 Symbol | Name
 ---------|---------
 $pac     | PACcoin
+abt      | Arcblock
 act      | Achain
 ada      | Cardano
 adx      | AdEx
@@ -20,7 +21,8 @@ ark      | Ark
 arn      | Aeron      
 ary      | BlockArray                  	
 ast      | AirSwap                     	
-atm      | ATMChain                    	
+atm      | ATMChain   
+auto     | Cube                 	
 bat      | Basic Attention Token       	
 bay      | BitBay                      	
 bcc      | BitConnect                  	
@@ -38,7 +40,8 @@ block    | Blocknet
 blz      | Bluzelle                    	
 bnb      | Binance Coin                	
 bnt      | Bancor                      	
-bnty     | Bounty0x                    	
+bnty     | Bounty0x  
+bos      | Boscoin                  	
 bpt      | Blockport                   	
 bq       | bitqy                       	
 brd      | Bread                       	
@@ -53,7 +56,8 @@ btx      | Bitcore
 burst    | Burst                       	
 cdn      | Canada eCoin                	
 cdt      | Blox         
-chips    | Chips               		
+chips    | Chips 
+cix      | Cryptonetix             		
 clam     | Clams                       	
 cloak    | CloakCoin                   	
 cmt      | CyberMiles                  	
@@ -62,7 +66,8 @@ cnx      | Cryptonex
 cny      | Chinese Renminbi (Fiat)                           
 cob      | Cobinhood                   	
 cred     | Verify                      	
-crpt     | Crypterium   
+crpt     | Crypterium 
+cs       | Credits  
 ctr      | Centra               		
 cvc      | Civic                       	
 dash     | Dash                        	
@@ -107,7 +112,8 @@ fair     | FairCoin
 fct      | Factom                      	
 fil      | Filecoin [Future]          	
 fldc     | FoldingCoin                 	
-flo      | FlorinCoin                  	
+flo      | FlorinCoin 
+fsc      | Fusion                 	
 ftc      | Feathercoin                 	
 fuel     | Etherparty                  	
 fun      | FunFair                     	
@@ -155,7 +161,7 @@ lsk      | Lisk
 ltc      | Litecoin                    	
 lun      | Lunyr                       	
 maid     | MaidSafeCoin                	
-mana     | Decentraland                	
+mana     | Decentraland               	
 mcap     | MCAP                        	
 mco      | Monaco      
 mda      | Moeda Loyalty Points                
@@ -169,7 +175,8 @@ mod      | Modum
 mona     | MonaCoin                    	
 mth      | Monetha                     	
 mtl      | Metal                       	
-music    | Musicoin                    	
+music    | Musicoin
+mzc      | MAZA                     	
 nano     | Nano                        	
 nas      | Nebulas                     	
 nav      | NavCoin                     	
@@ -226,12 +233,14 @@ rise     | Rise
 rlc      | iExec RLC                   	
 rpx      | Red Pulse                   	
 rub      | Russian Ruble (Fiat)
+rvn      | Ravencoin
 salt     | SALT                        	
 san      | Santiment Network Token     	
 sbd      | Steem Dollars               	
 sberbank | Sberbank
 sc       | Siacoin                     	
-sky      | Skycoin                     	
+sky      | Skycoin
+slr      | Solarcoin
 sls      | SaluS                       	
 smart    | SmartCash                   	
 sngls    | SingularDTV                 	

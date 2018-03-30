@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="cix-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="cix-b" cx="16" cy="15" r="15"/>
+    <filter id="cix-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="cix-e" d="M24.6677122,17.8630181 L23.6091429,17.1997222 L25.9192026,17.1727917 L25.9665714,17.1466667 L25.9665714,17.1722395 L26.9211429,17.1611111 L25.3022857,19.7963889 L25.1569304,18.5268748 L17.7928571,22.5888889 L15.0014286,18.8605556 L7.16857143,22.9855556 L7.16857143,22.0452778 L15.2422857,17.7933333 L18.034,21.5216667 L24.6677122,17.8630181 Z M14.5557143,16.9577778 L11.4954286,18.5694444 L11.4954286,7.64388889 L14.5557143,7.64388889 L14.5557143,16.9577778 Z M23.2094286,17.4391667 L20.1491429,19.1394444 L20.1491429,7.64388889 L23.2094286,7.64388889 L23.2094286,17.4391667 Z"/>
+    <filter id="cix-d" width="117.7%" height="122.8%" x="-8.9%" y="-8.1%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+    <path id="cix-g" d="M18.8825714,19.8427778 L18.226,20.2075 L15.822,16.9966667 L15.822,8.89361111 L18.8825714,8.89361111 L18.8825714,19.8427778 Z M10.2288571,19.2363889 L7.16857143,20.8480556 L7.16857143,10.3116667 L10.2288571,10.3116667 L10.2288571,19.2363889 Z"/>
+    <filter id="cix-f" width="129.9%" height="129.3%" x="-14.9%" y="-10.5%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#cix-a)" xlink:href="#cix-b"/>
+      <use fill="#0576B4" fill-rule="evenodd" xlink:href="#cix-b"/>
+      <use fill="url(#cix-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#cix-b"/>
+      <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#cix-d)" xlink:href="#cix-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#cix-e"/>
+    </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#cix-f)" xlink:href="#cix-g"/>
+      <use fill="#FFF" fill-opacity=".5" fill-rule="evenodd" xlink:href="#cix-g"/>
+    </g>
+  </g>
+</svg>

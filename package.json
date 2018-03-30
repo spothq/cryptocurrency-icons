@@ -9,7 +9,7 @@
   "homepage": "https://github.com/cjdowner/cryptocurrency-icons",
   "author": {
     "name": "Christopher Downer",
-    "web": "https://github.com/cjdowner"
+    "url": "https://github.com/cjdowner"
   },
   "scripts": {
     "minify-images:32:black": "imagemin '32/black/*' --out-dir='build/32/black'",
@@ -65,13 +65,9 @@
     "build": "npm run minify-images && npm run imacss && npm run svgstore",
     "prebuild": "npm run clean"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cjdowner/cryptocurrency-icons.git"
-  },
+  "repository": "cjdowner/cryptocurrency-icons",
   "license": "CC0-1.0",
-  "devDependencies": {},
-  "dependencies": {
+  "devDependencies": {
     "concat": "^1.0.3",
     "imacss": "^1.0.0",
     "imagemin-cli": "^3.0.0",

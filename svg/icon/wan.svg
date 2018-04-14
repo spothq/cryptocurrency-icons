@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="wan-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="wan-b" cx="16" cy="15" r="15"/>
+    <filter id="wan-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="wan-e" d="M7,10.0898182 L9.66666667,11.22 L9.66666667,17.5734545 L16,13.7858182 L22.3939394,17.5734545 L22.3939394,11.22 L25,10.0898182 L25,22.0636364 L16,16.7487273 L7,22.0636364 L7,10.0898182 Z M7.3030303,9.60109091 L16,4.5 L24.7575758,9.60109091 L22.3939394,10.5785455 L16,6.88254545 L9.66666667,10.5785455 L7.3030303,9.60109091 Z M9.18181818,21.4221818 L11.1515152,20.292 L16.030303,23.1174545 L20.8484848,20.292 L22.8787879,21.4221818 L16.030303,25.5 L9.18181818,21.4221818 Z"/>
+    <filter id="wan-d" width="119.4%" height="116.7%" x="-9.7%" y="-6%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#wan-a)" xlink:href="#wan-b"/>
+    <use fill="#136AAD" xlink:href="#wan-b"/>
+    <use fill="url(#wan-c)" style="mix-blend-mode:soft-light" xlink:href="#wan-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#wan-d)" xlink:href="#wan-e"/>
+      <use fill="#FFF" xlink:href="#wan-e"/>
+    </g>
+  </g>
+</svg>

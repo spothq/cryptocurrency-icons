@@ -1,5 +1,5 @@
 # Coin List
-###### As of 30 March 2018 — [http://cryptoicons.co](http://cryptoicons.co)
+###### As of 14 April 2018 — [http://cryptoicons.co](http://cryptoicons.co)
 
 Symbol | Name
 ---------|---------
@@ -55,7 +55,8 @@ bts      | BitShares
 btx      | Bitcore                     	
 burst    | Burst                       	
 cdn      | Canada eCoin                	
-cdt      | Blox         
+cdt      | Blox 
+chat     | OpenChat        
 chips    | Chips 
 cix      | Cryptonetix             		
 clam     | Clams                       	
@@ -281,7 +282,8 @@ vibe     | VIBE
 vivo     | VIVO                        	
 vrc      | VeriCoin                    	
 vtc      | Vertcoin                    	
-wabi     | WaBi                        	
+wabi     | WaBi     
+wan      | Wanchain                   	
 waves    | Waves                       	
 wax      | WAX                         	
 wgr      | Wagerr                      	

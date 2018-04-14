@@ -20,7 +20,7 @@
   </defs>
   <g fill="none" fill-rule="evenodd">
     <use fill="#000" filter="url(#ltc-a)" xlink:href="#ltc-b"/>
-    <use fill="#CBC6C6" xlink:href="#ltc-b"/>
+    <use fill="#BFBBBB" xlink:href="#ltc-b"/>
     <use fill="url(#ltc-c)" style="mix-blend-mode:soft-light" xlink:href="#ltc-b"/>
     <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
     <g>

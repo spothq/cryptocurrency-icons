@@ -21,7 +21,7 @@
   <g fill="none" fill-rule="evenodd">
     <g fill-rule="nonzero">
       <use fill="#000" filter="url(#mona-a)" xlink:href="#mona-b"/>
-      <use fill="#F0DBB0" fill-rule="evenodd" xlink:href="#mona-b"/>
+      <use fill="#DEC799" fill-rule="evenodd" xlink:href="#mona-b"/>
       <use fill="url(#mona-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#mona-b"/>
       <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
     </g>

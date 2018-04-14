@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="rvn-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="rvn-b" cx="16" cy="15" r="15"/>
+    <filter id="rvn-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="rvn-e" d="M9.5,26 L13.1180422,9.21115974 L15.1488143,21.8118162 L9.5,26 Z M13.1880689,9.11487965 L18.6851589,21.8238512 L15.2421832,21.7636761 L13.1880689,9.11487965 Z M13.2697666,9.01859956 L20.4708378,10.0415755 L18.8018699,21.8238512 L13.2697666,9.01859956 Z M18.9302521,21.643326 L20.5525355,10.1498906 L21.614606,11.4978118 L18.9302521,21.643326 Z M20.4474956,9.93326039 L13.421491,8.93435449 L19.7472293,6.85229759 L20.4474956,9.93326039 Z M13.3864776,8.82603939 L17.693115,5.84135667 L19.7472293,6.74398249 L13.3864776,8.82603939 Z M13.2814377,8.78993435 L14.1100861,7.20131291 L17.6230884,5.79321663 L13.2814377,8.78993435 Z M14.1100861,7.12910284 L14.5069036,5.88949672 L17.4013374,5.79321663 L14.1100861,7.12910284 Z M14.4835614,5.79321663 L15.4172497,4.79431072 L17.4246796,5.69693654 L14.4835614,5.79321663 Z M15.4756053,4.73413567 L16.8761377,4.04814004 L18.6851589,6.16630197 L15.4756053,4.73413567 Z M17.0745465,4.13238512 L19.1636741,5.04704595 L18.7901988,6.17833698 L17.0745465,4.13238512 Z M18.8602254,6.21444201 L19.2453719,5.05908096 L19.712216,6.64770241 L18.8602254,6.21444201 Z M16.9228222,4 L18.4517368,4 L19.2090227,4.8417474 C19.2214021,4.85550747 19.2247961,4.87514644 19.2177529,4.89226315 C19.2076359,4.91685004 19.1795028,4.92858018 19.1549159,4.91846316 L16.9228222,4 Z M19.3387407,4.96280088 L22.4488051,5.83137331 C22.4732411,5.83819775 22.4923029,5.85734566 22.4990172,5.88181217 C22.5095713,5.9202708 22.4869502,5.96000347 22.4484915,5.97055756 L19.8055849,6.69584245 L19.3387407,4.96280088 Z"/>
+    <filter id="rvn-d" width="126.9%" height="115.9%" x="-13.5%" y="-5.7%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#rvn-a)" xlink:href="#rvn-b"/>
+    <use fill="#384182" xlink:href="#rvn-b"/>
+    <use fill="url(#rvn-c)" style="mix-blend-mode:soft-light" xlink:href="#rvn-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#rvn-d)" xlink:href="#rvn-e"/>
+      <use fill="#FFF" xlink:href="#rvn-e"/>
+    </g>
+  </g>
+</svg>

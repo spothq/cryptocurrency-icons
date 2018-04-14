@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="auto-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="auto-b" cx="16" cy="15" r="15"/>
+    <filter id="auto-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="auto-e" d="M24.5,18.2673835 L20.3153846,15.7555556 L20.7948718,13.767492 L22.5820513,14.8222222 L22.5820513,11.1886369 L16.8418761,7.76704233 L16.8418761,15.6666667 L15.4769231,16.4222222 L23.0151183,20.8918 L16,25 L7.5,20.0222222 L7.5,10.0666667 L16,5 L24.5,10.0666667 L24.5,18.2673835 Z M9.41794872,11.1886369 L9.41794872,17.6666667 L14.9358072,14.4666667 L14.9358072,7.89956049 L9.41794872,11.1886369 Z M13.5153846,17.5333333 L10.3770677,19.4519313 L16,22.7448381 L19.1746935,20.8856712 L13.5153846,17.5333333 Z"/>
+    <filter id="auto-d" width="120.6%" height="117.5%" x="-10.3%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#auto-a)" xlink:href="#auto-b"/>
+    <use fill="#FAB431" xlink:href="#auto-b"/>
+    <use fill="url(#auto-c)" style="mix-blend-mode:soft-light" xlink:href="#auto-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#auto-d)" xlink:href="#auto-e"/>
+      <use fill="#FFF" xlink:href="#auto-e"/>
+    </g>
+  </g>
+</svg>

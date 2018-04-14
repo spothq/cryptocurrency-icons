@@ -1,1 +1,31 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="a" height="111.7%" width="111.7%" x="-5.8%" y="-4.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.199473505 0"/></filter><path id="e" d="M16 5l-1.66 3.016c-.188.328-.525.298-.863.115l-1.2-.607.894 4.633c.189.847-.415.847-.713.48L10.36 10.35l-.34 1.162c-.04.153-.212.313-.471.275l-2.65-.544.695 2.468c.15.549.266.776-.15.92l-.945.434 4.563 3.612c.181.137.272.383.208.605l-.4 1.278c1.572-.177 2.98-.442 4.552-.606.139-.014.371.209.37.366L15.585 25h.764l-.12-4.67c-.001-.157.21-.39.348-.376 1.572.164 2.98.43 4.551.606l-.399-1.278a.574.574 0 0 1 .208-.605l4.563-3.612-.945-.433c-.416-.145-.3-.372-.15-.921l.696-2.468-2.651.544c-.259.038-.432-.122-.47-.275l-.341-1.162-2.097 2.288c-.298.366-.902.366-.713-.48l.895-4.634-1.201.607c-.338.183-.675.213-.863-.115z"/><filter id="d" height="117.5%" width="118.4%" x="-9.2%" y="-6.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.204257246 0"/></filter></defs><g fill="none" fill-rule="evenodd"><use fill="#000" filter="url(#a)" xlink:href="#b"/><use fill="#f70808" xlink:href="#b"/><use fill="url(#c)" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/><g fill-rule="nonzero"><use fill="#000" filter="url(#d)" xlink:href="#e"/><use fill="#fff" fill-rule="evenodd" xlink:href="#e"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="cdn-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="cdn-b" cx="16" cy="15" r="15"/>
+    <filter id="cdn-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="cdn-e" d="M15.9996245,5 L14.3403623,8.01631004 C14.1520837,8.34413274 13.8147454,8.31372658 13.4774065,8.13062732 L12.2761449,7.5243539 L13.1714639,12.1573428 C13.3597425,13.0037637 12.7556604,13.0037637 12.457543,12.6377861 L10.3611079,10.3503317 L10.0207553,11.5119554 C9.98150674,11.6645016 9.80893737,11.824723 9.5500427,11.7865681 L6.89907661,11.2433209 L7.59536988,13.7106276 C7.74442765,14.2596309 7.86069622,14.4869371 7.44488988,14.631734 L6.5,15.0645755 L11.0634666,18.6774172 C11.2440912,18.8140222 11.3353501,19.0598528 11.2710465,19.2824353 L10.871646,20.559926 C12.442915,20.3833946 13.8507964,20.1178074 15.4228611,19.95424 C15.5616422,19.9398002 15.7939785,20.163026 15.7930256,20.3197786 L15.5848347,25 L16.3487935,25 L16.2285375,20.3298157 C16.2275793,20.1730631 16.4383568,19.9398002 16.5771379,19.95424 C18.1492027,20.1178079 19.557086,20.3833946 21.1283545,20.559926 L20.7289549,19.2824353 C20.6646514,19.0598528 20.7559098,18.8140222 20.9365344,18.6774172 L25.5,15.0645755 L24.5551111,14.631734 C24.1393038,14.4869371 24.2555724,14.2596309 24.4046301,13.7106276 L25.1009249,11.2433209 L22.4499573,11.7865681 C22.1910626,11.824723 22.0184933,11.6645016 21.9792437,11.5119554 L21.6388916,10.3503317 L19.5424575,12.6377861 C19.2443391,13.0037637 18.6402565,13.0037637 18.8285352,12.1573428 L19.7238526,7.5243539 L18.5225935,8.13062732 C18.1852464,8.31372658 17.8479163,8.34413274 17.6596372,8.01631004 L15.9996245,5 Z"/>
+    <filter id="cdn-d" width="118.4%" height="117.5%" x="-9.2%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#cdn-a)" xlink:href="#cdn-b"/>
+    <use fill="#F70808" xlink:href="#cdn-b"/>
+    <use fill="url(#cdn-c)" style="mix-blend-mode:soft-light" xlink:href="#cdn-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#cdn-d)" xlink:href="#cdn-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#cdn-e"/>
+    </g>
+  </g>
+</svg>

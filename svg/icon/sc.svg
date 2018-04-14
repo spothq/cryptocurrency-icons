@@ -1,1 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32"><defs><linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFF" stop-opacity=".5"/><stop offset="100%" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.199473505 0"/></filter><path id="e" d="M22.189 13.008a5.953 5.953 0 0 0-5.69-.339l-.003-.004a2.728 2.728 0 0 1-3.053-.56L9.79 8.453l-.003-.003a1.239 1.239 0 0 1-.307-.968h-.003a1.25 1.25 0 1 0-.997.997l.001.001c.343-.038.702.057.975.301l.003.003 3.669 3.67c.03.03.054.064.082.095.738.824.89 1.985.454 2.949l.003.003a5.957 5.957 0 0 0 1.165 6.732 6.09 6.09 0 0 0 3.722 1.749c.35.03 5.351.013 5.351.013.271 0 .55-.134.742-.326.192-.191.352-.496.352-.768v-4.844c0-.241-.052-.588-.056-.638-.12-1.34-.69-2.56-1.714-3.583a5.94 5.94 0 0 0-1.041-.828zm.32 4.055c.14.691.148.995.148 1.04v2.455c0 .271-.121.59-.313.78-.192.193-.51.313-.781.313H19.18c-.046 0-.605-.006-1.12-.148a3.603 3.603 0 0 1-1.57-6.008 3.61 3.61 0 0 1 5.092-.001c.452.451.808.984.927 1.57z"/><filter id="d" width="119.4%" height="119.4%" x="-9.7%" y="-6.9%" filterUnits="objectBoundingBox"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.204257246 0"/></filter></defs><g fill="none" fill-rule="evenodd"><use fill="#000" filter="url(#a)" xlink:href="#b"/><use fill="#00CBA0" xlink:href="#b"/><use fill="url(#c)" style="mix-blend-mode:soft-light" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/><g fill-rule="nonzero"><use fill="#000" filter="url(#d)" xlink:href="#e"/><use fill="#FFF" fill-rule="evenodd" xlink:href="#e"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="sc-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="sc-b" cx="16" cy="15" r="15"/>
+    <filter id="sc-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="sc-e" d="M16.0000108,6.5 C20.6944491,6.5 24.5,10.3054751 24.5,15.0000718 L24.5,23.5 L16.0000108,23.5 C11.3054648,23.5 7.5,19.6944531 7.5,15.0000718 C7.5,10.3054751 11.3054648,6.5 16.0000108,6.5 Z M21.1000905,20.1001005 L21.1000905,15.0771089 C21.1000905,12.2577519 18.84495,9.9139715 16.0256707,9.90004308 C13.193339,9.88611465 10.88606,12.193279 10.9000459,15.025703 C10.9140319,17.8449882 13.2577258,20.1001005 16.0771127,20.1001005 L21.1000905,20.1001005 Z"/>
+    <filter id="sc-d" width="120.6%" height="120.6%" x="-10.3%" y="-7.4%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#sc-a)" xlink:href="#sc-b"/>
+    <use fill="#20EE82" xlink:href="#sc-b"/>
+    <use fill="url(#sc-c)" style="mix-blend-mode:soft-light" xlink:href="#sc-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#sc-d)" xlink:href="#sc-e"/>
+      <use fill="#FFF" xlink:href="#sc-e"/>
+    </g>
+  </g>
+</svg>

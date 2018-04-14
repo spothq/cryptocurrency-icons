@@ -1,1 +1,38 @@
-<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="c" height="111.7%" width="111.7%" x="-5.8%" y="-4.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/></filter><filter id="d" height="117.5%" width="129.2%" x="-14.6%" y="-6.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/><feMerge><feMergeNode in="shadowMatrixOuter1"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><g fill="none"><use fill="#000" filter="url(#c)" xlink:href="#b"/><use fill="#00aded" fill-rule="evenodd" xlink:href="#b"/><use fill="url(#a)" fill-rule="evenodd" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/><g fill="#fff" filter="url(#d)" transform="translate(10 5)"><path d="m.09684034 17.6030476.00184735-.0042857 3.18785561-7.61590477-3.18970296-7.61533332 5.88557851 7.61533332-5.88159211 7.61495237zm11.77631026 0-.0039864-.0052381-5.88149493-7.61495237 5.88548133-7.61533332-3.18970303 7.61533332 3.18795283 7.61590477z"/><path d="m5.98494683 9.98409523v5.30590477l-5.88956493 2.31 5.88956493-7.62038097v-5.30590474l5.88956497-2.31z" fill-opacity=".8"/><path d="m5.98494683 15.29v4.6509524l-5.88956493-2.3437143 5.88956493-2.3147619v-5.29838097l-5.88956493-7.62038094 5.88956493 2.31v-4.65085715l5.88956497 2.34361905-5.88956497 2.31485714v5.2982857l5.88956497 7.62038097z" fill-opacity=".5"/><path d="m.0953819 2.36647619 5.88956493-2.34361905v4.65847619zm11.7791299 15.23076191-5.88956497 2.3437143v-4.6584762z" fill-opacity=".145"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="elix-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="elix-b" cx="16" cy="15" r="15"/>
+    <filter id="elix-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <filter id="elix-d" width="129.2%" height="117.5%" x="-14.6%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#elix-a)" xlink:href="#elix-b"/>
+      <use fill="#00ADED" fill-rule="evenodd" xlink:href="#elix-b"/>
+      <use fill="url(#elix-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#elix-b"/>
+      <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    </g>
+    <g fill="#FFF" fill-rule="nonzero" filter="url(#elix-d)" transform="translate(10 5)">
+      <path d="M0.0968403386,17.6030476 L0.0986876943,17.5987619 L3.2865433,9.98285713 L0.0968403386,2.36752381 L5.98241885,9.98285713 L0.100826738,17.5978095 L0.0968403386,17.6030476 Z M11.8731506,17.6030476 L11.8691642,17.5978095 L5.98766927,9.98285713 L11.8731506,2.36752381 L8.68344757,9.98285713 L11.8714004,17.5987619 L11.8731506,17.6030476 Z"/>
+      <path fill-opacity=".8" d="M5.98494683,9.98409523 L5.98494683,15.29 L0.0953818998,17.6 L5.98494683,9.97961903 L5.98494683,4.67371429 L11.8745118,2.36371429 L5.98494683,9.98409523 Z"/>
+      <path fill-opacity=".5" d="M5.98494683,15.29 L5.98494683,19.9409524 L0.0953818998,17.5972381 L5.98494683,15.2824762 L5.98494683,9.98409523 L0.0953818998,2.36371429 L5.98494683,4.67371429 L5.98494683,0.0228571429 L11.8745118,2.36647619 L5.98494683,4.68133333 L5.98494683,9.97961903 L11.8745118,17.6 L5.98494683,15.29 Z"/>
+      <path fill-opacity=".145" d="M0.0953818998,2.36647619 L5.98494683,0.0228571429 L5.98494683,4.68133333 L0.0953818998,2.36647619 Z M11.8745118,17.5972381 L5.98494683,19.9409524 L5.98494683,15.2824762 L11.8745118,17.5972381 Z"/>
+    </g>
+  </g>
+</svg>

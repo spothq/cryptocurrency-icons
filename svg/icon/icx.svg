@@ -1,1 +1,31 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="a" height="111.7%" width="111.7%" x="-5.8%" y="-4.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.199473505 0"/></filter><path id="e" d="M11.296 21.472l2.164-2.164a5 5 0 0 0 6.848-6.848l2.164-2.164a8 8 0 0 1-11.176 11.176zm-1.768-1.768A8 8 0 0 1 20.704 8.528l-2.164 2.164a5 5 0 0 0-6.848 6.848zM24 9a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM8 25a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"/><filter id="d" height="117.5%" width="117.5%" x="-8.8%" y="-6.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.204257246 0"/></filter></defs><g fill="none" fill-rule="evenodd"><use fill="#000" filter="url(#a)" xlink:href="#b"/><use fill="#1fc5c9" xlink:href="#b"/><use fill="url(#c)" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/><use fill="#000" filter="url(#d)" xlink:href="#e"/><use fill="#fff" xlink:href="#e"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="icx-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="icx-b" cx="16" cy="15" r="15"/>
+    <filter id="icx-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="icx-e" d="M11.2961059,21.4716611 L13.4600408,19.3077261 C14.2044324,19.7475883 15.0727392,20 16,20 C18.7614237,20 21,17.7614237 21,15 C21,14.0727392 20.7475883,13.2044324 20.3077261,12.4600408 L22.4716611,10.2961059 C23.4329044,11.6163197 24,13.2419337 24,15 C24,19.418278 20.418278,23 16,23 C14.2419337,23 12.6163197,22.4329044 11.2961059,21.4716611 Z M9.52833894,19.7038941 C8.5670956,18.3836803 8,16.7580663 8,15 C8,10.581722 11.581722,7 16,7 C17.7580663,7 19.3836803,7.5670956 20.7038941,8.52833894 L18.5399592,10.6922739 C17.7955676,10.2524117 16.9272608,10 16,10 C13.2385763,10 11,12.2385763 11,15 C11,15.9272608 11.2524117,16.7955676 11.6922739,17.5399592 L9.52833894,19.7038941 Z M24,9 C22.8954305,9 22,8.1045695 22,7 C22,5.8954305 22.8954305,5 24,5 C25.1045695,5 26,5.8954305 26,7 C26,8.1045695 25.1045695,9 24,9 Z M8,25 C6.8954305,25 6,24.1045695 6,23 C6,21.8954305 6.8954305,21 8,21 C9.1045695,21 10,21.8954305 10,23 C10,24.1045695 9.1045695,25 8,25 Z"/>
+    <filter id="icx-d" width="117.5%" height="117.5%" x="-8.8%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#icx-a)" xlink:href="#icx-b"/>
+    <use fill="#1FC5C9" xlink:href="#icx-b"/>
+    <use fill="url(#icx-c)" style="mix-blend-mode:soft-light" xlink:href="#icx-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#icx-d)" xlink:href="#icx-e"/>
+      <use fill="#FFF" xlink:href="#icx-e"/>
+    </g>
+  </g>
+</svg>

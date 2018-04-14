@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="mzc-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="mzc-b" cx="16" cy="15" r="15"/>
+    <filter id="mzc-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="mzc-e" d="M16.8112206,10.5669777 L16.8112206,12.4303147 L19.025019,12.4303147 L18.0242608,13.5783697 L16.5382866,13.5783697 L16.5382866,15.0207977 L18.0849128,15.0207977 L17.3267627,16.1688527 L16.5382866,16.1688527 L16.5382866,19.1125834 L15.2645944,20.8493845 L15.2645944,16.1688527 L13.5056861,16.1688527 L14.4761183,15.0207977 L15.2645944,15.0207977 L15.2645944,13.5783697 L12.777862,13.5783697 L13.7786202,12.4303147 L15.2645944,12.4303147 L15.2645944,10.4997932 C14.5323079,9.70657117 13.5214411,9.30996016 12.2319939,9.30996016 C9.76042456,9.30996016 7.80439727,11.9445991 7.80439727,14.5645194 C7.80439727,16.311133 8.20368966,17.7928108 9.00227445,19.0095528 L7.62244124,20.613886 C6.54081375,19.0118526 6,17.1818333 6,15.1238283 C6,10.6052017 9.88931008,8 12.641395,8 C14.3249713,8 15.6149412,8.70570908 16.5113048,10.1171272 C18.2252786,8.94120754 19.9780177,8.35324768 21.7695224,8.35324768 C24.5140258,8.35324768 26,11.7023163 26,14.9030485 C26,19.1611664 23.1341926,20.8052285 22.0879454,20.996571 C22.0088734,21.0110321 21.9284356,20.978995 21.8826148,20.9147911 C21.8184966,20.8249491 21.8415487,20.7016628 21.934103,20.6394236 L21.9341019,20.639422 C23.5529645,19.5507996 24.3623958,17.8839859 24.3623958,15.6389811 C24.3623958,10.7376695 21.8453374,9.60433323 19.9954511,9.60433323 C18.8513986,9.60433323 17.7899883,9.9252148 16.8112203,10.5669779 L16.8112206,10.5669777 Z"/>
+    <filter id="mzc-d" width="117.5%" height="126.9%" x="-8.8%" y="-9.6%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#mzc-a)" xlink:href="#mzc-b"/>
+    <use fill="#FFAA05" xlink:href="#mzc-b"/>
+    <use fill="url(#mzc-c)" style="mix-blend-mode:soft-light" xlink:href="#mzc-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#mzc-d)" xlink:href="#mzc-e"/>
+      <use fill="#FFF" xlink:href="#mzc-e"/>
+    </g>
+  </g>
+</svg>

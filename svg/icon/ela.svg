@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="ela-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="ela-b" cx="16" cy="15" r="15"/>
+    <filter id="ela-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <filter id="ela-d" width="117.5%" height="119.4%" x="-8.8%" y="-6.9%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#ela-a)" xlink:href="#ela-b"/>
+    <use fill="#3FBADF" xlink:href="#ela-b"/>
+    <use fill="url(#ela-c)" style="mix-blend-mode:soft-light" xlink:href="#ela-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g fill="#FFF" fill-rule="nonzero" filter="url(#ela-d)" transform="translate(6 6)">
+      <path fill-opacity=".4" d="M5,15.1190142 L10,12.2992189 L10,17.9341094 L5,15.1190142 Z M5,6.11901422 L10,3.29921893 L10,8.93410943 L5,6.11901422 Z"/>
+      <path fill-opacity=".7" d="M20,12.2299995 L15,15.1163186 L15,9.43000031 L20,12.2299995 Z M20,3.22999954 L15,6.11631863 L15,0.430000305 L20,3.22999954 Z"/>
+      <path fill-opacity=".8" d="M5,15.1163186 L5,9.43270374 L10,12.303919 L5,15.1163186 Z M5,6.11631863 L5,0.432703737 L10,3.30391901 L5,6.11631863 Z"/>
+      <path d="M15,15.1163186 L10,12.303919 L15,9.43000031 L15,15.1163186 Z M15,6.11631863 L10,3.30391901 L15,0.430000305 L15,6.11631863 Z"/>
+      <path fill-opacity=".6" d="M15,15.1163186 L10,17.9341094 L10,12.303919 L15,15.1163186 Z M15,6.11631863 L10,8.93410943 L10,3.30391901 L15,6.11631863 Z"/>
+      <path fill-opacity=".5" d="M5,9.43270374 L5,15.1163186 L-1.2244898e-05,12.2308745 L5,9.43270374 Z M5,0.432703737 L5,6.11631863 L-1.2244898e-05,3.23087454 L5,0.432703737 Z"/>
+    </g>
+  </g>
+</svg>

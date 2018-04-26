@@ -11,9 +11,8 @@
       <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
       <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
     </filter>
-    <circle id="vtc-d" cx="15" cy="15" r="15"/>
-    <path id="vtc-g" d="M7.34153156,16.6146213 L7.34366817,16.61309 L5.22294457,13.6539409 L11.188,13.6539409 L14.2563052,17.7450145 L11.3132319,21.9558734 L7.34153156,16.6146213 Z M5.43745558,15.6699409 L3.46000004,15.6699409 L4.52314816,14.3941632 L5.43745558,15.6699409 Z M11.9421397,22.801646 L16.1921976,16.7207939 L25.7381179,3.1400001 C26.9302668,4.22062617 27.9587426,5.47853633 28.7819328,6.87211809 L28.772,7.04594094 L15.596894,25.7460915 C15.5421389,25.8238083 15.4753643,25.8923157 15.3990754,25.9490434 C15.0019792,26.24432 14.4407001,26.161779 14.1454235,25.7646828 L11.9421397,22.801646 Z"/>
-    <filter id="vtc-f" width="113.8%" height="115.2%" x="-6.9%" y="-5.4%" filterUnits="objectBoundingBox">
+    <path id="vtc-e" d="M3.46749725,15.533857 L5.29555501,13.4521193 L11.8001785,13.4521193 L15.7962589,18.5502525 L26.2544497,4.06305758 C26.8772556,4.62158011 27.4582663,5.25884674 27.9974815,5.97485747 C28.5366968,6.69086821 29.0043396,7.45558818 29.4004096,8.26901735 L16.5614923,26.0275142 C16.318874,26.2824209 16.0637962,26.4098742 15.7962589,26.4098742 C15.5287215,26.4098742 15.2594727,26.2824209 14.9885124,26.0275142 L6.86853493,15.533857 L3.46749725,15.533857 Z"/>
+    <filter id="vtc-d" width="113.5%" height="115.7%" x="-6.7%" y="-5.6%" filterUnits="objectBoundingBox">
       <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
       <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
       <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
@@ -21,17 +20,12 @@
   </defs>
   <g fill="none" fill-rule="evenodd">
     <use fill="#000" filter="url(#vtc-a)" xlink:href="#vtc-b"/>
-    <use fill="#35633E" xlink:href="#vtc-b"/>
+    <use fill="#048657" xlink:href="#vtc-b"/>
     <use fill="url(#vtc-c)" style="mix-blend-mode:soft-light" xlink:href="#vtc-b"/>
     <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
-    <g transform="translate(1)">
-      <mask id="vtc-e" fill="#fff">
-        <use xlink:href="#vtc-d"/>
-      </mask>
-      <g mask="url(#vtc-e)">
-        <use fill="#000" filter="url(#vtc-f)" xlink:href="#vtc-g"/>
-        <use fill="#FFF" xlink:href="#vtc-g"/>
-      </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#vtc-d)" xlink:href="#vtc-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#vtc-e"/>
     </g>
   </g>
 </svg>

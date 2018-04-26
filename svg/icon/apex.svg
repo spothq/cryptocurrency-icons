@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="apex-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="apex-b" cx="16" cy="15" r="15"/>
+    <filter id="apex-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="apex-e" d="M6,18.25 L16,5.5 L26,18.25 L26,22.5 L16,9.75 L6,22.5 L6,18.25 Z M16.5,19.5 C15.1192881,19.5 14,18.3807119 14,17 C14,15.6192881 15.1192881,14.5 16.5,14.5 C17.8807119,14.5 19,15.6192881 19,17 C19,18.3807119 17.8807119,19.5 16.5,19.5 Z"/>
+    <filter id="apex-d" width="117.5%" height="120.6%" x="-8.8%" y="-7.4%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#apex-a)" xlink:href="#apex-b"/>
+    <use fill="#1F4C9F" xlink:href="#apex-b"/>
+    <use fill="url(#apex-c)" style="mix-blend-mode:soft-light" xlink:href="#apex-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#apex-d)" xlink:href="#apex-e"/>
+      <use fill="#FFF" xlink:href="#apex-e"/>
+    </g>
+  </g>
+</svg>

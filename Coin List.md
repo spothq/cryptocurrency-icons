@@ -1,5 +1,5 @@
 # Coin List
-###### As of 14 April 2018 — [http://cryptoicons.co](http://cryptoicons.co)
+###### As of 26 April 2018 — [http://cryptoicons.co](http://cryptoicons.co)
 
 Symbol | Name
 ---------|---------
@@ -14,7 +14,8 @@ agrs     | Agoras Token
 aion     | Aion
 amb      | Ambrosus
 amp      | Synereo                     	
-ant      | Aragon                      	
+ant      | Aragon  
+apex     | Apex                    	
 appc     | AppCoins                    	
 ardr     | Ardor                       	
 ark      | Ark                         	
@@ -56,6 +57,7 @@ btx      | Bitcore
 burst    | Burst                       	
 cdn      | Canada eCoin                	
 cdt      | Blox 
+cennz    | Centrality
 chat     | OpenChat        
 chips    | Chips 
 cix      | Cryptonetix             		
@@ -68,6 +70,7 @@ cny      | Chinese Renminbi (Fiat)
 cob      | Cobinhood                   	
 cred     | Verify                      	
 crpt     | Crypterium 
+crw      | Crown Project
 cs       | Credits  
 ctr      | Centra               		
 cvc      | Civic                       	
@@ -91,6 +94,7 @@ ebst     | eBoost
 edg      | Edgeless                    	
 edo      | Eidoo                       	
 edoge    | EtherDoge
+ela      | Elastos
 elf      | aelf                        	
 elix     | Elixir                      	
 ella     | Ellaism                     	
@@ -168,7 +172,8 @@ mco      | Monaco
 mda      | Moeda Loyalty Points                
 mds      | MediShares                  	
 med      | MediBloc                    	
-miota    | IOTA                        	
+miota    | IOTA     
+mith     | Mithril                   	
 mkr      | Maker                       	
 mln      | Melon                       	
 mnx      | MinexCoin 

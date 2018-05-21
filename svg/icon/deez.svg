@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="deez-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="deez-b" cx="16" cy="15" r="15"/>
+    <filter id="deez-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="deez-e" d="M13.7072582,18.8607384 C14.0723274,18.623162 16.5251049,17.1191907 18.9148341,15.6560052 C20.6384899,14.6016958 20.6384899,14.6016958 20.6079827,14.498712 C20.5784924,14.3743158 9.90708021,7.89041537 9.79928817,7.82515831 C9.53184187,7.66609424 9.32439303,7.53761941 9.19727978,7.45604808 C9.39252574,7.32043576 9.77386551,7.06042718 10.2304563,6.75045616 L11.3388839,6 L12.1005466,6.45577976 C13.0401678,7.01760223 23.3607474,13.3475368 24.8067878,14.2488999 C24.2169823,14.6037351 22.1272404,15.8405603 19.316512,17.4964581 C15.2499047,19.8926156 14.0763951,20.5849522 13.7336977,20.7868413 C13.7255625,20.6135022 13.7204779,20.3014919 13.7143765,19.9119888 C13.7062413,19.3685199 13.7052244,18.9943115 13.7072582,18.8607384 Z M11.3388839,12.5644521 C11.5239608,12.6735537 11.8442863,12.8672856 12.2378289,13.1119996 L13.2669378,13.7502952 L13.2893098,15.6804765 C13.3543918,21.256896 13.3543918,21.256896 13.4347273,21.3139959 L13.4886234,21.350703 L13.5496377,21.3292905 C13.5781111,21.3201138 13.590314,21.3160352 24.4203635,14.9269615 L25,14.5853816 L24.8088217,17.2680584 L24.7386551,17.308844 C24.3237575,17.5545777 12.9374603,24.0721262 11.3500699,24.9724697 C11.3460023,24.2729956 11.3409178,21.8870345 11.3388839,18.7761082 C11.337867,15.8222067 11.337867,13.2945154 11.3388839,12.5644521 Z M9,23.7988623 L9.02542265,7.8322958 L9.41286386,8.0606955 C9.72505402,8.24321133 11.8290327,9.52592036 14.2055421,10.9799292 C16.5383246,12.4074273 18.8324647,13.8063754 19.3195627,14.0979929 L20.0354646,14.5282816 L17.671158,15.9741333 L17.1993136,15.6988301 C16.9044108,15.525491 15.6342952,14.7495438 14.3682471,13.9674788 C13.0960976,13.1813352 11.857506,12.4247612 11.6083641,12.2789525 L10.9565273,11.8996458 L10.9524596,18.6680262 C10.9504258,21.7218525 10.9473751,24.2597403 10.9453413,25 C10.7521291,24.8827412 10.4226516,24.6798326 10.0372442,24.4402168 L9,23.7988623 Z"/>
+    <filter id="deez-d" width="121.9%" height="118.4%" x="-10.9%" y="-6.6%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#deez-a)" xlink:href="#deez-b"/>
+      <use fill="#939393" fill-rule="evenodd" xlink:href="#deez-b"/>
+      <use fill="url(#deez-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#deez-b"/>
+      <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-linejoin="square" stroke-opacity=".097"/>
+    </g>
+    <use fill="#000" filter="url(#deez-d)" xlink:href="#deez-e"/>
+    <use fill="#FFF" xlink:href="#deez-e"/>
+  </g>
+</svg>

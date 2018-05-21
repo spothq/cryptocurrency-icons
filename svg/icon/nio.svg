@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="nio-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="nio-b" cx="16" cy="15" r="15"/>
+    <filter id="nio-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="nio-e" d="M16,12.7635025 L11.177888,12.7635025 L16,4.5 L20.822112,12.7635025 L16,12.7635025 Z M16.6548547,22.5 L19.1700921,18.1914894 L21.5811481,14.0597381 L26.5,22.5 L16.6548547,22.5 Z M12.8299079,18.1914894 L15.3451453,22.5 L5.5,22.5 L10.4188519,14.0597381 L12.8299079,18.1914894 Z"/>
+    <filter id="nio-d" width="116.7%" height="119.4%" x="-8.3%" y="-6.9%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#nio-a)" xlink:href="#nio-b"/>
+      <use fill="#70C9C9" fill-rule="evenodd" xlink:href="#nio-b"/>
+      <use fill="url(#nio-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#nio-b"/>
+      <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-linejoin="square" stroke-opacity=".097"/>
+    </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#nio-d)" xlink:href="#nio-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#nio-e"/>
+    </g>
+  </g>
+</svg>

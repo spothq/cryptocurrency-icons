@@ -1,5 +1,5 @@
 # Coin List
-###### As of 26 April 2018 — [http://cryptoicons.co](http://cryptoicons.co)
+###### As of 21 May 2018 — [http://cryptoicons.co](http://cryptoicons.co)
 
 Symbol | Name
 ---------|---------
@@ -67,7 +67,8 @@ cmt      | CyberMiles
 cnd      | Cindicator                  	
 cnx      | Cryptonex                   	
 cny      | Chinese Renminbi (Fiat)                           
-cob      | Cobinhood                   	
+cob      | Cobinhood
+coqui    | Coquicash                   	
 cred     | Verify                      	
 crpt     | Crypterium 
 crw      | Crown Project
@@ -79,7 +80,8 @@ dat      | Datum
 data     | Streamr DATAcoin            	
 dbc      | DeepBrain Chain             	
 dcn      | Dentacoin                   	
-dcr      | Decred  
+dcr      | Decred
+deez     | DeezNuts  
 dent     | Dent                        	
 dew      | DEW                         	
 dgb      | DigiByte                    	
@@ -90,7 +92,8 @@ doge     | Dogecoin
 drgn     | Dragonchain                 	
 dta      | DATA                        	
 dtr      | Dynamic Trading Rights      	
-ebst     | eBoost                      	
+ebst     | eBoost  
+eca      | Electra                    	
 edg      | Edgeless                    	
 edo      | Eidoo                       	
 edoge    | EtherDoge
@@ -190,7 +193,8 @@ ndz      | Nodez [Future]
 nebl     | Neblio                      	
 neo      | NEO                         	
 neos     | NeosCoin                    	
-ngc      | NAGA                        	
+ngc      | NAGA    
+nio      | Autonio                    	
 nlc2     | NoLimitCoin                 	
 nlg      | Gulden                      	
 nmc      | Namecoin                    	
@@ -200,7 +204,8 @@ nxt      | Nxt
 oax      | OAX                         	
 omg      | OmiseGO                     	
 omni     | Omni        
-ont      | Ontology                		
+ont      | Ontology  
+oot      | Utrum              		
 ost      | Simple Token                	
 ox       | OX Fina                     	
 part     | Particl                     	
@@ -260,11 +265,13 @@ steem    | Steem
 storj    | Storj                       	
 storm    | Storm                       	
 strat    | Stratis                     	
-sub      | Substratum                  	
+sub      | Substratum      
+sumo     | Sumokoin            	
 sys      | Syscoin                     	
 taas     | TaaS                        	
 tau      | Lamden                      	
-tel      | Telcoin                     	
+tel      | Telcoin   
+ten      | Tokenomy                  	
 theta    | Theta Token                 	
 tix      | Blocktix                    	
 tkn      | TokenCard                   	
@@ -317,6 +324,7 @@ xzc      | ZCoin
 yoyow    | YOYOW
 zcl      | ZClassic
 zec      | Zcash
+zel      | Zelcash
 zen      | ZenCash
 zil      | Zilliqa
 zrx      | 0x

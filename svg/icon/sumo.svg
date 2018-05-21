@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="sumo-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="sumo-b" cx="16" cy="15" r="15"/>
+    <filter id="sumo-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="sumo-e" d="M18.0614472,8.08360478 C21.4650326,11.6497964 22.3293003,12.2801031 23.1558541,12.5071797 C20.28106,12.1466884 18.6587409,11.9432546 15.9497238,10.5214169 L14.2402237,12.5114549 L25,14.8995114 C21.6335799,17.7622014 20.1757625,19.2866178 18.0614472,21.9144951 L13.988829,21.9144951 C12.1999787,19.2959826 11.0067489,18.4457926 8.70950012,17.3870793 C11.7674882,17.6690147 13.4672239,17.8575597 15.9497238,19.3273751 L17.8100525,17.2378257 L7,14.8995114 C9.51413856,12.8284066 10.9773868,11.4464305 13.988829,8.08360478 L18.0614472,8.08360478 Z M14.2397163,7.58706569 C15.1704264,6.44244028 15.5509826,5.88545331 16.0497688,5 C16.5397353,5.91150923 16.9187953,6.47482356 17.8095451,7.58706569 L14.2397163,7.58706569 Z M17.8095176,22.4129343 C16.8788075,23.5575597 16.4982513,24.1145467 15.9994651,25 C15.5094986,24.0884908 15.1304386,23.5251764 14.2396888,22.4129343 L17.8095176,22.4129343 Z"/>
+    <filter id="sumo-d" width="119.4%" height="117.5%" x="-9.7%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#sumo-a)" xlink:href="#sumo-b"/>
+      <use fill="#2D9CDB" fill-rule="evenodd" xlink:href="#sumo-b"/>
+      <use fill="url(#sumo-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#sumo-b"/>
+      <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-linejoin="square" stroke-opacity=".097"/>
+    </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#sumo-d)" xlink:href="#sumo-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#sumo-e"/>
+    </g>
+  </g>
+</svg>

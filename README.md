@@ -4,7 +4,11 @@
 
 Images are in the PNG format (transparent) in 32×32, 64×64(@2x), and 128×128 variants, along with SVG versions.
 
-If there is an altcoin you’re looking for that hasn’t been included, please create a new issue and I shall include it.
+If there is an altcoin you’re looking for that hasn’t been included, please create a new issue.
+
+## Contribute ❤️
+
+[Here](https://github.com/cjdowner/cryptocurrency-icons/wiki) you can find a loose guide, as well as a link to the template used to create icons for this project.
 
 ## Building 🛠
 

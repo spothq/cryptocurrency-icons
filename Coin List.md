@@ -86,7 +86,8 @@ dent     | Dent
 dew      | DEW                         	
 dgb      | DigiByte                    	
 dgd      | DigixDAO                    	
-dlt      | Agrello                     	
+dlt      | Agrello
+dnr      | Denarius                     	
 dnt      | district0x                  	
 doge     | Dogecoin                    	
 drgn     | Dragonchain                 	

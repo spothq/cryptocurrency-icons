@@ -20,20 +20,6 @@ You can then build with
 
     npm run build
 
-## Donate ☕️
-
-If you find these icons useful, or if you’ve used them for your projects, please consider making a donation. I have invested over 125 hours in creating and maintaining this project, and your donations will help ensure it continues.
-
-**Bitcoin**
-`1JoyuwysWLtxd8twdXx6G1ZJ7DHf2jcu8Q`
-
-**Ethereum**
-`0x2a47661bc70478D965C0Fb6121309Cc877BD9508`
-
-**Litecoin**
-`LW2Nk8T24Dp69DoqaQX2srBGU6jYVx5A9X`
-
-
 ## License 📄
 
 >All icons are licensed under the **Creative Commons Zero (CC0) license**. This means the icons are completely free to be used for any legal purpose.

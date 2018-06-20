@@ -1,6 +1,6 @@
 # Cryptocurrency Icons
 
-[This project](http://cryptoicons.co) contains over 2000 icons – [326 crypto, and fiat currencies](https://github.com/cjdowner/cryptocurrency-icons/blob/master/Coin%20List.md), in 4 styles and a range of sizes. Completely free. All I ask is that you don’t claim them as your own, and share this resource with others.
+[This project](http://cryptoicons.co) contains over 2000 icons – [326 crypto, and fiat currencies](Coin%20List.md), in 4 styles and a range of sizes. Completely free. All I ask is that you don’t claim them as your own, and share this resource with others.
 
 Images are in the PNG format (transparent) in 32×32, 64×64(@2x), and 128×128 variants, along with SVG versions.
 
@@ -8,7 +8,7 @@ If there is an altcoin you’re looking for that hasn’t been included, please 
 
 ## Contribute ❤️
 
-[Here](https://github.com/cjdowner/cryptocurrency-icons/wiki) you can find a loose guide, as well as a link to the template used to create icons for this project.
+[Here](https://github.com/hyperdexapp/cryptocurrency-icons/wiki) you can find a loose guide, as well as a link to the template used to create icons for this project.
 
 ## Building 🛠
 
@@ -33,4 +33,4 @@ You can then build with
 
 ## Special Thanks 👏
 
-Thanks to all the [contributors](https://github.com/cjdowner/cryptocurrency-icons/graphs/contributors) who have helped provide their code to my pixels to turn this into a proper, functioning project.
+Thanks to [Christopher Downer](https://github.com/cjdowner) for starting this project and all our wonderful [contributors](https://github.com/hyperdexapp/cryptocurrency-icons/graphs/contributors).

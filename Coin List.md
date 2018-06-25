@@ -1,6 +1,6 @@
 # Coin List
 
-###### As of 21 May 2018 — [http://cryptoicons.co](http://cryptoicons.co)
+###### As of 25 June 2018 — [http://cryptoicons.co](http://cryptoicons.co)
 
 Symbol | Name
 ---------|---------
@@ -27,6 +27,7 @@ atm      | ATMChain
 auto     | Cube
 bat      | Basic Attention Token
 bay      | BitBay
+bcbc     | Bitcoin@CBC
 bcc      | BitConnect
 bcd      | Bitcoin Diamond
 bch      | Bitcoin Cash
@@ -88,6 +89,7 @@ dew      | DEW
 dgb      | DigiByte
 dgd      | DigixDAO
 dlt      | Agrello
+dnr      | Denarius
 dnt      | district0x
 doge     | Dogecoin
 drgn     | Dragonchain
@@ -107,6 +109,7 @@ emc2     | Einsteinium
 eng      | Enigma
 enj      | Enjin Coin
 eos      | EOS
+eql      | Equaliser
 equa     | EquaCoin
 etc      | Ethereum Classic
 eth      | Ethereum
@@ -181,6 +184,7 @@ mith     | Mithril
 mkr      | Maker
 mln      | Melon
 mnx      | MinexCoin
+mnz      | Monaize
 mod      | Modum
 mona     | MonaCoin
 mth      | Monetha
@@ -256,8 +260,8 @@ slr      | Solarcoin
 sls      | SaluS
 smart    | SmartCash
 sngls    | SingularDTV
-snt      | Status
 snm      | SONM
+snt      | Status
 spank    | SpankChain
 sphtx    | SophiaTX
 srn      | SIRIN LABS Token

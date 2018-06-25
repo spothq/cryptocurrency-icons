@@ -1,6 +1,6 @@
 # Coin List
 
-###### As of 25 June 2018 — [http://cryptoicons.co](http://cryptoicons.co)
+###### As of 2018-06-25 — [http://cryptoicons.co](http://cryptoicons.co)
 
 Symbol | Name
 ---------|---------

@@ -6,6 +6,14 @@ Images are in the PNG format (transparent) in 32×32, 64×64(@2x), and 128×128 
 
 If there is an altcoin you’re looking for that hasn’t been included, please create a new issue.
 
+## Install 🚀
+
+```
+$ npm install cryptocurrency-icons
+```
+
+You then import or get the icons from their relative path, for example `./node_modules/dist/svg/color/kmd.svg`.
+
 ## Contribute ❤️
 
 [Here](https://github.com/hyperdexapp/cryptocurrency-icons/wiki) you can find a loose guide, as well as a link to the template used to create icons for this project.
@@ -14,11 +22,15 @@ If there is an altcoin you’re looking for that hasn’t been included, please 
 
 The build system requires node and npm to be installed on your system.  After they are installed you can install the npm dependencies with
 
-    npm install
+```
+$ npm install
+```
 
 You can then build with
 
-    npm run build
+```
+$ npm run build
+```
 
 ## License 📄
 

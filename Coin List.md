@@ -332,4 +332,5 @@ zec      | Zcash
 zel      | Zelcash
 zen      | ZenCash
 zil      | Zilliqa
+zilla    | ChainZilla
 zrx      | 0x

@@ -27,4 +27,4 @@ $ npm install && npm run build
 
 ## Special Thanks 👏
 
-Thanks to [Christopher Downer](https://github.com/cjdowner) for starting this project and all our wonderful [contributors](https://github.com/hyperdexapp/cryptocurrency-icons/graphs/contributors).
+Thanks to [Christopher Downer](https://github.com/cjdowner) for starting this project and all our wonderful [contributors](https://github.com/atomiclabs/cryptocurrency-icons/graphs/contributors).

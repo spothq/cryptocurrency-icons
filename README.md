@@ -13,16 +13,7 @@ If there is an altcoin you’re looking for that hasn’t been included, please 
 $ npm install cryptocurrency-icons
 ```
 
-You can then import the icons from `./node_modules/cryptocurrency-icons/dist`, for example `./node_modules/cryptocurrency-icons/dist/svg/color/kmd.svg`.
-
-
-## Building 🛠
-
-The build system requires Node.js to be installed on your system.
-
-```
-$ npm install && npm run build
-```
+You can then import the icons from `./node_modules/cryptocurrency-icons`, for example `./node_modules/cryptocurrency-icons/svg/color/kmd.svg`.
 
 
 ## Special Thanks 👏

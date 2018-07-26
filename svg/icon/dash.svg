@@ -1,31 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
-  <defs>
-    <linearGradient id="dash-c" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
-      <stop offset="100%" stop-opacity=".5"/>
-    </linearGradient>
-    <circle id="dash-b" cx="16" cy="15" r="15"/>
-    <filter id="dash-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
-      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
-      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
-    </filter>
-    <path id="dash-e" d="M26.5714286,11.9714286 L24.5333333,18.352381 C24.5333333,18.352381 23.2761905,21.5333333 20.2857143,21.5333333 C17.2952381,21.5333333 5.86666667,21.5333333 5.86666667,21.5333333 L6.8952381,18.352381 L19.9238095,18.352381 L19.9619048,18.352381 L22.0190476,11.9714286 L8.97142857,11.9714286 L9.98095238,8.79047619 C9.98095238,8.79047619 21.1809524,8.79047619 24.3238095,8.79047619 C27.4666667,8.79047619 26.5714286,11.9714286 26.5714286,11.9714286 Z M6.38095238,13.6857143 L14.1142857,13.6857143 L13.1238095,16.6380952 L5.37142857,16.6380952 L6.38095238,13.6857143 Z"/>
-    <filter id="dash-d" width="116.4%" height="127.5%" x="-8.2%" y="-9.8%" filterUnits="objectBoundingBox">
-      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
-    </filter>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <use fill="#000" filter="url(#dash-a)" xlink:href="#dash-b"/>
-    <use fill="#1C75BC" xlink:href="#dash-b"/>
-    <use fill="url(#dash-c)" style="mix-blend-mode:soft-light" xlink:href="#dash-b"/>
-    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
-    <g>
-      <use fill="#000" filter="url(#dash-d)" xlink:href="#dash-e"/>
-      <use fill="#FFF" xlink:href="#dash-e"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/icon/dash</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="15" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/dash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#008CE7" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+                <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="15" cy="15" r="14.5"></circle>
+            </g>
+        </g>
+        <g id="Dash-(DASH)-Copy" transform="translate(7.000000, 8.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M11.7771429,0.00395604396 L5.22989011,0.00395604396 L4.68791209,3.03428571 L10.5942857,3.0421978 C13.501978,3.0421978 14.3643956,4.09846154 14.3367033,5.85098901 C14.3248352,6.74901099 13.9331868,8.26813187 13.767033,8.75868132 C13.32,10.0720879 12.3982418,11.5674725 8.94461538,11.5635165 L3.2043956,11.5595604 L2.66241758,14.5938462 L9.19384615,14.5938462 C11.4962637,14.5938462 12.4773626,14.3248352 13.5138462,13.8461538 C15.8123077,12.7859341 17.1810989,10.5151648 17.730989,7.55208791 C18.5459341,3.1410989 17.5292308,0.00395604396 11.7771429,0.00395604396 Z" id="Shape"></path>
+            <path d="M8.82593407,7.01802198 C9.03956044,6.13186813 9.10681319,5.77582418 9.10681319,5.77582418 L2.40527473,5.77582418 C0.692307692,5.77582418 0.447032967,6.89142857 0.284835165,7.56791209 C0.0712087912,8.45010989 0.00395604396,8.81010989 0.00395604396,8.81010989 L6.70549451,8.81010989 C8.41846154,8.81010989 8.66373626,7.69450549 8.82593407,7.01802198 Z" id="Shape"></path>
+        </g>
     </g>
-  </g>
 </svg>

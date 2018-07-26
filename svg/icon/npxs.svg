@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/icon/npxs</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="15" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/npxs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#F5D100" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+                <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="15" cy="15" r="14.5"></circle>
+            </g>
+        </g>
+        <g id="Pundi-X-(NPXS)" transform="translate(5.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M10.9746154,0 C4.92461538,0 0,4.92461538 0,10.9746154 C0,17.0246154 4.92461538,21.9576923 10.9830769,21.9576923 C17.0415385,21.9576923 21.9661538,17.0330769 21.9661538,10.9746154 C21.9661538,4.91615385 17.0330769,0 10.9746154,0 Z M10.9746154,21.1115385 C5.39,21.1115385 0.837692308,16.5676923 0.837692308,10.9746154 C0.846153846,5.39 5.39,0.846153846 10.9746154,0.846153846 C16.5592308,0.846153846 21.1115385,5.39 21.1115385,10.9830769 C21.1115385,16.5676923 16.5676923,21.1115385 10.9746154,21.1115385 Z" id="Shape"></path>
+            <rect id="Rectangle-path" transform="translate(7.844573, 7.846016) rotate(-45.000000) translate(-7.844573, -7.846016) " x="7.27342505" y="4.80835294" width="1.14229674" height="6.07532635"></rect>
+            <rect id="Rectangle-path" transform="translate(14.094458, 14.098163) rotate(-45.000000) translate(-14.094458, -14.098163) " x="13.5233094" y="11.0604999" width="1.14229674" height="6.07532635"></rect>
+            <rect id="Rectangle-path" transform="translate(10.982383, 10.980129) rotate(-45.000000) translate(-10.982383, -10.980129) " x="10.4112351" y="10.4047494" width="1.14229674" height="1.15075819"></rect>
+            <rect id="Rectangle-path" transform="translate(14.106352, 7.881390) rotate(-45.000000) translate(-14.106352, -7.881390) " x="11.068689" y="7.31024121" width="6.07532635" height="1.14229674"></rect>
+            <rect id="Rectangle-path" transform="translate(7.875384, 14.104133) rotate(-45.000000) translate(-7.875384, -14.104133) " x="4.83772125" y="13.5329844" width="6.07532635" height="1.14229674"></rect>
+        </g>
+    </g>
+</svg>

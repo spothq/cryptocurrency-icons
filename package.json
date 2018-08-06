@@ -39,5 +39,11 @@
 		"erc20-tokens",
 		"erc20",
 		"erc721"
-	]
+	],
+	"scripts": {
+		"name": "node scripts/icon-name.js"
+	},
+	"devDependencies": {
+		"axios": "^0.18.0"
+	}
 }

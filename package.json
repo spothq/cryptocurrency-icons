@@ -41,9 +41,12 @@
 		"erc721"
 	],
 	"scripts": {
-		"name": "node scripts/icon-name.js"
+		"manifest": "node scripts/manifest.js",
+		"precommit": "npm run manifest"
 	},
 	"devDependencies": {
-		"axios": "^0.18.0"
+		"alpha-sort": "^2.0.1",
+		"axios": "^0.18.0",
+		"coinlist": "^2.0.0"
 	}
 }

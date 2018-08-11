@@ -46,7 +46,6 @@
 	},
 	"devDependencies": {
 		"alpha-sort": "^2.0.1",
-		"axios": "^0.18.0",
 		"coinlist": "^2.0.0"
 	}
 }

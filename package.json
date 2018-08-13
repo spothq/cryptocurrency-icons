@@ -41,11 +41,18 @@
 		"erc721"
 	],
 	"scripts": {
-		"manifest": "node scripts/manifest.js",
-		"precommit": "npm run manifest"
+		"test": "xo",
+		"manifest": "node scripts/manifest.js"
 	},
 	"devDependencies": {
 		"alpha-sort": "^2.0.1",
-		"coinlist": "^2.0.0"
+		"coinlist": "^3.0.0",
+		"husky": "^1.0.0-rc.13",
+		"xo": "^0.22.0"
+	},
+	"husky": {
+		"hooks": {
+			"pre-commit": "npm run manifest"
+		}
 	}
 }

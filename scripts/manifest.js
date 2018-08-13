@@ -1,20 +1,21 @@
-const manifest = require('../manifest.json');
+'use strict';
 const fs = require('fs');
 const path = require('path');
 const coins = require('coinlist');
 const alphaSort = require('alpha-sort');
+const manifest = require('../manifest.json');
 
 const icons = manifest.map(icon => {
 	const id = typeof icon === 'string' ? icon : icon.symbol;
 
 	return {
-		name: coins.get(id, 'name') || id,
 		symbol: id.toUpperCase(),
+		name: coins.get(id, 'name') || id
 	};
 });
 
-icons.sort((a, b) => {
-	return alphaSort.asc(a.symbol, b.symbol);
-});
+icons.sort((a, b) => alphaSort.asc(a.symbol, b.symbol));
 
-fs.writeFileSync(path.resolve(__dirname, '../manifest.json'), JSON.stringify(icons, null, 4));
+const data = JSON.stringify(icons, null, '\t') + '\n';
+
+fs.writeFileSync(path.resolve(__dirname, '../manifest.json'), data);

@@ -39,5 +39,13 @@
 		"erc20-tokens",
 		"erc20",
 		"erc721"
-	]
+	],
+	"scripts": {
+		"manifest": "node scripts/manifest.js",
+		"precommit": "npm run manifest"
+	},
+	"devDependencies": {
+		"alpha-sort": "^2.0.1",
+		"coinlist": "^2.0.0"
+	}
 }

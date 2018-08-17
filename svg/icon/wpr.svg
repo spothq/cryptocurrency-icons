@@ -1,1 +1,31 @@
-<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="c" height="111.7%" width="111.7%" x="-5.8%" y="-4.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/></filter><path id="d" d="m4.32766046 5.57812419c.76526389-.9468639 1.64339876-1.79872988 2.61394618-2.53513949l4.16043026 14.875096 1.9736539-8.43830851h3.7391601l1.9725007 8.43830851 2.3369031-8.43830851h3.7489621l.0351718.15033168 3.7266626 13.45759823c-.7023255 1.0949378-1.5430844 2.0925902-2.497572 2.9682526l-3.1416264-11.3476585-1.9598158 7.0789387-.0351717.1497512h-4.1860144l-1.8692918-6.9320895-1.8698683 6.9320895h-4.18659096l-.03459516-.1497512z"/><filter id="e" height="115.2%" width="114.4%" x="-7.2%" y="-5.4%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/></filter></defs><g fill="none" fill-rule="evenodd"><use fill="#000" filter="url(#c)" xlink:href="#b"/><use fill="#ffe600" xlink:href="#b"/><use fill="url(#a)" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/><use fill="#000" filter="url(#e)" xlink:href="#d"/><use fill="#fff" xlink:href="#d"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="wpr-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="wpr-b" cx="16" cy="15" r="15"/>
+    <filter id="wpr-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="wpr-e" d="M4.32766046,5.57812419 C5.09292435,4.63126029 5.97105922,3.77939431 6.94160664,3.0429847 L11.1020369,17.9180807 L13.0756908,9.47977219 L16.8148509,9.47977219 L18.7873516,17.9180807 L21.1242547,9.47977219 L24.8732168,9.47977219 L24.9083886,9.63010387 L28.6350512,23.0877021 C27.9327257,24.1826399 27.0919668,25.1802923 26.1374792,26.0559547 L22.9958528,14.7082962 L21.036037,21.7872349 L21.0008653,21.9369861 L16.8148509,21.9369861 L14.9455591,15.0048966 L13.0756908,21.9369861 L8.88909984,21.9369861 L8.85450468,21.7872349 L4.32766046,5.57812419 Z"/>
+    <filter id="wpr-d" width="114.4%" height="115.2%" x="-7.2%" y="-5.4%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#wpr-a)" xlink:href="#wpr-b"/>
+    <use fill="#FFE600" xlink:href="#wpr-b"/>
+    <use fill="url(#wpr-c)" style="mix-blend-mode:soft-light" xlink:href="#wpr-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#wpr-d)" xlink:href="#wpr-e"/>
+      <use fill="#FFF" xlink:href="#wpr-e"/>
+    </g>
+  </g>
+</svg>

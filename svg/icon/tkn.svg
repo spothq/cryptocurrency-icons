@@ -1,1 +1,33 @@
-<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="c" height="111.7%" width="111.7%" x="-5.8%" y="-4.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/></filter><path id="d" d="m13.0917431 6.91273446 4.4036697-1.91273446-.0366972 5.0525061h5.5412844v3.500665h-5.5779817v6.0630073c0 1.8405558 3.1192661 2.0570918 4.293578 1.4435732l1.0642202 3.175861c-2.6055046 1.5157518-9.7247706 1.1548585-9.7247706-4.5833448v-12.73953334zm-4.11009172 7.57875914c-1.09443584 0-1.98165138-1.066411-1.98165138-2.3818957s.88721554-2.38189574 1.98165138-2.38189574c1.09443582 0 1.98165142 1.06641104 1.98165142 2.38189574s-.8872156 2.3818957-1.98165142 2.3818957z"/><filter id="e" height="117.5%" width="121.9%" x="-10.9%" y="-6.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/></filter></defs><g fill="none" fill-rule="nonzero"><g><use fill="#000" filter="url(#c)" xlink:href="#b"/><use fill="#24dd7b" fill-rule="evenodd" xlink:href="#b"/><use fill="url(#a)" fill-rule="evenodd" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/></g><g><use fill="#000" filter="url(#e)" xlink:href="#d"/><use fill="#fff" fill-rule="evenodd" xlink:href="#d"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="tkn-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="tkn-b" cx="16" cy="15" r="15"/>
+    <filter id="tkn-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="tkn-e" d="M13.0917431,6.91273446 L17.4954128,5 L17.4587156,10.0525061 L23,10.0525061 L23,13.5531711 L17.4220183,13.5531711 L17.4220183,19.6161784 C17.4220183,21.4567342 20.5412844,21.6732702 21.7155963,21.0597516 L22.7798165,24.2356126 C20.1743119,25.7513644 13.0550459,25.3904711 13.0550459,19.6522678 L13.0550459,6.91273446 L13.0917431,6.91273446 Z M8.98165138,14.4914936 C7.88721554,14.4914936 7,13.4250826 7,12.1095979 C7,10.7941132 7.88721554,9.72770216 8.98165138,9.72770216 C10.0760872,9.72770216 10.9633028,10.7941132 10.9633028,12.1095979 C10.9633028,13.4250826 10.0760872,14.4914936 8.98165138,14.4914936 Z"/>
+    <filter id="tkn-d" width="121.9%" height="117.5%" x="-10.9%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#tkn-a)" xlink:href="#tkn-b"/>
+      <use fill="#24DD7B" fill-rule="evenodd" xlink:href="#tkn-b"/>
+      <use fill="url(#tkn-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#tkn-b"/>
+      <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#tkn-d)" xlink:href="#tkn-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#tkn-e"/>
+    </g>
+  </g>
+</svg>

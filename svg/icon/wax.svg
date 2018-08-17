@@ -1,1 +1,31 @@
-<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="c" height="111.7%" width="111.7%" x="-5.8%" y="-4.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/></filter><path id="d" d="m28 17.962234h-2.36412l-1.67664-1.4365236-1.67154 1.4302497h-1.99746l-.9549-1.1603518h-3.29214l.83298-1.0284783h1.61874l-1.23294-1.5082421-4.30512 5.2411121h-1.99698l1.24584-1.522266h-2.08116l-1.1238-3.1538934-1.116 3.1295362h-2.11218l-1.77258-4.9117973h1.6203l1.19166 3.3464756 1.18812-3.3317751h2.00028l1.18458 3.3238406 1.1838-3.3247017h1.62546l-1.78848 4.9223151.39828-.4858531 3.65226-4.4447041h2.00982l3.0387 3.7082052 1.46172-1.2573503-4.6254-3.9980317h2.37516zm-2.34474-2.9723213-1.11546-.9555911 1.11282-.9485177 2.25126.0017837z"/><filter id="e" height="143.8%" width="114.6%" x="-7.3%" y="-15.6%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/></filter></defs><g fill="none" fill-rule="evenodd"><use fill="#000" filter="url(#c)" xlink:href="#b"/><use fill="#f89022" xlink:href="#b"/><use fill="url(#a)" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/><use fill="#000" filter="url(#e)" xlink:href="#d"/><use fill="#fff" xlink:href="#d"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="wax-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="wax-b" cx="16" cy="15" r="15"/>
+    <filter id="wax-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="wax-e" d="M28,17.962234 L25.63588,17.962234 L23.95924,16.5257104 L22.2877,17.9559601 L20.29024,17.9559601 L19.33534,16.7956083 L16.0432,16.7956083 L16.87618,15.76713 L18.49492,15.76713 L17.26198,14.2588879 L12.95686,19.5 L10.95988,19.5 L12.20572,17.977734 L10.12456,17.977734 L9.00076,14.8238406 L7.88476,17.9533768 L5.77258,17.9533768 L4,13.0415795 L5.6203,13.0415795 L6.81196,16.3880551 L8.00008,13.05628 L10.00036,13.05628 L11.18494,16.3801206 L12.36874,13.0554189 L13.9942,13.0554189 L12.20572,17.977734 L12.604,17.4918809 L16.25626,13.0471768 L18.26608,13.0471768 L21.30478,16.755382 L22.7665,15.4980317 L18.1411,11.5 L20.51626,11.5 L28,17.962234 Z M25.65526,14.9899127 L24.5398,14.0343216 L25.65262,13.0858039 L27.90388,13.0875876 L25.65526,14.9899127 Z"/>
+    <filter id="wax-d" width="114.6%" height="143.8%" x="-7.3%" y="-15.6%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#wax-a)" xlink:href="#wax-b"/>
+    <use fill="#F89022" xlink:href="#wax-b"/>
+    <use fill="url(#wax-c)" style="mix-blend-mode:soft-light" xlink:href="#wax-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#wax-d)" xlink:href="#wax-e"/>
+      <use fill="#FFF" xlink:href="#wax-e"/>
+    </g>
+  </g>
+</svg>

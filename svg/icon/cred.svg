@@ -1,1 +1,31 @@
-<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="c" height="111.7%" width="111.7%" x="-5.8%" y="-4.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/></filter><path id="d" d="m12.1359481 14.9662466 3.4816942 3.4923169 9.1297769-9.19076147 1.2525808 1.27071827-10.3823577 10.4614797-4.734275-4.7630352zm2.1102695-.3108866 5.6178343-5.65536 1.2525808 1.2707182-5.6152198 5.6580124zm-2.2758908 4.8313665-1.2360518 1.2454715-4.734275-4.7630353 1.25148523-1.2696067z"/><filter id="e" height="129.2%" width="117.5%" x="-8.8%" y="-10.4%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/></filter></defs><g fill="none" fill-rule="evenodd"><use fill="#000" filter="url(#c)" xlink:href="#b"/><use fill="#37e8a3" xlink:href="#b"/><use fill="url(#a)" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/><g fill-rule="nonzero"><use fill="#000" filter="url(#e)" xlink:href="#d"/><use fill="#fff" fill-rule="evenodd" xlink:href="#d"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="cred-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="cred-b" cx="16" cy="15" r="15"/>
+    <filter id="cred-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="cred-e" d="M12.1359481,14.9662466 L15.6176423,18.4585635 L24.7474192,9.26780203 L26,10.5385203 L15.6176423,21 L10.8833673,16.2369648 L12.1359481,14.9662466 Z M14.2462176,14.65536 L19.8640519,9 L21.1166327,10.2707182 L15.5014129,15.9287306 L14.2462176,14.65536 Z M11.9703268,19.4867265 L10.734275,20.732198 L6,15.9691627 L7.25148523,14.699556 L11.9703268,19.4867265 Z"/>
+    <filter id="cred-d" width="117.5%" height="129.2%" x="-8.8%" y="-10.4%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#cred-a)" xlink:href="#cred-b"/>
+    <use fill="#37E8A3" xlink:href="#cred-b"/>
+    <use fill="url(#cred-c)" style="mix-blend-mode:soft-light" xlink:href="#cred-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#cred-d)" xlink:href="#cred-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#cred-e"/>
+    </g>
+  </g>
+</svg>

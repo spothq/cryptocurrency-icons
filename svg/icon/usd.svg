@@ -1,1 +1,31 @@
-<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="c" height="111.7%" width="111.7%" x="-5.8%" y="-4.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/></filter><path id="d" d="m22.5 18.1542056c0 2.5700935-2.0858209 4.2757009-5.1660448 4.5327103v2.3130841h-2.1100746v-2.3364486c-2.1100746-.2336449-4.0746269-1.0514019-5.7238806-2.3130841l1.5522388-2.1261682c1.3824627 1.0747663 2.6921642 1.7757009 4.2686567 2.0093458v-4.5794393c-3.5410448-.8878505-5.1902985-2.1728972-5.1902985-4.8130841 0-2.52336449 2.0615672-4.25233645 5.0932836-4.48598131v-1.35514019h2.1100746v1.40186916c1.7705224.21028037 3.2257463.81775701 4.5597015 1.77570093l-1.3582089 2.19626171c-1.0671642-.77102806-2.1585821-1.26168227-3.2985075-1.49532713v4.43925233c3.6865672.8878505 5.2630597 2.3130841 5.2630597 4.8364486zm-7.1791045-5.3271028v-4.11214953c-1.5279851.11682243-2.3283582.93457944-2.3283582 1.96261683 0 .9813084.4608209 1.6121495 2.3283582 2.1495327zm4.3171642 5.4906542c0-1.0514019-.5093284-1.682243-2.4011194-2.2196262v4.228972c1.5279851-.1168224 2.4011194-.8878505 2.4011194-2.0093458z"/><filter id="e" height="117.5%" width="126.9%" x="-13.5%" y="-6.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/></filter></defs><g fill="none" fill-rule="evenodd"><use fill="#000" filter="url(#c)" xlink:href="#b"/><use fill="#6cde07" xlink:href="#b"/><use fill="url(#a)" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/><use fill="#000" filter="url(#e)" xlink:href="#d"/><use fill="#fff" xlink:href="#d"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="usd-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="usd-b" cx="16" cy="15" r="15"/>
+    <filter id="usd-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="usd-e" d="M22.5,18.1542056 C22.5,20.7242991 20.4141791,22.4299065 17.3339552,22.6869159 L17.3339552,25 L15.2238806,25 L15.2238806,22.6635514 C13.113806,22.4299065 11.1492537,21.6121495 9.5,20.3504673 L11.0522388,18.2242991 C12.4347015,19.2990654 13.744403,20 15.3208955,20.2336449 L15.3208955,15.6542056 C11.7798507,14.7663551 10.130597,13.4813084 10.130597,10.8411215 C10.130597,8.31775701 12.1921642,6.58878505 15.2238806,6.35514019 L15.2238806,5 L17.3339552,5 L17.3339552,6.40186916 C19.1044776,6.61214953 20.5597015,7.21962617 21.8936567,8.17757009 L20.5354478,10.3738318 C19.4682836,9.60280374 18.3768657,9.11214953 17.2369403,8.87850467 L17.2369403,13.317757 C20.9235075,14.2056075 22.5,15.6308411 22.5,18.1542056 Z M15.3208955,12.8271028 L15.3208955,8.71495327 C13.7929104,8.8317757 12.9925373,9.64953271 12.9925373,10.6775701 C12.9925373,11.6588785 13.4533582,12.2897196 15.3208955,12.8271028 Z M19.6380597,18.317757 C19.6380597,17.2663551 19.1287313,16.635514 17.2369403,16.0981308 L17.2369403,20.3271028 C18.7649254,20.2102804 19.6380597,19.4392523 19.6380597,18.317757 Z"/>
+    <filter id="usd-d" width="126.9%" height="117.5%" x="-13.5%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#usd-a)" xlink:href="#usd-b"/>
+    <use fill="#6CDE07" xlink:href="#usd-b"/>
+    <use fill="url(#usd-c)" style="mix-blend-mode:soft-light" xlink:href="#usd-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g>
+      <use fill="#000" filter="url(#usd-d)" xlink:href="#usd-e"/>
+      <use fill="#FFF" xlink:href="#usd-e"/>
+    </g>
+  </g>
+</svg>

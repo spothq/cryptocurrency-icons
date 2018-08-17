@@ -1,1 +1,31 @@
-<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="c" height="111.7%" width="111.7%" x="-5.8%" y="-4.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/></filter><path id="d" d="m14.8116525 5c1.5185008.8875 2.9464395 1.9144 4.4509369 2.8246-1.8472913 3.2228667-3.6955366 6.4467-5.5447359 9.6715-.7359455-1.2914-1.4254855-2.6084-2.1527428-3.9056 1.0472913-2.8758 2.2428961-5.7005 3.2465418-8.5905zm-4.8116525 20c3.1389097-5.709 6.3999659-11.3554 9.5040204-17.0787.8290971 1.45646667 1.6610903 2.9129 2.4959796 4.3693-2.4058262 4.2327-4.8291312 8.454-7.2174787 12.6952-1.5941397 0-3.1879727-.0199-4.7825213.0142zm5.0822147-.0228c1.3294037-2.2756 2.5832708-4.5911 3.9301533-6.8554.8028961 1.0269 1.6174446 2.0481 2.4145145 3.0806-2.1061329 1.2745-4.2240205 2.5261-6.3446678 3.7748z"/><filter id="e" height="117.5%" width="129.2%" x="-14.6%" y="-6.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/></filter></defs><g fill="none" fill-rule="evenodd"><use fill="#000" filter="url(#c)" xlink:href="#b"/><use fill="#f9c011" xlink:href="#b"/><use fill="url(#a)" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/><g fill-rule="nonzero"><use fill="#000" filter="url(#e)" xlink:href="#d"/><use fill="#fff" fill-rule="evenodd" xlink:href="#d"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="ignis-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="ignis-b" cx="16" cy="15" r="15"/>
+    <filter id="ignis-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="ignis-e" d="M14.8116525,5 C16.3301533,5.8875 17.758092,6.9144 19.2625894,7.8246 C17.4152981,11.0474667 15.5670528,14.2713 13.7178535,17.4961 C12.981908,16.2047 12.292368,14.8877 11.5651107,13.5905 C12.612402,10.7147 13.8080068,7.89 14.8116525,5 Z M10,25 C13.1389097,19.291 16.3999659,13.6446 19.5040204,7.9213 C20.3331175,9.37776667 21.1651107,10.8342 22,12.2906 C19.5941738,16.5233 17.1708688,20.7446 14.7825213,24.9858 C13.1883816,24.9858 11.5945486,24.9659 10,25 Z M15.0822147,24.9772 C16.4116184,22.7016 17.6654855,20.3861 19.012368,18.1218 C19.8152641,19.1487 20.6298126,20.1699 21.4268825,21.2024 C19.3207496,22.4769 17.202862,23.7285 15.0822147,24.9772 Z"/>
+    <filter id="ignis-d" width="129.2%" height="117.5%" x="-14.6%" y="-6.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#ignis-a)" xlink:href="#ignis-b"/>
+    <use fill="#F9C011" xlink:href="#ignis-b"/>
+    <use fill="url(#ignis-c)" style="mix-blend-mode:soft-light" xlink:href="#ignis-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#ignis-d)" xlink:href="#ignis-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#ignis-e"/>
+    </g>
+  </g>
+</svg>

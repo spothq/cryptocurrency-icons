@@ -1,1 +1,31 @@
-<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="c" height="111.7%" width="111.7%" x="-5.8%" y="-4.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/></filter><path id="d" d="m9.328 7.61664c-.01936-.14624.1176-.23424.19744-.3344.99392-.98378667 1.9830933-1.97232 2.96752-2.9656-.01424 2.716.00816 5.432-.0112 8.14816 2.04928-1.12992 4.6304-1.18016 6.736-.16768-.00176.17488-.00176.3488-.00176.52464-1.68112-.904-3.74784-1.01952-5.54144-.39056-2.06256.71168-3.70656 2.45824-4.35008 4.5368.00352-3.1176-.00096-6.2344.00352-9.35136zm13.38992 11.66272c-.0512 1.63616-.7496 3.2376-1.89696 4.40432-.98784 1.0144-2.304 1.7088-3.70288 1.9368-1.65456.2792-3.40624-.092-4.8-1.02768-1.4792-.97232-2.54976-2.5528-2.87808-4.29488-.28528-1.37952-.092-2.84496.50112-4.11904.66064-1.424 1.84272-2.59536 3.26832-3.25296 1.88368-.88768 4.17936-.81296 6.00368.192-.0112 1.4939733-.01088 2.988.00096 4.48208-.2976-.61664-.74032-1.1688-1.32528-1.53488-1.15664-.74752-2.76512-.71168-3.88176.09824-1.22912.84576-1.78544 2.52384-1.296 3.93504.43664 1.39072 1.82016 2.41136 3.2816 2.396 1.40608.03472 2.76304-.88448 3.26624-2.19552.32-.7424.24-1.56352.24752-2.34992.00608-4.05456-.01024-8.10928-.00816-12.16384.00096-.50928.00928-1.01952-.01936-1.52784 1.08912 1.07392 2.16912 2.16096 3.24992 3.24592-.02256 3.9248 0 7.85056-.01136 11.77632z"/><filter id="e" height="116.3%" width="126.1%" x="-13%" y="-5.8%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/></filter></defs><g fill="none" fill-rule="evenodd"><use fill="#000" filter="url(#c)" xlink:href="#b"/><use fill="#e54c40" xlink:href="#b"/><use fill="url(#a)" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/><g fill-rule="nonzero"><use fill="#000" filter="url(#e)" xlink:href="#d"/><use fill="#fff" fill-rule="evenodd" xlink:href="#d"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="bdl-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="bdl-b" cx="16" cy="15" r="15"/>
+    <filter id="bdl-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="bdl-e" d="M9.328,7.61664 C9.30864,7.4704 9.4456,7.3824 9.52544,7.28224 C10.51936,6.29845333 11.5085333,5.30992 12.49296,4.31664 C12.47872,7.03264 12.50112,9.74864 12.48176,12.4648 C14.53104,11.33488 17.11216,11.28464 19.21776,12.29712 C19.216,12.472 19.216,12.64592 19.216,12.82176 C17.53488,11.91776 15.46816,11.80224 13.67456,12.4312 C11.612,13.14288 9.968,14.88944 9.32448,16.968 C9.328,13.8504 9.32352,10.7336 9.328,7.61664 Z M22.71792,19.27936 C22.66672,20.91552 21.96832,22.51696 20.82096,23.68368 C19.83312,24.69808 18.51696,25.39248 17.11808,25.62048 C15.46352,25.89968 13.71184,25.52848 12.31808,24.5928 C10.83888,23.62048 9.76832,22.04 9.44,20.29792 C9.15472,18.9184 9.348,17.45296 9.94112,16.17888 C10.60176,14.75488 11.78384,13.58352 13.20944,12.92592 C15.09312,12.03824 17.3888,12.11296 19.21312,13.11792 C19.20192,14.6118933 19.20224,16.10592 19.21408,17.6 C18.91648,16.98336 18.47376,16.4312 17.8888,16.06512 C16.73216,15.3176 15.12368,15.35344 14.00704,16.16336 C12.77792,17.00912 12.2216,18.6872 12.71104,20.0984 C13.14768,21.48912 14.5312,22.50976 15.99264,22.4944 C17.39872,22.52912 18.75568,21.60992 19.25888,20.29888 C19.57888,19.55648 19.49888,18.73536 19.5064,17.94896 C19.51248,13.8944 19.49616,9.83968 19.49824,5.78512 C19.4992,5.27584 19.50752,4.7656 19.47888,4.25728 C20.568,5.3312 21.648,6.41824 22.7288,7.5032 C22.70624,11.428 22.7288,15.35376 22.71744,19.27952 L22.71792,19.27936 Z"/>
+    <filter id="bdl-d" width="126.1%" height="116.3%" x="-13%" y="-5.8%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#bdl-a)" xlink:href="#bdl-b"/>
+    <use fill="#E54C40" xlink:href="#bdl-b"/>
+    <use fill="url(#bdl-c)" style="mix-blend-mode:soft-light" xlink:href="#bdl-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#bdl-d)" xlink:href="#bdl-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#bdl-e"/>
+    </g>
+  </g>
+</svg>

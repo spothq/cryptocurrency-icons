@@ -1,1 +1,31 @@
-<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="c" height="111.7%" width="111.7%" x="-5.8%" y="-4.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/></filter><path id="d" d="m9.86984444 7.22893617c.21617776.03659575-.32173333 1.4693617-.02153333 3.10680853.25882219 1.4029787 3.50655559 6.8365957 3.37271109 8.7-.1038666 1.1702127-2.7706222 3.9148936-3.0509778 3.7319149-.30695551-.0846809.8098223-1.9497873.3956223-3.5038298-.4813334-1.8119149-3.33977781-6.4961702-3.33640003-8.5638298 0-1.51276596 2.44762222-3.56893617 2.64057777-3.47106383zm6.10913336-2.13914894c.2736.04638298-.4108222 1.87489362-.0282889 3.95787234.3297555 1.79191493 4.4730222 8.72000003 4.3016 11.09531913-.1338445 1.4944681-3.5327333 4.9914894-3.8924667 4.759149-.3892889-.106383 1.0340222-2.4851064.5062445-4.4668085-.6134889-2.3085107-4.2585334-8.2825533-4.2551556-10.91914899 0-1.93148936 3.1223333-4.55106383 3.3680667-4.42638298zm6.3050444 2.13914894c.2161778.03659575-.3213111 1.4693617-.0215333 3.10680853.2592444 1.4029787 3.5065555 6.8365957 3.3731333 8.7-.1021778 1.1702127-2.7693555 3.9148936-3.0514 3.7319149-.3065333-.0846809.8098222-1.9497873.3960445-3.5038298-.4817556-1.8119149-3.3397778-6.4961702-3.3368223-8.5638298 0-1.51276596 2.4493112-3.56893617 2.6405778-3.47106383z"/><filter id="e" height="117.7%" width="119%" x="-9.5%" y="-6.3%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/></filter></defs><g fill="none" fill-rule="evenodd"><use fill="#000" filter="url(#c)" xlink:href="#b"/><use fill="#4ba2f2" xlink:href="#b"/><use fill="url(#a)" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/><g fill-rule="nonzero"><use fill="#000" filter="url(#e)" xlink:href="#d"/><use fill="#fff" fill-rule="evenodd" xlink:href="#d"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="steem-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="steem-b" cx="16" cy="15" r="15"/>
+    <filter id="steem-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="steem-e" d="M9.86984444,7.22893617 C10.0860222,7.26553192 9.54811111,8.69829787 9.84831111,10.3357447 C10.1071333,11.7387234 13.3548667,17.1723404 13.2210222,19.0357447 C13.1171556,20.2059574 10.4504,22.9506383 10.1700444,22.7676596 C9.86308889,22.6829787 10.9798667,20.8178723 10.5656667,19.2638298 C10.0843333,17.4519149 7.22588889,12.7676596 7.22926667,10.7 C7.22926667,9.18723404 9.67688889,7.13106383 9.86984444,7.22893617 Z M15.9789778,5.08978723 C16.2525778,5.13617021 15.5681556,6.96468085 15.9506889,9.04765957 C16.2804444,10.8395745 20.4237111,17.7676596 20.2522889,20.1429787 C20.1184444,21.6374468 16.7195556,25.1344681 16.3598222,24.9021277 C15.9705333,24.7957447 17.3938444,22.4170213 16.8660667,20.4353192 C16.2525778,18.1268085 12.6075333,12.1527659 12.6109111,9.51617021 C12.6109111,7.58468085 15.7332444,4.96510638 15.9789778,5.08978723 Z M22.2840222,7.22893617 C22.5002,7.26553192 21.9627111,8.69829787 22.2624889,10.3357447 C22.5217333,11.7387234 25.7690444,17.1723404 25.6356222,19.0357447 C25.5334444,20.2059574 22.8662667,22.9506383 22.5842222,22.7676596 C22.2776889,22.6829787 23.3940444,20.8178723 22.9802667,19.2638298 C22.4985111,17.4519149 19.6404889,12.7676596 19.6434444,10.7 C19.6434444,9.18723404 22.0927556,7.13106383 22.2840222,7.22893617 Z"/>
+    <filter id="steem-d" width="119%" height="117.7%" x="-9.5%" y="-6.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#steem-a)" xlink:href="#steem-b"/>
+    <use fill="#4BA2F2" xlink:href="#steem-b"/>
+    <use fill="url(#steem-c)" style="mix-blend-mode:soft-light" xlink:href="#steem-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#steem-d)" xlink:href="#steem-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#steem-e"/>
+    </g>
+  </g>
+</svg>

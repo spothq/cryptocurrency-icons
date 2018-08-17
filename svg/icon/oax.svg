@@ -1,1 +1,33 @@
-<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="c" height="111.7%" width="111.7%" x="-5.8%" y="-4.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/></filter><path id="d" d="m14.0901831 17.6676616-.6231147 1.3312177h-1.3821961l3.7529077-7.9988793 2.5031633 5.3325295h-1.4149495l-1.1208075-2.3145693-1.1208075 2.3535426zm5.4541398 1.3012837 2.9306185-3.950955-2.9523171-3.9802084h1.6149853l2.1414374 2.9102306-.7788436 1.0699778.7788436 1.0699777-2.140958 2.9102306h-1.579996l.0003205.0006807h-1.3821961l-.6266297-1.3312177h1.3821961zm4.5260797-3.9681441-.7913556-1.0871669 2.140958-2.9102305h1.579995zm0 0 2.9295974 3.9980781h-1.5791962l-2.140958-2.9102305zm-12.6481088-2.8413041c.7173733.745162 1.1105921 1.7751804 1.0850183 2.842155.0088999 1.0636601-.3817586 2.0869718-1.0850183 2.842155-.7232923.8087378-1.61498538 1.155753-2.66820889 1.155753-.99970774.0159264-1.96264722-.4011774-2.66820885-1.155753-.71414343-.7474713-1.10676585-1.7759274-1.08501834-2.842155-.01393663-.8313549.22890497-1.6445662.69117793-2.3145693l.9202924.9802882c-.23755576.4118367-.36280536.8859782-.36172604 1.36934.00091613.7079681.26029782 1.3878022.7232923 1.8957344.46504217.5166115 1.10786624.8086958 1.77979117.8086958.67192492 0 1.31474902-.2920843 1.77979112-.8086958.477664-.4975867.739662-1.1842782.7232923-1.8957344-.0009161-.707968-.2602978-1.3878022-.7232923-1.8957344-.4671333-.5088038-1.11179778-.7878821-1.77971124-.7704452-.43952056-.0127847-.8732585.1090093-1.24974429.3509295l-.92029239-.9802881c.62899747-.4924096 1.39243846-.7510825 2.1729126-.7362373 1.00010443-.0237616 1.96490382.3941175 2.66565252 1.1545616z"/><filter id="e" height="143.8%" width="115.9%" x="-8%" y="-15.6%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/></filter></defs><g fill="none" fill-rule="nonzero"><g><use fill="#000" filter="url(#c)" xlink:href="#b"/><use fill="#164b79" fill-rule="evenodd" xlink:href="#b"/><use fill="url(#a)" fill-rule="evenodd" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/></g><g><use fill="#000" filter="url(#e)" xlink:href="#d"/><use fill="#fff" fill-rule="evenodd" xlink:href="#d"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="oax-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="oax-b" cx="16" cy="15" r="15"/>
+    <filter id="oax-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="oax-e" d="M14.0901831,17.6676616 L13.4670684,18.9988793 L12.0848723,18.9988793 L15.83778,11 L18.3409433,16.3325295 L16.9259938,16.3325295 L15.8051863,14.0179602 L14.6843788,16.3715028 L14.0901831,17.6676616 Z M19.5443229,18.9689453 L22.4749414,15.0179903 L19.5226243,11.0377819 L21.1376096,11.0377819 L23.279047,13.9480125 L22.5002034,15.0179903 L23.279047,16.087968 L21.138089,18.9981986 L19.558093,18.9981986 L19.5584135,18.9988793 L18.1762174,18.9988793 L17.5495877,17.6676616 L18.9317838,17.6676616 L19.5443229,18.9689453 Z M24.0704026,15.0008012 L23.279047,13.9136343 L25.420005,11.0034038 L27,11.0034038 L24.0704026,15.0008012 Z M24.0704026,15.0008012 L27,18.9988793 L25.4208038,18.9988793 L23.2798458,16.0886488 L24.0704026,15.0008012 Z M11.4222938,12.1594971 C12.1396671,12.9046591 12.5328859,13.9346775 12.5073121,15.0016521 C12.516212,16.0653122 12.1255535,17.0886239 11.4222938,17.8438071 C10.6990015,18.6525449 9.80730842,18.9995601 8.75408491,18.9995601 C7.75437717,19.0154865 6.79143769,18.5983827 6.08587606,17.8438071 C5.37173263,17.0963358 4.97911021,16.0678797 5.00085772,15.0016521 C4.98692109,14.1702972 5.22976269,13.3570859 5.69203565,12.6870828 L6.61232805,13.667371 C6.37477229,14.0792077 6.24952269,14.5533492 6.25060201,15.036711 C6.25151814,15.7446791 6.51089983,16.4245132 6.97389431,16.9324454 C7.43893648,17.4490569 8.08176055,17.7411412 8.75368548,17.7411412 C9.4256104,17.7411412 10.0684345,17.4490569 10.5334766,16.9324454 C11.0111406,16.4348587 11.2731386,15.7481672 11.2567689,15.036711 C11.2558528,14.328743 10.9964711,13.6489088 10.5334766,13.1409766 C10.0663433,12.6321728 9.42167882,12.3530945 8.75376536,12.3705314 C8.3142448,12.3577467 7.88050686,12.4795407 7.50402107,12.7214609 L6.58372868,11.7411728 C7.21272615,11.2487632 7.97616714,10.9900903 8.75664128,11.0049355 C9.75674571,10.9811739 10.7215451,11.399053 11.4222938,12.1594971 Z"/>
+    <filter id="oax-d" width="115.9%" height="143.8%" x="-8%" y="-15.6%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#oax-a)" xlink:href="#oax-b"/>
+      <use fill="#164B79" fill-rule="evenodd" xlink:href="#oax-b"/>
+      <use fill="url(#oax-c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#oax-b"/>
+      <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#oax-d)" xlink:href="#oax-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#oax-e"/>
+    </g>
+  </g>
+</svg>

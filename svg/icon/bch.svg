@@ -1,1 +1,31 @@
-<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="c" height="111.7%" width="111.7%" x="-5.8%" y="-4.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/></filter><path id="d" d="m21.2072761 9.53388244c.5707137 1.44241286.2054254 2.51113036-.6424083 3.30134696 1.7466978-.0761691 3.0492153.601519 3.4714082 2.8362862.524988 2.775152-1.2819518 4.078179-4.1134073 5.0688464l.8138659 2.8403033-1.7123029.491189-.8027666-2.8023709c-.4436101.1276447-.8991934.2542435-1.3716377.3792076l.807281 2.8151132-1.7105975.4902045-.8165736-2.8449931c-.4013001.1123124-.8113427.2222823-1.2261718.3407003l-2.2283668.6390632-.2461626-2.1425507s1.2723238-.3434705 1.2448477-.3565991c.4843467-.1397945.5128598-.5246238.4807064-.7516382l-1.2869443-4.4897299c.06263-.018537.1238008-.035663.1808223-.0520988-.0734737.0105859-.1364818.0264988-.1844181.0399631l-.919114-3.2047522c-.1652977-.3286424-.5065007-.6665772-1.20015636-.467901.01434161-.0293134-1.24325651.3573858-1.24325651.3573858l-.52486511-1.8287238 2.36199138-.67641861.0027254.00865893c.3549373-.10203047.717039-.21331349 1.0856019-.32718996l-.805804-2.81255507 1.7114501-.49069675.7903529 2.75723895c.4545457-.14021147.9121418-.28104715 1.3622791-.41018643l-.7855087-2.73900242 1.7123029-.49118906.8067227 2.81316162c2.2658908-.44016208 4.2115668-.26227548 4.9881043 1.70992694zm-.6512029 6.77066816c-.6357795-2.2177563-4.179167-.8404989-5.3400977-.5079052l1.0805184 3.7698513c1.1601922-.3338728 4.8702193-1.1359789 4.2595793-3.2619461zm-2.3214751-5.0902052c-.5787707-2.01759856-3.5271227-.8394942-4.4937503-.5622346l.9802769 3.4189972c.9666276-.2772595 4.0676321-.9221623 3.5134734-2.8567626z"/><filter id="e" height="117.5%" width="121.7%" x="-10.8%" y="-6.3%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/></filter></defs><g fill="none" fill-rule="evenodd"><use fill="#000" filter="url(#c)" xlink:href="#b"/><use fill="#8dc351" xlink:href="#b"/><use fill="url(#a)" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/><g fill-rule="nonzero"><use fill="#000" filter="url(#e)" xlink:href="#d"/><use fill="#fff" fill-rule="evenodd" xlink:href="#d"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="bch-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="bch-b" cx="16" cy="15" r="15"/>
+    <filter id="bch-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="bch-e" d="M21.2072761,9.53388244 C21.7779898,10.9762953 21.4127015,12.0450128 20.5648678,12.8352294 C22.3115656,12.7590603 23.6140831,13.4367484 24.036276,15.6715156 C24.561264,18.4466676 22.7543242,19.7496946 19.9228687,20.740362 L20.7367346,23.5806653 L19.0244317,24.0718543 L18.2216651,21.2694834 C17.778055,21.3971281 17.3224717,21.5237269 16.8500274,21.648691 L17.6573084,24.4638042 L15.9467109,24.9540087 L15.1301373,22.1090156 C14.7288372,22.221328 14.3187946,22.3312979 13.9039655,22.4497159 L11.6755987,23.0887791 L11.4294361,20.9462284 C11.4294361,20.9462284 12.7017599,20.6027579 12.6742838,20.5896293 C13.1586305,20.4498348 13.1871436,20.0650055 13.1549902,19.8379911 L11.8680459,15.3482612 C11.9306759,15.3297242 11.9918467,15.3125982 12.0488682,15.2961624 C11.9753945,15.3067483 11.9123864,15.3226612 11.8644501,15.3361255 L10.9453361,12.1313733 C10.7800384,11.8027309 10.4388354,11.4647961 9.74517974,11.6634723 C9.75952135,11.6341589 8.50192323,12.0208581 8.50192323,12.0208581 L7.97705812,10.1921343 L10.3390495,9.51571569 L10.3417749,9.52437462 C10.6967122,9.42234415 11.0588139,9.31106113 11.4273768,9.19718466 L10.6215728,6.38462959 L12.3330229,5.89393284 L13.1233758,8.65117179 C13.5779215,8.51096032 14.0355176,8.37012464 14.4856549,8.24098536 L13.7001462,5.50198294 L15.4124491,5.01079388 L16.2191718,7.8239555 C18.4850626,7.38379342 20.4307386,7.56168002 21.2072761,9.53388244 Z M20.5560732,16.3045506 C19.9202937,14.0867943 16.3769062,15.4640517 15.2159755,15.7966454 L16.2964939,19.5664967 C17.4566861,19.2326239 21.1667132,18.4305178 20.5560732,16.3045506 Z M18.2345981,11.2143454 C17.6558274,9.19674684 14.7074754,10.3748512 13.7408478,10.6521108 L14.7211247,14.071108 C15.6877523,13.7938485 18.7887568,13.1489457 18.2345981,11.2143454 Z"/>
+    <filter id="bch-d" width="121.7%" height="117.5%" x="-10.8%" y="-6.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#bch-a)" xlink:href="#bch-b"/>
+    <use fill="#8DC351" xlink:href="#bch-b"/>
+    <use fill="url(#bch-c)" style="mix-blend-mode:soft-light" xlink:href="#bch-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#bch-d)" xlink:href="#bch-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#bch-e"/>
+    </g>
+  </g>
+</svg>

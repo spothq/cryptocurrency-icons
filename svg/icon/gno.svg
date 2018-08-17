@@ -1,1 +1,31 @@
-<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><filter id="c" height="111.7%" width="111.7%" x="-5.8%" y="-4.2%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/></filter><path id="d" d="m24.7772063 9.5.1994814.33110368c.9974069 1.67391302 1.5233123 3.58695652 1.5233123 5.53678932-.0181347 5.867893-4.7150142 10.632107-10.4999739 10.632107h-.0181347c-5.7849597 0-10.49997393-4.8010033-10.48183926-10.6688963 0-1.9682274.5440401-3.8812709 1.54144695-5.53678932l.1813467-.31270903.96113751.97491635c-.1813467.2759198-.34455873.5702342-.45336675.9013378-.76165614 2.1153846.32642406 4.451505 2.43004575 5.2240803 1.2512923.4414716 2.5751232.2391304 3.6087994-.4598662l2.2305644 2.2809364 2.5569884-2.5936455c.2357507.1655519.5077708.2943144.7979255.4046823 2.0492177.735786 4.2979168-.3494983 5.0233036-2.409699.4352321-1.2140468.2357507-2.4832776-.3989627-3.4949833zm-15.41446945 2.1521739 3.01035525 3.0351171c-.3626934.2943144-.8160602.4598662-1.3056963.4598662-1.17875352 0-2.13989103-.9749164-2.13989103-2.1705686 0-.4966555.16321203-.9565217.43523208-1.3244147zm10.49997395 2.8511706 2.9740859-3.0167224c.2357507.3494983.3626934.7725752.3626934 1.2140468 0 1.1956522-.9611376 2.1705686-2.1398911 2.1705686-.4533668 0-.8523295-.1287626-1.1968882-.367893zm-3.8264154 2.2809364-8.66837225-8.8294314.34455873-.36789298c2.13989106-2.2993311 5.05957292-3.58695652 8.19687082-3.58695652h.0181347c3.1735672 0 6.2201918 1.37959866 8.3419482 3.77090301l.326424.36789298zm-7.25386799-8.8294314 7.25386799 7.3762542 7.1631947-7.22909701c-1.9222751-1.94983278-4.5336675-3.07190636-7.253868-3.07190636h-.0181347c-2.7020658 0-5.222785 1.03010034-7.14505999 2.92474917z"/><filter id="e" height="115.9%" width="116.7%" x="-8.3%" y="-5.7%"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/></filter></defs><g fill="none" fill-rule="evenodd"><use fill="#000" filter="url(#c)" xlink:href="#b"/><use fill="#00a6c4" xlink:href="#b"/><use fill="url(#a)" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/><g fill-rule="nonzero"><use fill="#000" filter="url(#e)" xlink:href="#d"/><use fill="#fff" fill-rule="evenodd" xlink:href="#d"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="gno-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="gno-b" cx="16" cy="15" r="15"/>
+    <filter id="gno-a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0"/>
+    </filter>
+    <path id="gno-e" d="M24.7772063,9.5 L24.9766877,9.83110368 C25.9740946,11.5050167 26.5,13.4180602 26.5,15.367893 C26.4818653,21.235786 21.7849858,26 16.0000261,26 L15.9818914,26 C10.1969317,26 5.48191747,21.1989967 5.50005214,15.3311037 C5.50005214,13.3628763 6.04409224,11.4498328 7.04149909,9.79431438 L7.22284579,9.48160535 L8.1839833,10.4565217 C8.0026366,10.7324415 7.83942457,11.0267559 7.73061655,11.3578595 C6.96896041,13.4732441 8.05704061,15.8093645 10.1606623,16.5819398 C11.4119546,17.0234114 12.7357855,16.8210702 13.7694617,16.1220736 L16.0000261,18.40301 L18.5570145,15.8093645 C18.7927652,15.9749164 19.0647853,16.1036789 19.35494,16.2140468 C21.4041577,16.9498328 23.6528568,15.8645485 24.3782436,13.8043478 C24.8134757,12.590301 24.6139943,11.3210702 23.9792809,10.3093645 L24.7772063,9.5 Z M9.36273685,11.6521739 L12.3730921,14.687291 C12.0103987,14.9816054 11.5570319,15.1471572 11.0673958,15.1471572 C9.88864228,15.1471572 8.92750477,14.1722408 8.92750477,12.9765886 C8.92750477,12.4799331 9.0907168,12.0200669 9.36273685,11.6521739 Z M19.8627108,14.5033445 L22.8367967,11.4866221 C23.0725474,11.8361204 23.1994901,12.2591973 23.1994901,12.7006689 C23.1994901,13.8963211 22.2383525,14.8712375 21.059599,14.8712375 C20.6062322,14.8712375 20.2072695,14.7424749 19.8627108,14.5033445 Z M16.0362954,16.7842809 L7.36792315,7.9548495 L7.71248188,7.58695652 C9.85237294,5.28762542 12.7720548,4 15.9093527,4 L15.9274874,4 C19.1010546,4 22.1476792,5.37959866 24.2694356,7.77090301 L24.5958596,8.13879599 L16.0362954,16.7842809 Z M8.78242741,7.9548495 L16.0362954,15.3311037 L23.1994901,8.10200669 C21.277215,6.15217391 18.6658226,5.03010033 15.9456221,5.03010033 L15.9274874,5.03010033 C13.2254216,5.03010033 10.7047024,6.06020067 8.78242741,7.9548495 Z"/>
+    <filter id="gno-d" width="116.7%" height="115.9%" x="-8.3%" y="-5.7%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#gno-a)" xlink:href="#gno-b"/>
+    <use fill="#00A6C4" xlink:href="#gno-b"/>
+    <use fill="url(#gno-c)" style="mix-blend-mode:soft-light" xlink:href="#gno-b"/>
+    <circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#gno-d)" xlink:href="#gno-e"/>
+      <use fill="#FFF" fill-rule="evenodd" xlink:href="#gno-e"/>
+    </g>
+  </g>
+</svg>

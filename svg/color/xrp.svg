@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
-    <title>color/xrp</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="color/xrp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" fill="#23292F" fill-rule="nonzero">
-            <circle id="Oval" cx="16" cy="16" r="16"></circle>
-        </g>
-        <g id="XRP-(XRP)" transform="translate(6.000000, 8.000000)" fill="#FFFFFF" fill-rule="nonzero">
-            <path d="M17.0703125,0 L19.9609375,0 L13.9453125,5.95703125 C11.765625,8.11328125 8.234375,8.11328125 6.0546875,5.95703125 L0.03515625,0 L2.9296875,0 L7.5,4.5234375 C8.87890625,5.890625 11.1171875,5.890625 12.4960937,4.5234375 L17.0703125,0 Z" id="Vector"></path>
-            <path d="M2.89453125,16.5625 L0,16.5625 L6.0546875,10.5703125 C8.234375,8.4140625 11.765625,8.4140625 13.9453125,10.5703125 L20,16.5625 L17.1054688,16.5625 L12.5,12 C11.1210938,10.6328125 8.8828125,10.6328125 7.50390625,12 L2.89453125,16.5625 Z" id="Vector_2"></path>
-        </g>
-    </g>
-</svg>
+<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>color/xrp</title><desc>Created with Sketch.</desc><g id="color/xrp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Group" fill="#23292F" fill-rule="nonzero"><circle id="Oval" cx="16" cy="16" r="16"/></g><g id="XRP-(XRP)" transform="translate(6.000000, 8.000000)" fill="#FFF" fill-rule="nonzero"><path d="M17.0703125,0 L19.9609375,0 L13.9453125,5.95703125 C11.765625,8.11328125 8.234375,8.11328125 6.0546875,5.95703125 L0.03515625,0 L2.9296875,0 L7.5,4.5234375 C8.87890625,5.890625 11.1171875,5.890625 12.4960937,4.5234375 L17.0703125,0 Z" id="Vector"/><path d="M2.89453125,16.5625 L0,16.5625 L6.0546875,10.5703125 C8.234375,8.4140625 11.765625,8.4140625 13.9453125,10.5703125 L20,16.5625 L17.1054688,16.5625 L12.5,12 C11.1210938,10.6328125 8.8828125,10.6328125 7.50390625,12 L2.89453125,16.5625 Z" id="Vector_2"/></g></g></svg>

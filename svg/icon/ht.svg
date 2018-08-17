@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/ht</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="15" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/ht" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#2A3069" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+                <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="15" cy="15" r="14.5"></circle>
+            </g>
+        </g>
+        <g id="Huobi-Token-(HT)" transform="translate(9.000000, 3.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M9.05333333,7.46666667 C9.05333333,4.38666667 7.56,1.77333333 6.44,0.933333333 C6.44,0.933333333 6.34666667,0.84 6.34666667,1.02666667 C6.34666667,1.02666667 6.34666667,1.02666667 6.34666667,1.02666667 C6.25333333,6.90666667 3.26666667,8.49333333 1.68,10.7333333 C-2.14666667,15.68 1.4,21.1866667 5.04,22.2133333 C7.09333333,22.7733333 4.57333333,21.1866667 4.29333333,17.92 C3.82666667,13.8133333 9.05333333,10.8266667 9.05333333,7.46666667" id="Fill-3"></path>
+            <path d="M11.0133333,9.52 C11.0133333,9.52 11.0133333,9.52 11.0133333,9.52 C10.8266667,10.2666667 10.08,11.8533333 9.05333333,13.3466667 C5.6,18.2933333 7.56,20.72 8.68,22.0266667 C9.33333333,22.7733333 8.68,22.0266667 10.2666667,21.28 C10.36,21.1866667 13.44,19.6 13.72,15.96 C14.0933333,12.4133333 11.8533333,10.1733333 11.0133333,9.52" id="Fill-5"></path>
+        </g>
+    </g>
+</svg>

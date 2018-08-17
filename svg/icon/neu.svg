@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/neu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="15" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/neu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#B3BA00" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+                <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="15" cy="15" r="14.5"></circle>
+            </g>
+        </g>
+        <g id="Neumark-(NEU)" transform="translate(5.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Shape" points="8.27260274 6.18561644 8.15205479 6.2609589 13.75 15.1061644 13.75 6.25342466 10.9547945 4.59589041"></polygon>
+            <polygon id="Shape" points="8.09178082 15.6109589 10.9547945 17.3136986 13.5691781 15.7616438 8.09178082 7.10479452"></polygon>
+            <polygon id="Shape" points="5.59041096 7.77534247 5.59041096 14.1342466 7.5869863 15.3171233 7.5869863 6.59246575"></polygon>
+            <polygon id="Shape" points="14.2547945 15.3547945 16.3191781 14.1342466 16.3191781 7.77534247 14.2547945 6.55479452"></polygon>
+            <path d="M11,0 C4.92739726,0 0,4.92739726 0,11 C0,17.0726027 4.92739726,22 11,22 C17.0726027,22 22,17.0726027 22,11 C22,4.92739726 17.0726027,0 11,0 Z M10.9547945,17.9842466 L5.01780822,14.4657534 L5.01780822,7.43630137 L10.9547945,3.92534247 L16.8917808,7.43630137 L16.8917808,14.4657534 L10.9547945,17.9842466 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

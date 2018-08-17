@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>black/neu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="black/neu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Combined-Shape" fill="#000000" fill-rule="nonzero" cx="16" cy="16" r="16"></circle>
+        <g id="Neumark-(NEU)" transform="translate(4.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Shape" points="9.02465753 6.74794521 8.89315068 6.83013699 15 16.4794521 15 6.82191781 11.9506849 5.01369863"></polygon>
+            <polygon id="Shape" points="8.82739726 17.030137 11.9506849 18.8876712 14.8027397 17.1945205 8.82739726 7.75068493"></polygon>
+            <polygon id="Shape" points="6.09863014 8.48219178 6.09863014 15.4191781 8.27671233 16.709589 8.27671233 7.19178082"></polygon>
+            <polygon id="Shape" points="15.5506849 16.7506849 17.8027397 15.4191781 17.8027397 8.48219178 15.5506849 7.15068493"></polygon>
+            <path d="M12,0 C5.37534247,0 0,5.37534247 0,12 C0,18.6246575 5.37534247,24 12,24 C18.6246575,24 24,18.6246575 24,12 C24,5.37534247 18.6246575,0 12,0 Z M11.9506849,19.6191781 L5.4739726,15.7808219 L5.4739726,8.11232877 L11.9506849,4.28219178 L18.4273973,8.11232877 L18.4273973,15.7808219 L11.9506849,19.6191781 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

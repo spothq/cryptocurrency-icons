@@ -5,12 +5,16 @@ const coins = require('coinlist');
 const alphaSort = require('alpha-sort');
 const manifest = require('../manifest.json');
 
+const overrides = new Map([
+	['VRSC', 'VerusCoin']
+]);
+
 const icons = manifest.map(icon => {
 	const id = typeof icon === 'string' ? icon : icon.symbol;
 
 	return {
 		symbol: id.toUpperCase(),
-		name: coins.get(id, 'name') || id
+		name: overrides.get(id) || coins.get(id, 'name') || id
 	};
 });
 

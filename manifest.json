@@ -20,6 +20,10 @@
 		"name": "Aeternity"
 	},
 	{
+		"symbol": "AEON",
+		"name": "Aeon"
+	},
+	{
 		"symbol": "AGI",
 		"name": "SingularityNET"
 	},
@@ -176,6 +180,10 @@
 		"name": "BitcoinZ"
 	},
 	{
+		"symbol": "BTDX",
+		"name": "Bitcloud"
+	},
+	{
 		"symbol": "BTG",
 		"name": "Bitcoin Gold"
 	},
@@ -236,6 +244,10 @@
 		"name": "Cobinhood"
 	},
 	{
+		"symbol": "COLX",
+		"name": "ColossusCoinXT"
+	},
+	{
 		"symbol": "CRED",
 		"name": "Verify"
 	},
@@ -250,6 +262,10 @@
 	{
 		"symbol": "CVC",
 		"name": "Civic"
+	},
+	{
+		"symbol": "DASH",
+		"name": "Dash"
 	},
 	{
 		"symbol": "DASH",
@@ -310,6 +326,10 @@
 	{
 		"symbol": "DRGN",
 		"name": "Dragonchain"
+	},
+	{
+		"symbol": "DROP",
+		"name": "Dropil"
 	},
 	{
 		"symbol": "DTA",
@@ -496,8 +516,16 @@
 		"name": "Genesis Vision"
 	},
 	{
+		"symbol": "GXLT",
+		"name": "GXLT"
+	},
+	{
 		"symbol": "GXS",
 		"name": "GXChain"
+	},
+	{
+		"symbol": "HODL",
+		"name": "HOdlcoin"
 	},
 	{
 		"symbol": "HPB",
@@ -506,6 +534,10 @@
 	{
 		"symbol": "HSR",
 		"name": "HShare"
+	},
+	{
+		"symbol": "HT",
+		"name": "Huobi Token"
 	},
 	{
 		"symbol": "HTML",
@@ -672,6 +704,10 @@
 		"name": "MonaCoin"
 	},
 	{
+		"symbol": "MSR",
+		"name": "Masari"
+	},
+	{
 		"symbol": "MTH",
 		"name": "Monetha"
 	},
@@ -716,6 +752,10 @@
 		"name": "Neoscoin"
 	},
 	{
+		"symbol": "NEU",
+		"name": "Neumark"
+	},
+	{
 		"symbol": "NGC",
 		"name": "NAGA"
 	},
@@ -730,6 +770,10 @@
 	{
 		"symbol": "NMC",
 		"name": "Namecoin"
+	},
+	{
+		"symbol": "NPXS",
+		"name": "Pundi X"
 	},
 	{
 		"symbol": "NULS",
@@ -758,6 +802,10 @@
 	{
 		"symbol": "ONT",
 		"name": "Ontology"
+	},
+	{
+		"symbol": "OST",
+		"name": "OST"
 	},
 	{
 		"symbol": "OST",
@@ -912,6 +960,10 @@
 		"name": "RUB"
 	},
 	{
+		"symbol": "SAFE",
+		"name": "Safe"
+	},
+	{
 		"symbol": "SALT",
 		"name": "SALT"
 	},
@@ -984,6 +1036,10 @@
 		"name": "Storm"
 	},
 	{
+		"symbol": "STQ",
+		"name": "Storiqa"
+	},
+	{
 		"symbol": "STRAT",
 		"name": "Stratis"
 	},
@@ -1040,6 +1096,10 @@
 		"name": "Tron"
 	},
 	{
+		"symbol": "TUSD",
+		"name": "True USD"
+	},
+	{
 		"symbol": "TZC",
 		"name": "TrezarCoin"
 	},
@@ -1090,6 +1150,10 @@
 	{
 		"symbol": "VRC",
 		"name": "VeriCoin"
+	},
+	{
+		"symbol": "VRSC",
+		"name": "VerusCoin"
 	},
 	{
 		"symbol": "VTC",
@@ -1156,6 +1220,10 @@
 		"name": "Magi"
 	},
 	{
+		"symbol": "XMO",
+		"name": "Monero Original"
+	},
+	{
 		"symbol": "XMR",
 		"name": "Monero"
 	},
@@ -1174,6 +1242,10 @@
 	{
 		"symbol": "XPM",
 		"name": "Primecoin"
+	},
+	{
+		"symbol": "XRP",
+		"name": "XRP"
 	},
 	{
 		"symbol": "XRP",

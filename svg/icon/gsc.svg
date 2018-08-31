@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/icon/gsc</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="15" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/gsc" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#FF0060" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+                <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="15" cy="15" r="14.5"></circle>
+            </g>
+        </g>
+        <g id="Global-Social-Chain-(GSC)" transform="translate(7.000000, 6.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M17.1627907,5.44186047 L8.93023256,5.44186047 C7.16249065,5.43921925 5.67221588,6.75930252 5.461516,8.51444468 C5.25081611,10.2695868 6.38630555,11.9048857 8.10444542,12.3207148 C9.82258528,12.7365439 11.580172,11.8014355 12.1953488,10.144186 L8.93023256,10.144186 C8.6858731,10.1445571 8.45141522,10.04765 8.2786268,9.87486157 C8.10583837,9.70207315 8.00893124,9.46761527 8.00930233,9.22325581 L8.00930233,9.11162791 C8.00893124,8.86726845 8.10583837,8.63281057 8.2786268,8.46002215 C8.45141522,8.28723372 8.6858731,8.19032659 8.93023256,8.19069767 L14.372093,8.19069767 C14.4119926,8.44451604 14.4306619,8.70121902 14.427907,8.95813953 C14.4125129,11.9907408 11.9443453,14.4381253 8.9117223,14.4278756 C5.87909926,14.4176258 3.42753142,11.9536135 3.43263676,8.92097742 C3.4377421,5.88834135 5.8975922,3.43259721 8.93023256,3.43255814 L9.09767442,3.40465116 C9.13294801,3.42046023 9.17073901,3.42990798 9.20930233,3.43255814 L14.0930233,3.43255814 C16.7581395,3.43255814 17.8465116,2.00930233 17.8465116,-1.42108547e-14 L8.93023256,-1.42108547e-14 C4.00366239,5.41252151e-05 0.00777061791,3.98978022 0.000108910288,8.91634443 C-0.00755279733,13.8429086 3.97591017,17.8450441 8.90245634,17.8604216 C13.8290025,17.8757991 17.8373718,13.8986091 17.8604651,8.97209302 L17.8604651,6.15348837 C17.8642147,5.96604794 17.7923685,5.78498585 17.6611206,5.65111296 C17.5298727,5.51724006 17.3502686,5.44182297 17.1627907,5.44186047 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

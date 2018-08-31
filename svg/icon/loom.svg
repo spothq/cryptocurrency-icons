@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/icon/loom</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="15" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/loom" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#48BEFF" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+                <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="15" cy="15" r="14.5"></circle>
+            </g>
+        </g>
+        <g id="Loom-Network-(LOOM)" transform="translate(5.000000, 5.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M16.6780952,19.4686905 L1.65785714,8.9322619 C0.619354387,8.20342538 0.00113423012,7.01427157 0.00113423012,5.74553571 C0.00113423012,4.47679986 0.619354387,3.28764605 1.65785714,2.55880952 L5.29833333,0 L20.3185714,10.5364286 C21.3570742,11.2652651 21.9752943,12.4544189 21.9752943,13.7231548 C21.9752943,14.9918906 21.3570742,16.1810444 20.3185714,16.909881 L16.6780952,19.4686905 Z M5.29440476,1.70761905 L2.45928571,3.69154762 C1.78981553,4.1594782 1.3909978,4.92481503 1.3909978,5.74160714 C1.3909978,6.55839926 1.78981553,7.32373609 2.45928571,7.79166667 L16.6807143,17.762381 L19.5171429,15.7784524 C20.186613,15.3105218 20.5854308,14.545185 20.5854308,13.7283929 C20.5854308,12.9116007 20.186613,12.1462639 19.5171429,11.6783333 L5.29440476,1.70761905 Z" id="Shape"></path>
+            <path d="M5.28261905,17.762381 L2.45011905,15.7758333 C1.78064886,15.3079028 1.38183113,14.5425659 1.38183113,13.7257738 C1.38183113,12.9089817 1.78064886,12.1436449 2.45011905,11.6757143 L9.78345238,6.55809524 L8.57345238,5.70690476 L1.65785714,10.5364286 C0.619354387,11.2652651 0.00113423012,12.4544189 0.00113423012,13.7231548 C0.00113423012,14.9918906 0.619354387,16.1810444 1.65785714,16.909881 L5.2852381,19.4569048 L9.77428571,16.3140476 L8.56952381,15.4654762 L5.28261905,17.762381 Z M20.3238095,2.56404762 L16.6925,0.0183333333 L12.2008333,3.16119048 L13.4055952,4.0097619 L16.6872619,1.71285714 L19.5197619,3.69940476 C20.1892321,4.16733534 20.5880498,4.93267217 20.5880498,5.74946429 C20.5880498,6.5662564 20.1892321,7.33159323 19.5197619,7.79952381 L12.1864286,12.9171429 L13.3911905,13.7657143 L20.3159524,8.92833333 C21.3544551,8.1994968 21.9726753,7.01034299 21.9726753,5.74160714 C21.9726753,4.47287129 21.3544551,3.28371748 20.3159524,2.55488095 L20.3238095,2.56404762 Z" id="Shape"></path>
+            <polygon id="Shape" points="2.51690476 9.92619048 8.2277381 5.92821429 9.02392857 7.06488095 3.31178571 11.0628571"></polygon>
+            <path d="M18.7877381,8.31547619 L16.0063095,10.2627381 L16.8011905,11.4007143 L19.6821429,9.38011905 C19.3757143,9.03047619 19.0797619,8.67297619 18.7825,8.31416667 L18.7877381,8.31547619 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/black/moac</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="black/moac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Combined-Shape" fill="#000000" fill-rule="nonzero" cx="16" cy="16" r="16"></circle>
+        <g id="MOAC-(MOAC)" transform="translate(7.000000, 7.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Shape" points="8.79230769 8.79230769 2.42307692 2.42307692 2.28461538 2.21538462 0.0207692308 0 0.0207692308 17.5153846 2.30538462 17.5153846 2.30538462 5.4 7.22076923 10.3846154 8.81307692 11.9769231 10.4053846 10.3846154 15.3207692 5.4 15.3207692 17.5153846 17.6053846 17.5153846 17.6053846 0 15.3207692 2.21538462"></polygon>
+        </g>
+    </g>
+</svg>

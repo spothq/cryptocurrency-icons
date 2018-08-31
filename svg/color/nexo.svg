@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/color/nexo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="color/nexo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#1A4199" fill-rule="nonzero">
+            <circle id="Oval" cx="16" cy="16" r="16"></circle>
+        </g>
+        <g id="Nexo-(NEXO)" transform="translate(5.000000, 7.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M5.676,0.1254 L16.4076,6.3162 L16.4076,12.6346 L0,3.1592 L5.2646,0.1254 C5.39461033,0.0503384996 5.55478967,0.0503384996 5.6848,0.1254" id="Shape" opacity="0.7"></path>
+            <polygon id="Shape-2" opacity="0.9" points="16.4076 0 10.9406 3.1592 16.4076 6.3162"></polygon>
+            <path d="M16.4076,0 L21.6722,3.036 C21.8071172,3.10910892 21.891453,3.24994962 21.8922,3.4034 L21.8922,15.7916 L16.4076,12.6346 L16.4076,0 Z" id="Shape-3"></path>
+            <path d="M21.8812,15.7916 L16.6166,18.8254 C16.4855823,18.8966027 16.3274177,18.8966027 16.1964,18.8254 L5.4648,12.6346 L5.4648,6.3074 L21.8812,15.7916 Z" id="Shape-4" opacity="0.9"></path>
+            <path d="M0,3.1592 L0,15.5474 C0.000747000955,15.7008504 0.085082751,15.8416911 0.22,15.9148 L5.4846,18.9508 L5.4846,6.3074 L0,3.1592 Z" id="Shape-5" opacity="0.6"></path>
+            <polygon id="Shape-6" opacity="0.7" points="5.4758 18.9508 10.9406 15.7916 5.4758 12.6346"></polygon>
+        </g>
+    </g>
+</svg>

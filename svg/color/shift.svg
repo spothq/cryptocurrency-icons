@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/color/shift</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="color/shift" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#964B9C" fill-rule="nonzero">
+            <circle id="Oval" cx="16" cy="16" r="16"></circle>
+        </g>
+        <g id="Shift-(SHIFT)" transform="translate(7.000000, 3.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Shape" opacity="0.6" points="13.5069453 13.4056592 9.03530547 17.877299 17.9774277 17.877299 13.5069453 13.4056592"></polygon>
+            <polygon id="Shape" opacity="0.7" points="4.52836013 13.4102894 9 8.93864952 0.0567202572 8.93864952 4.52893891 13.4102894"></polygon>
+            <polygon id="Shape" opacity="0.4" points="9.03472669 17.8778778 13.4953698 13.4172347 9.01446945 8.93633441 0.0717684887 17.8784566 9.01446945 26.8211576 17.9565916 17.8784566 17.9554341 17.8778778"></polygon>
+            <polygon id="Shape" opacity="0.8" points="9.0555627 0 0.118649518 8.93691318 9 8.93691318 4.55382637 13.3830868 9.0555627 17.8842444 17.9976849 8.94212219"></polygon>
+        </g>
+    </g>
+</svg>

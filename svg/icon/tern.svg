@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/icon/tern</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="15" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/tern" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#F4C257" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+                <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="15" cy="15" r="14.5"></circle>
+            </g>
+        </g>
+        <g id="Ternio-(TERN)" transform="translate(6.000000, 3.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M3.08596774,16.8532258 L2.03032258,16.2403226 L2.03032258,6.98645161 L3.73225806,5.99725806 L4.78774194,6.61016129 L3.08596774,7.59983871 L3.08596774,10.8167742 L7.39,13.3177419 L7.39,14.5080645 L3.08596774,12.0072581 L3.08596774,16.8532258 Z M17.9545161,15.0130645 L17.9545161,16.2398387 L9.99258065,20.8664516 L8.29048387,19.8774194 L8.29048387,18.6508065 L9.99241935,19.6395161 L12.7604839,18.0309677 L12.7604839,13.0290323 L13.7843548,12.433871 L13.7843548,17.436129 L17.9545161,15.0129032 L17.9545161,15.0130645 Z M19.985,11.6129032 L19.985,11.4032258 L15.8746774,13.7924194 L15.8746774,12.6020968 L19.9843548,10.2137097 L19.9843548,5.80645161 L9.99225806,0 L4.99612903,2.90322581 L4.81596774,3.00790323 L8.92612903,5.39612903 L7.90209677,5.99129032 L3.79193548,3.60274194 L0,5.80645161 L0,17.4193548 L4.99580645,20.3225806 L5.17596774,20.4274194 L5.17596774,15.6506452 L6.20032258,16.2458065 L6.20032258,21.0227419 L9.99241935,23.2258065 L19.9846774,17.4193548 C19.9846774,15.483871 19.9846774,13.5483871 19.9846774,11.6129032 L19.985,11.6129032 Z M14.8075806,9.40919355 L10.6703226,11.8145161 L10.6703226,16.8166129 L9.99290323,17.2103226 L9.48048387,16.9127419 L9.48048387,12.1030645 L5.17612903,9.60193548 L5.17612903,8.81435484 L5.68806452,8.51612903 L9.82629032,10.9209677 L14.1304839,8.42032258 L14.8079032,8.81419355 L14.8079032,9.40967742 L14.8075806,9.40919355 Z M8.9366129,2.97306452 L9.99225806,2.36016129 L17.953871,6.98677419 L17.953871,8.96435484 L16.8985484,9.57725806 L16.8985484,7.59935484 L14.1301613,5.99112903 L9.82629032,8.49225806 L8.80225806,7.89709677 L13.1062903,5.39580645 L8.9366129,2.97306452 Z" id="Composite_Path"></path>
+        </g>
+    </g>
+</svg>

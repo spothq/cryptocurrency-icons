@@ -8,6 +8,10 @@
 		"name": "Achain"
 	},
 	{
+		"symbol": "ACTN",
+		"name": "Action Coin"
+	},
+	{
 		"symbol": "ADA",
 		"name": "Cardano"
 	},
@@ -54,6 +58,10 @@
 	{
 		"symbol": "ARDR",
 		"name": "Ardor"
+	},
+	{
+		"symbol": "ARG",
+		"name": "Argentum"
 	},
 	{
 		"symbol": "ARK",
@@ -164,6 +172,10 @@
 		"name": "Bread"
 	},
 	{
+		"symbol": "BSD",
+		"name": "BitSend"
+	},
+	{
 		"symbol": "BTC",
 		"name": "Bitcoin"
 	},
@@ -224,6 +236,10 @@
 		"name": "Cloakcoin"
 	},
 	{
+		"symbol": "CMM",
+		"name": "Commercium"
+	},
+	{
 		"symbol": "CMT",
 		"name": "Comet"
 	},
@@ -258,6 +274,10 @@
 	{
 		"symbol": "CTR",
 		"name": "Centra"
+	},
+	{
+		"symbol": "CTXC",
+		"name": "Cortex"
 	},
 	{
 		"symbol": "CVC",
@@ -308,6 +328,10 @@
 		"name": "DigixDAO"
 	},
 	{
+		"symbol": "DHT",
+		"name": "Deep Health Chain"
+	},
+	{
 		"symbol": "DLT",
 		"name": "Agrello"
 	},
@@ -318,6 +342,10 @@
 	{
 		"symbol": "DNT",
 		"name": "district0x"
+	},
+	{
+		"symbol": "DOCK",
+		"name": "Dock"
 	},
 	{
 		"symbol": "DOGE",
@@ -444,6 +472,10 @@
 		"name": "Filecoin [Futures]"
 	},
 	{
+		"symbol": "FJC",
+		"name": "Fujicoin"
+	},
+	{
 		"symbol": "FLDC",
 		"name": "Foldingcoin"
 	},
@@ -488,6 +520,10 @@
 		"name": "GENERIC"
 	},
 	{
+		"symbol": "GMR",
+		"name": "Gimmer"
+	},
+	{
 		"symbol": "GNO",
 		"name": "Gnosis"
 	},
@@ -502,6 +538,10 @@
 	{
 		"symbol": "GRS",
 		"name": "Groestlcoin"
+	},
+	{
+		"symbol": "GSC",
+		"name": "Global Social Chain"
 	},
 	{
 		"symbol": "GTO",
@@ -522,6 +562,14 @@
 	{
 		"symbol": "GXS",
 		"name": "GXChain"
+	},
+	{
+		"symbol": "GZR",
+		"name": "Gizer"
+	},
+	{
+		"symbol": "HIGHT",
+		"name": "Highcoin"
 	},
 	{
 		"symbol": "HODL",
@@ -584,6 +632,10 @@
 		"name": "IOStoken"
 	},
 	{
+		"symbol": "IOTX",
+		"name": "IoTeX"
+	},
+	{
 		"symbol": "ITC",
 		"name": "IoT Chain"
 	},
@@ -630,6 +682,10 @@
 	{
 		"symbol": "LKK",
 		"name": "Lykke"
+	},
+	{
+		"symbol": "LOOM",
+		"name": "Loom Network"
 	},
 	{
 		"symbol": "LRC",
@@ -696,6 +752,10 @@
 		"name": "MNZ"
 	},
 	{
+		"symbol": "MOAC",
+		"name": "MOAC"
+	},
+	{
 		"symbol": "MOD",
 		"name": "Modum"
 	},
@@ -756,6 +816,10 @@
 		"name": "Neumark"
 	},
 	{
+		"symbol": "NEXO",
+		"name": "Nexo"
+	},
+	{
 		"symbol": "NGC",
 		"name": "NAGA"
 	},
@@ -792,6 +856,10 @@
 		"name": "OpenANX"
 	},
 	{
+		"symbol": "OK",
+		"name": "OKCash"
+	},
+	{
 		"symbol": "OMG",
 		"name": "OmiseGo"
 	},
@@ -820,12 +888,20 @@
 		"name": "Particl"
 	},
 	{
+		"symbol": "PASC",
+		"name": "Pascalcoin"
+	},
+	{
 		"symbol": "PASL",
 		"name": "Pascal Lite"
 	},
 	{
 		"symbol": "PAY",
 		"name": "TenX"
+	},
+	{
+		"symbol": "PAYX",
+		"name": "Paypex"
 	},
 	{
 		"symbol": "PINK",
@@ -916,6 +992,10 @@
 		"name": "Radium"
 	},
 	{
+		"symbol": "RAP",
+		"name": "Rapture"
+	},
+	{
 		"symbol": "RCN",
 		"name": "Rcoin"
 	},
@@ -984,6 +1064,14 @@
 		"name": "Siacoin"
 	},
 	{
+		"symbol": "SHIFT",
+		"name": "Shift"
+	},
+	{
+		"symbol": "SIB",
+		"name": "SIBCoin"
+	},
+	{
 		"symbol": "SKY",
 		"name": "Skycoin"
 	},
@@ -1006,6 +1094,10 @@
 	{
 		"symbol": "SNT",
 		"name": "Status"
+	},
+	{
+		"symbol": "SOC",
+		"name": "All Sports"
 	},
 	{
 		"symbol": "SPANK",
@@ -1064,6 +1156,10 @@
 		"name": "Telcoin"
 	},
 	{
+		"symbol": "TERN",
+		"name": "Ternio"
+	},
+	{
 		"symbol": "THETA",
 		"name": "Theta Network"
 	},
@@ -1090,6 +1186,10 @@
 	{
 		"symbol": "TRIG",
 		"name": "Triggers"
+	},
+	{
+		"symbol": "TRTL",
+		"name": "TurtleCoin"
 	},
 	{
 		"symbol": "TRX",
@@ -1176,6 +1276,10 @@
 		"name": "Wagerr"
 	},
 	{
+		"symbol": "WICC",
+		"name": "WaykiChain"
+	},
+	{
 		"symbol": "WINGS",
 		"name": "Wings"
 	},
@@ -1210,6 +1314,10 @@
 	{
 		"symbol": "XEM",
 		"name": "NEM"
+	},
+	{
+		"symbol": "XIN",
+		"name": "Infinity Economics"
 	},
 	{
 		"symbol": "XLM",
@@ -1250,6 +1358,10 @@
 	{
 		"symbol": "XRP",
 		"name": "XRP"
+	},
+	{
+		"symbol": "XSG",
+		"name": "SnowGem"
 	},
 	{
 		"symbol": "XTZ",

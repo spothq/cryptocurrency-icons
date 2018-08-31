@@ -6,7 +6,12 @@ const alphaSort = require('alpha-sort');
 const manifest = require('../manifest.json');
 
 const overrides = new Map([
-	['VRSC', 'VerusCoin']
+	['VRSC', 'VerusCoin'],
+	['GMR', 'Gimmer'],
+	['LOOM', 'Loom Network'],
+	['NEXO', 'Nexo'],
+	['TERN', 'Ternio'],
+	['CMM', 'Commercium']
 ]);
 
 const icons = manifest.map(icon => {

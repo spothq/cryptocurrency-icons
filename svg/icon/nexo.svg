@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/icon/nexo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="15" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/nexo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#1A4199" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+                <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="15" cy="15" r="14.5"></circle>
+            </g>
+        </g>
+        <g id="Nexo-(NEXO)" transform="translate(6.000000, 7.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M5.16,0.114 L14.916,5.742 L14.916,11.486 L0,2.872 L4.786,0.114 C4.90419121,0.0457622723 5.04980879,0.0457622723 5.168,0.114" id="Shape" opacity="0.7"></path>
+            <polygon id="Shape-2" opacity="0.9" points="14.916 0 9.946 2.872 14.916 5.742"></polygon>
+            <path d="M14.916,0 L19.702,2.76 C19.824652,2.82646265 19.9013209,2.95449965 19.902,3.094 L19.902,14.356 L14.916,11.486 L14.916,0 Z" id="Shape-3"></path>
+            <path d="M19.892,14.356 L15.106,17.114 C14.986893,17.1787297 14.843107,17.1787297 14.724,17.114 L4.968,11.486 L4.968,5.734 L19.892,14.356 Z" id="Shape-4" opacity="0.9"></path>
+            <path d="M0,2.872 L0,14.134 C0.000679091777,14.2735003 0.0773479555,14.4015373 0.2,14.468 L4.986,17.228 L4.986,5.734 L0,2.872 Z" id="Shape-5" opacity="0.6"></path>
+            <polygon id="Shape-6" opacity="0.7" points="4.978 17.228 9.946 14.356 4.978 11.486"></polygon>
+        </g>
+    </g>
+</svg>

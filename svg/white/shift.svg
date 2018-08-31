@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/white/shift</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="white/shift" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20.5205449,16.4192622 L24.9976849,11.9421222 L16.0555627,3 L7.11864952,11.9369132 L16,11.9369132 L15.9982637,11.9386495 L7.05672026,11.9386495 L11.5289389,16.4102894 L11.5283601,16.4102894 L11.5546946,16.3839549 L11.560628,16.3898876 L7.07176849,20.8784566 L16.0144695,29.8211576 L24.9565916,20.8784566 L24.9554341,20.8778778 L16.0619293,20.8778778 L16.062508,20.877299 L24.9774277,20.877299 L20.5205449,16.4192622 Z M16.0486165,20.877299 L16.0491953,20.8778778 L16.0347267,20.8778778 L16.0419605,20.870644 L16.0419605,20.870644 L16.0353055,20.877299 L16.0486165,20.877299 Z M16,32 C7.163444,32 0,24.836556 0,16 C0,7.163444 7.163444,0 16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <g id="Shift-(SHIFT)" transform="translate(7.000000, 3.000000)"></g>
+    </g>
+</svg>

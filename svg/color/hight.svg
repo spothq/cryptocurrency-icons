@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
-    <title>svg/color/hight</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="color/hight" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" fill="#117FC0" fill-rule="nonzero">
-            <circle id="Oval" cx="16" cy="16" r="16"></circle>
-        </g>
-        <g id="HighCoin-(HIGHT)" transform="translate(4.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
-            <path d="M22.4964238,6.33218543 L14.0407947,20.2712583 L8.9992053,20.2712583 L12.8741722,13.8754967 L9.02304636,13.8754967 L4.53298013,21.2789404 C8.94681819,24.8687863 15.28382,24.8337448 19.6576881,21.1953059 C24.0315561,17.5568669 25.2196075,11.3321297 22.493245,6.33854305 L22.4964238,6.33218543 Z" id="Shape"></path>
-            <path d="M15.1136424,3.83046358 L11.4437086,9.87019868 L15.3011921,9.87019868 L19.5750993,2.82119205 C15.1612613,-0.768653829 8.82425948,-0.733612346 4.45039141,2.90482659 C0.076523328,6.54326552 -1.11152802,12.7680028 1.61483444,17.7615894 L10.0672848,3.83046358 L15.1136424,3.83046358 Z" id="Shape"></path>
-        </g>
-    </g>
-</svg>
+<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>svg/color/hight</title><desc>Created with Sketch.</desc><g id="color/hight" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Group" fill="#117FC0" fill-rule="nonzero"><circle id="Oval" cx="16" cy="16" r="16"/></g><g id="HighCoin-(HIGHT)" transform="translate(4.000000, 4.000000)" fill="#FFF" fill-rule="nonzero"><path d="M22.4964238,6.33218543 L14.0407947,20.2712583 L8.9992053,20.2712583 L12.8741722,13.8754967 L9.02304636,13.8754967 L4.53298013,21.2789404 C8.94681819,24.8687863 15.28382,24.8337448 19.6576881,21.1953059 C24.0315561,17.5568669 25.2196075,11.3321297 22.493245,6.33854305 L22.4964238,6.33218543 Z" id="Shape"/><path d="M15.1136424,3.83046358 L11.4437086,9.87019868 L15.3011921,9.87019868 L19.5750993,2.82119205 C15.1612613,-0.768653829 8.82425948,-0.733612346 4.45039141,2.90482659 C0.076523328,6.54326552 -1.11152802,12.7680028 1.61483444,17.7615894 L10.0672848,3.83046358 L15.1136424,3.83046358 Z" id="Shape"/></g></g></svg>

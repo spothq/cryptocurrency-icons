@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
-    <title>svg/color/bsd</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="color/bsd" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" fill="#000000" fill-rule="nonzero">
-            <circle id="Oval" cx="16" cy="16" r="16"></circle>
-        </g>
-        <g id="Bitsend-(BSD)" transform="translate(4.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
-            <path d="M24,11.1272727 L0,11.1272727 L13.9636364,6.43636364 L15.9272727,0 L24,11.1272727 Z M0.109090909,12.6545455 L23.8909091,12.6545455 L9.92727273,17.2363636 L7.96363636,23.8909091 L0.109090909,12.6545455 Z" id="Shape"></path>
-        </g>
-    </g>
-</svg>
+<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>svg/color/bsd</title><desc>Created with Sketch.</desc><g id="color/bsd" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Group" fill="#000" fill-rule="nonzero"><circle id="Oval" cx="16" cy="16" r="16"/></g><g id="Bitsend-(BSD)" transform="translate(4.000000, 4.000000)" fill="#FFF" fill-rule="nonzero"><path d="M24,11.1272727 L0,11.1272727 L13.9636364,6.43636364 L15.9272727,0 L24,11.1272727 Z M0.109090909,12.6545455 L23.8909091,12.6545455 L9.92727273,17.2363636 L7.96363636,23.8909091 L0.109090909,12.6545455 Z" id="Shape"/></g></g></svg>

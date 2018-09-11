@@ -552,6 +552,10 @@
 		"name": "Guppy"
 	},
 	{
+		"symbol": "GUSD",
+		"name": "Gemini dollar"
+	},
+	{
 		"symbol": "GVT",
 		"name": "Genesis Vision"
 	},

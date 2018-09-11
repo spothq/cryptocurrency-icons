@@ -8,7 +8,8 @@ const manifest = require('../manifest.json');
 const overrides = new Map([
 	['VRSC', 'VerusCoin'],
 	['GMR', 'Gimmer'],
-	['NEXO', 'Nexo']
+	['NEXO', 'Nexo'],
+	['GUSD', 'Gemini dollar']
 ]);
 
 const icons = manifest.map(icon => {

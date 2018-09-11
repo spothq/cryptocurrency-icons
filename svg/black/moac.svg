@@ -1,1 +1,10 @@
-<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>svg/black/moac</title><desc>Created with Sketch.</desc><g id="black/moac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><circle id="Combined-Shape" fill="#000" fill-rule="nonzero" cx="16" cy="16" r="16"/><g id="MOAC-(MOAC)" transform="translate(7.000000, 7.000000)" fill="#FFF" fill-rule="nonzero"><polygon id="Shape" points="8.79230769 8.79230769 2.42307692 2.42307692 2.28461538 2.21538462 0.0207692308 0 0.0207692308 17.5153846 2.30538462 17.5153846 2.30538462 5.4 7.22076923 10.3846154 8.81307692 11.9769231 10.4053846 10.3846154 15.3207692 5.4 15.3207692 17.5153846 17.6053846 17.5153846 17.6053846 0 15.3207692 2.21538462"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/black/moac</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="black/moac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,32 C7.163444,32 0,24.836556 0,16 C0,7.163444 7.163444,0 16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 Z M15.7923077,15.7923077 L9.42307692,9.42307692 L9.28461538,9.21538462 L7.02076923,7 L7.02076923,24.5153846 L9.30538462,24.5153846 L9.30538462,12.4 L14.2207692,17.3846154 L15.8130769,18.9769231 L17.4053846,17.3846154 L22.3207692,12.4 L22.3207692,24.5153846 L24.6053846,24.5153846 L24.6053846,7 L22.3207692,9.21538462 L15.7923077,15.7923077 Z" id="Combined-Shape-Copy" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

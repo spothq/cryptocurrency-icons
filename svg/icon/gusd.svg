@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/icon/gusd</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="15" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/gusd" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#00DCFA" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+                <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="15" cy="15" r="14.5"></circle>
+            </g>
+        </g>
+        <g id="gusd-logo" transform="translate(6.000000, 5.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M13.0705882,0 C9.55294118,0 6.56470588,2.70588235 6.18823529,6.18823529 C2.70588235,6.56470588 0,9.55294118 0,13.0705882 C0,16.8941176 3.10588235,20 6.92941176,20 C10.4470588,20 13.4470588,17.2941176 13.8117647,13.8117647 C17.2941176,13.4352941 20,10.4470588 20,6.92941176 C20,3.10588235 16.8941176,9.69812466e-16 13.0705882,0 Z M18.3764706,7.70588235 C18.020978,10.0378788 16.19082,11.8680368 13.8588235,12.2235294 L13.8588235,7.70588235 L18.3764706,7.70588235 Z M1.62352941,12.2941176 C1.97431997,9.95754921 3.80552826,8.12157215 6.14117647,7.76470588 L6.14117647,12.2823529 L1.62352941,12.2823529 L1.62352941,12.2941176 Z M12.2352941,13.8588235 C11.8470808,16.489454 9.58853215,18.4375148 6.92941176,18.4352941 C4.25882353,18.4352941 2.01176471,16.4823529 1.62352941,13.8588235 L12.2352941,13.8588235 Z M12.2941176,7.70588235 L12.2941176,12.2823529 L7.70588235,12.2823529 L7.70588235,7.70588235 L12.2941176,7.70588235 Z M18.3764706,6.14117647 L7.76470588,6.14117647 C8.15291915,3.51054601 10.4114679,1.56248516 13.0705882,1.56470588 C15.7411765,1.56470588 17.9882353,3.51764706 18.3764706,6.14117647 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

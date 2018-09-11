@@ -1,7 +1,7 @@
 [
 	{
 		"symbol": "$PAC",
-		"name": "Paccoin"
+		"name": "PACcoin"
 	},
 	{
 		"symbol": "ACT",
@@ -97,7 +97,7 @@
 	},
 	{
 		"symbol": "BCC",
-		"name": "Bitconnect"
+		"name": "BCC"
 	},
 	{
 		"symbol": "BCD",
@@ -221,7 +221,7 @@
 	},
 	{
 		"symbol": "CDT",
-		"name": "Blox"
+		"name": "Coindash"
 	},
 	{
 		"symbol": "CHIPS",
@@ -261,7 +261,7 @@
 	},
 	{
 		"symbol": "COLX",
-		"name": "ColossusCoinXT"
+		"name": "ColossusXT"
 	},
 	{
 		"symbol": "CRED",
@@ -549,7 +549,7 @@
 	},
 	{
 		"symbol": "GUP",
-		"name": "Matchpool"
+		"name": "Guppy"
 	},
 	{
 		"symbol": "GVT",
@@ -585,7 +585,7 @@
 	},
 	{
 		"symbol": "HT",
-		"name": "Huobi Token"
+		"name": "HOTTO"
 	},
 	{
 		"symbol": "HTML",
@@ -1033,7 +1033,7 @@
 	},
 	{
 		"symbol": "RPX",
-		"name": "Red Pulse"
+		"name": "RPX"
 	},
 	{
 		"symbol": "RUB",
@@ -1397,7 +1397,7 @@
 	},
 	{
 		"symbol": "ZEN",
-		"name": "ZenCash"
+		"name": "Horizen"
 	},
 	{
 		"symbol": "ZIL",

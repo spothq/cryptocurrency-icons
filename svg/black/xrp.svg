@@ -1,1 +1,10 @@
-<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>black/xrp</title><desc>Created with Sketch.</desc><g id="black/xrp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><circle id="Combined-Shape" fill="#000" fill-rule="nonzero" cx="16" cy="16" r="16"/><g id="XRP-(XRP)" transform="translate(6.000000, 8.000000)" fill="#FFF" fill-rule="nonzero"><path d="M17.0703125,0 L19.9609375,0 L13.9453125,5.95703125 C11.765625,8.11328125 8.234375,8.11328125 6.0546875,5.95703125 L0.03515625,0 L2.9296875,0 L7.5,4.5234375 C8.87890625,5.890625 11.1171875,5.890625 12.4960937,4.5234375 L17.0703125,0 Z" id="Vector"/><path d="M2.89453125,16.5625 L0,16.5625 L6.0546875,10.5703125 C8.234375,8.4140625 11.765625,8.4140625 13.9453125,10.5703125 L20,16.5625 L17.1054688,16.5625 L12.5,12 C11.1210938,10.6328125 8.8828125,10.6328125 7.50390625,12 L2.89453125,16.5625 Z" id="Vector_2"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/black/xrp</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="black/xrp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,32 C7.163444,32 0,24.836556 0,16 C0,7.163444 7.163444,0 16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 Z M23.0703125,8 L18.4960938,12.5234375 C17.1171875,13.890625 14.8789062,13.890625 13.5,12.5234375 L8.9296875,8 L6.03515625,8 L12.0546875,13.9570312 C14.234375,16.1132812 17.765625,16.1132812 19.9453125,13.9570312 L25.9609375,8 L23.0703125,8 Z M8.89453125,24.5625 L13.5039062,20 C14.8828125,18.6328125 17.1210938,18.6328125 18.5,20 L23.1054688,24.5625 L26,24.5625 L19.9453125,18.5703125 C17.765625,16.4140625 14.234375,16.4140625 12.0546875,18.5703125 L6,24.5625 L8.89453125,24.5625 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

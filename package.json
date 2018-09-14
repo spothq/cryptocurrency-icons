@@ -43,7 +43,7 @@
   "scripts": {
     "test": "xo",
     "manifest": "node scripts/manifest.js",
-    "clean": "svgo svg/**/*.svg"
+    "clean": "svgo svg/**/*.svg --disable=removeViewBox"
   },
   "devDependencies": {
     "alpha-sort": "^2.0.1",

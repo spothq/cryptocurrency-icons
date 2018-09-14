@@ -43,7 +43,7 @@
   "scripts": {
     "test": "xo",
     "manifest": "node scripts/manifest.js",
-    "clean": "svgo -f svg/black && svgo -f svg/color && svgo -f svg/icon && svgo -f svg/white"
+    "clean": "svgo svg/**/*.svg"
   },
   "devDependencies": {
     "alpha-sort": "^2.0.1",
@@ -54,7 +54,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run manifest"
+      "pre-commit": "npm run manifest && npm run clean"
     }
   }
 }

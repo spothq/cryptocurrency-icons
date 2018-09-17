@@ -1,60 +1,57 @@
 {
-  "name": "cryptocurrency-icons",
-  "version": "0.5.1",
-  "description": "A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes",
-  "license": "CC0-1.0",
-  "repository": "atomiclabs/cryptocurrency-icons",
-  "homepage": "http://cryptoicons.co",
-  "author": {
-    "name": "Christopher Downer",
-    "url": "https://github.com/cjdowner"
-  },
-  "files": [
-    "32",
-    "32@2x",
-    "128",
-    "svg"
-  ],
-  "keywords": [
-    "cryptocurrency",
-    "icons",
-    "icon",
-    "crypto",
-    "currency",
-    "cryptocurrencies",
-    "currencies",
-    "symbols",
-    "svg",
-    "png",
-    "vector",
-    "color",
-    "coin",
-    "bitcoin",
-    "ethereum",
-    "flat-icons",
-    "altcoin",
-    "altcoins",
-    "icon-pack",
-    "icon-set",
-    "erc20-tokens",
-    "erc20",
-    "erc721"
-  ],
-  "scripts": {
-    "test": "xo",
-    "manifest": "node scripts/manifest.js",
-    "clean": "svgo svg/**/*.svg --disable=removeViewBox"
-  },
-  "devDependencies": {
-    "alpha-sort": "^2.0.1",
-    "coinlist": "^3.0.0",
-    "husky": "^1.0.0-rc.13",
-    "svgo": "1.0.5",
-    "xo": "^0.22.0"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run manifest && npm run clean"
-    }
-  }
+	"name": "cryptocurrency-icons",
+	"version": "0.5.1",
+	"description": "A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes",
+	"license": "CC0-1.0",
+	"repository": "atomiclabs/cryptocurrency-icons",
+	"homepage": "http://cryptoicons.co",
+	"files": [
+		"32",
+		"32@2x",
+		"128",
+		"svg"
+	],
+	"keywords": [
+		"cryptocurrency",
+		"icons",
+		"icon",
+		"crypto",
+		"currency",
+		"cryptocurrencies",
+		"currencies",
+		"symbols",
+		"svg",
+		"png",
+		"vector",
+		"color",
+		"coin",
+		"bitcoin",
+		"ethereum",
+		"flat-icons",
+		"altcoin",
+		"altcoins",
+		"icon-pack",
+		"icon-set",
+		"erc20-tokens",
+		"erc20",
+		"erc721"
+	],
+	"scripts": {
+		"test": "xo",
+		"manifest": "node scripts/manifest.js",
+		"clean": "svgo $(globby {svg,originals}/**/*.svg) --disable=removeViewBox"
+	},
+	"devDependencies": {
+		"alpha-sort": "^2.0.1",
+		"coinlist": "^3.0.0",
+		"globby-cli": "^1.0.1",
+		"husky": "^1.0.0-rc.13",
+		"svgo": "^1.1.0",
+		"xo": "^0.23.0"
+	},
+	"husky": {
+		"hooks": {
+			"pre-commit": "npm run manifest && npm run clean"
+		}
+	}
 }

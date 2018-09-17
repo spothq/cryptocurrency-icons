@@ -42,17 +42,19 @@
   ],
   "scripts": {
     "test": "xo",
-    "manifest": "node scripts/manifest.js"
+    "manifest": "node scripts/manifest.js",
+    "clean": "svgo svg/**/*.svg --disable=removeViewBox"
   },
   "devDependencies": {
     "alpha-sort": "^2.0.1",
     "coinlist": "^3.0.0",
     "husky": "^1.0.0-rc.13",
+    "svgo": "1.0.5",
     "xo": "^0.22.0"
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run manifest"
+      "pre-commit": "npm run manifest && npm run clean"
     }
   }
 }

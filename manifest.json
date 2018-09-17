@@ -216,6 +216,10 @@
 		"name": "Burst"
 	},
 	{
+		"symbol": "CALL",
+		"name": "Capital"
+	},
+	{
 		"symbol": "CDN",
 		"name": "Canada eCoin"
 	},

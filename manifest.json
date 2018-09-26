@@ -4,6 +4,10 @@
 		"name": "PACcoin"
 	},
 	{
+		"symbol": "ABT",
+		"name": "Arcblock"
+	},
+	{
 		"symbol": "ACT",
 		"name": "Achain"
 	},
@@ -84,6 +88,10 @@
 		"name": "ATMChain"
 	},
 	{
+		"symbol": "AUTO",
+		"name": "Cube"
+	},
+	{
 		"symbol": "BAT",
 		"name": "Basic Attention Token"
 	},
@@ -160,6 +168,10 @@
 		"name": "Bounty0x"
 	},
 	{
+		"symbol": "BOS",
+		"name": "BOScoin"
+	},
+	{
 		"symbol": "BPT",
 		"name": "Blockport"
 	},
@@ -228,8 +240,16 @@
 		"name": "Coindash"
 	},
 	{
+		"symbol": "CHAT",
+		"name": "ChatCoin"
+	},
+	{
 		"symbol": "CHIPS",
 		"name": "CHIPS"
+	},
+	{
+		"symbol": "CIX",
+		"name": "Cryptonetix"
 	},
 	{
 		"symbol": "CLAM",
@@ -268,12 +288,24 @@
 		"name": "ColossusXT"
 	},
 	{
+		"symbol": "COQUI",
+		"name": "COQUI Cash"
+	},
+	{
 		"symbol": "CRED",
 		"name": "Verify"
 	},
 	{
 		"symbol": "CRPT",
 		"name": "Crypterium"
+	},
+	{
+		"symbol": "CRW",
+		"name": "Crown"
+	},
+	{
+		"symbol": "CS",
+		"name": "CREDITS"
 	},
 	{
 		"symbol": "CTR",
@@ -314,6 +346,10 @@
 	{
 		"symbol": "DCR",
 		"name": "Decred"
+	},
+	{
+		"symbol": "DEEZ",
+		"name": "DeezNuts"
 	},
 	{
 		"symbol": "DENT",
@@ -376,6 +412,10 @@
 		"name": "eBoost"
 	},
 	{
+		"symbol": "ECA",
+		"name": "Electra"
+	},
+	{
 		"symbol": "EDG",
 		"name": "Edgeless"
 	},
@@ -386,6 +426,10 @@
 	{
 		"symbol": "EDOGE",
 		"name": "EtherDoge"
+	},
+	{
+		"symbol": "ELA",
+		"name": "Elastos"
 	},
 	{
 		"symbol": "ELF",
@@ -486,6 +530,10 @@
 	{
 		"symbol": "FLO",
 		"name": "FLO"
+	},
+	{
+		"symbol": "FSN",
+		"name": "FUSION"
 	},
 	{
 		"symbol": "FTC",
@@ -744,6 +792,10 @@
 		"name": "IOTA"
 	},
 	{
+		"symbol": "MITH",
+		"name": "Mithril"
+	},
+	{
 		"symbol": "MKR",
 		"name": "Maker"
 	},
@@ -788,6 +840,10 @@
 		"name": "Musicoin"
 	},
 	{
+		"symbol": "MZC",
+		"name": "MAZA"
+	},
+	{
 		"symbol": "NANO",
 		"name": "Nano"
 	},
@@ -830,6 +886,10 @@
 	{
 		"symbol": "NGC",
 		"name": "NAGA"
+	},
+	{
+		"symbol": "NIO",
+		"name": "Autonio"
 	},
 	{
 		"symbol": "NLC2",
@@ -878,6 +938,10 @@
 	{
 		"symbol": "ONT",
 		"name": "Ontology"
+	},
+	{
+		"symbol": "OOT",
+		"name": "Utrum"
 	},
 	{
 		"symbol": "OST",
@@ -1048,6 +1112,10 @@
 		"name": "RUB"
 	},
 	{
+		"symbol": "RVN",
+		"name": "Ravencoin"
+	},
+	{
 		"symbol": "SAFE",
 		"name": "Safe"
 	},
@@ -1082,6 +1150,10 @@
 	{
 		"symbol": "SKY",
 		"name": "Skycoin"
+	},
+	{
+		"symbol": "SLR",
+		"name": "Solarcoin"
 	},
 	{
 		"symbol": "SLS",
@@ -1148,6 +1220,10 @@
 		"name": "Substratum"
 	},
 	{
+		"symbol": "SUMO",
+		"name": "Sumokoin"
+	},
+	{
 		"symbol": "SYS",
 		"name": "Syscoin"
 	},
@@ -1162,6 +1238,10 @@
 	{
 		"symbol": "TEL",
 		"name": "Telcoin"
+	},
+	{
+		"symbol": "TEN",
+		"name": "Tokenomy"
 	},
 	{
 		"symbol": "TERN",
@@ -1270,6 +1350,10 @@
 	{
 		"symbol": "WABI",
 		"name": "WaBi"
+	},
+	{
+		"symbol": "WAN",
+		"name": "Wanchain"
 	},
 	{
 		"symbol": "WAVES",
@@ -1402,6 +1486,10 @@
 	{
 		"symbol": "ZEC",
 		"name": "Zcash"
+	},
+	{
+		"symbol": "ZEL",
+		"name": "ZelCash"
 	},
 	{
 		"symbol": "ZEN",

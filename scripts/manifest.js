@@ -10,7 +10,12 @@ const overrides = new Map([
 	['GMR', 'Gimmer'],
 	['NEXO', 'Nexo'],
 	['GUSD', 'Gemini dollar'],
-	['CALL', 'Capital']
+	['CALL', 'Capital'],
+	['BOS', 'BOScoin'],
+	['CIX', 'Cryptonetix'],
+	['COQUI', 'COQUI Cash'],
+	['DEEZ', 'DeezNuts'],
+	['MZC', 'MAZA']
 ]);
 
 const icons = manifest.map(icon => {

@@ -15,7 +15,9 @@ const overrides = new Map([
 	['CIX', 'Cryptonetix'],
 	['COQUI', 'COQUI Cash'],
 	['DEEZ', 'DeezNuts'],
-	['MZC', 'MAZA']
+	['MZC', 'MAZA'],
+	['CVC', 'Civic'],
+	['BTM', 'Bitmark']
 ]);
 
 const icons = manifest.map(icon => {

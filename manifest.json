@@ -368,10 +368,6 @@
 		"name": "DigixDAO"
 	},
 	{
-		"symbol": "DHT",
-		"name": "Deep Health Chain"
-	},
-	{
 		"symbol": "DLT",
 		"name": "Agrello"
 	},
@@ -402,6 +398,10 @@
 	{
 		"symbol": "DTA",
 		"name": "DATA"
+	},
+	{
+		"symbol": "DTH",
+		"name": "Dether"
 	},
 	{
 		"symbol": "DTR",

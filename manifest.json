@@ -1312,12 +1312,12 @@
 		"name": "UTRUST"
 	},
 	{
-		"symbol": "VEN",
-		"name": "VEN"
-	},
-	{
 		"symbol": "VERI",
 		"name": "Veritaseum"
+	},
+	{
+		"symbol": "VET",
+		"name": "VeChain"
 	},
 	{
 		"symbol": "VIA",

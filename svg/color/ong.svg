@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/color/ong</title>
+    <desc>Created with Sketch.</desc>
+    <g id="color/ong" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#000000" fill-rule="nonzero">
+            <circle id="Oval" cx="16" cy="16" r="16"></circle>
+        </g>
+        <g id="SoMee.Social-(ONG)" transform="translate(5.000000, 5.000000)" fill="#FFFFFF">
+            <path d="M10.9428249,21.3114124 C16.6827119,21.3114124 21.0305085,17.4645198 21.9328814,12.4331073 L17.0357062,12.4331073 C16.3036158,15.1054237 14.0315254,17.060565 11.0012429,17.060565 C7.9920904,17.060565 5.69141243,15.0917514 4.92824859,12.4331073 L0,12.4331073 C0.868813559,17.4831638 5.18056497,21.3114124 10.9428249,21.3114124 Z" id="Path"></path>
+            <circle id="Oval" cx="10.9714124" cy="2.52689266" r="2.52689266"></circle>
+            <path d="M4.65480226,12.4331073 L4.65480226,12.3821469 C4.65480226,8.7900565 7.22892655,5.85672316 10.940339,5.85672316 C14.6517514,5.85672316 17.279322,8.83977401 17.2855367,12.4331073 L4.65480226,12.4331073 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/icon/stak</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="15" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/stak" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#F2941B" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+                <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="15" cy="15" r="14.5"></circle>
+            </g>
+        </g>
+        <g id="Straks-(STAK)" transform="translate(5.000000, 5.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M11.5188679,0 L11.5292453,0 C13.4283019,1.87830189 15.3066038,3.77735849 17.195283,5.66603774 L21.9066038,5.66603774 L11.3009434,20.6924528 C11.1245283,18.9283019 10.9896226,17.1641509 10.8339623,15.4 C12.3698113,13.1896226 13.9471698,11 15.4830189,8.8 L11.9754717,5.30283019 C11.9722784,4.88915752 11.9375869,4.47632867 11.8716981,4.06792453 C11.7575472,2.71886792 11.6849057,1.3490566 11.5188679,0 Z" id="Shape"></path>
+            <path d="M0.0103773585,15.0886792 C3.56981132,10.0867925 7.09811321,5.06415094 10.6471698,0.0518867925 L11.0933962,5.36509434 C9.54716981,7.5754717 7.99056604,9.75471698 6.44433962,11.954717 C7.59622642,13.1066038 8.74811321,14.2792453 9.92075472,15.4311321 C10.0764151,17.195283 10.2113208,18.9801887 10.3877358,20.754717 L10.3669811,20.754717 L4.73207547,15.109434 C3.15471698,15.1301887 1.57735849,15.0990566 0,15.1301887 L0,15.0886792 L0.0103773585,15.0886792 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/color/xmcc</title>
+    <desc>Created with Sketch.</desc>
+    <g id="color/xmcc" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#DD0632" fill-rule="nonzero">
+            <circle id="Oval" cx="16" cy="16" r="16"></circle>
+        </g>
+        <g id="Monoeci-(XMCC)" transform="translate(4.000000, 7.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M18.6816,0 L13.5216,0 L11.988,2.652 L10.4592,0 L5.2968,0 L0,9.1752 L5.1288,18.0552 L8.6064,12.036 L12,17.8968 L15.384,12.036 L18.8688,18.096 L24,9.216 L18.6816,0 Z M5.1216,14.544 L2.0208,9.1776 L4.488,4.9056 L7.5888,10.2768 L5.1216,14.5488 L5.1216,14.544 Z M5.5056,3.1416 L6.324,1.7208 L9.4152,1.7208 L10.9704,4.4136 L8.6064,8.5128 L5.5056,3.1416 Z M11.9856,14.3736 L9.624,10.272 L11.988,6.1752 L13.044,7.9992 L14.3544,10.272 L11.988,14.3688 L11.9856,14.3736 Z M13.0032,4.4136 L14.5608,1.7208 L17.652,1.7208 L18.48,3.1416 L15.36,8.5128 L13.0032,4.4136 Z M20.9712,10.9512 L18.8784,14.5824 L16.3896,10.2624 L19.4904,4.9032 L20.3256,6.3432 L21.9792,9.2064 L20.9712,10.9512 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

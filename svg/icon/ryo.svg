@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/icon/ryo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="15" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/ryo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#3D58B0" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+                <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="15" cy="15" r="14.5"></circle>
+            </g>
+        </g>
+        <g id="Ryo-Currency-(RYO)" transform="translate(5.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M10.9867849,5.16758353e-15 C4.92781509,5.16758353e-15 0,4.92781455 0,10.9867855 C0,17.0457545 4.92781509,21.9734764 10.9867849,21.9734764 C17.0457558,21.9734764 21.9735709,17.0457545 21.9735709,10.9867855 C21.9735709,4.92781455 17.0457558,0 10.9867849,0 Z M10.9867849,1.49626727 C16.2370995,1.49626727 20.4772091,5.73646909 20.4772091,10.9867855 C20.4772091,16.2371 16.2370995,20.4772091 10.9867849,20.4772091 C5.73647073,20.4772091 1.49626764,16.2371 1.49626764,10.9867855 C1.49626764,5.73646909 5.73647073,1.49626727 10.9867849,1.49626727 Z" id="path3827"></path>
+            <path d="M6.90491109,6.92971455 L6.90491109,7.59474364 L6.90491109,15.04376 L15.0685649,15.04376 L15.0685649,6.92971455 L6.90491109,6.92971455 Z M8.23496818,8.25977273 L13.7385085,8.25977273 L13.7385085,13.7137036 L8.23496818,13.7137036 L8.23496818,8.25977273 Z" id="rect3829"></path>
+        </g>
+    </g>
+</svg>

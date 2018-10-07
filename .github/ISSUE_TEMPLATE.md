@@ -18,7 +18,7 @@ Logo (SVG): https://en.bitcoin.it/wiki/Promotional_graphics
 
 Either embed the logo as a ZIP file or link to somewhere we can download it.
 
-Ensure the SVG file is a proper vector file and not just embedding a PNG file.
+Ensure the SVG file is a proper vector file and not just embedding a PNG/JPEG file. If the SVG source contains `data:image/png;base64`/`data:image/jpeg;base64` or its size is larger than 100 KB, it's not a valid vectorized SVG file.
 -->
 
 Currency name:

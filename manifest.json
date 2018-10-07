@@ -572,6 +572,10 @@
 		"name": "GENERIC"
 	},
 	{
+		"symbol": "GLXT",
+		"name": "GLX Token"
+	},
+	{
 		"symbol": "GMR",
 		"name": "Gimmer"
 	},
@@ -610,10 +614,6 @@
 	{
 		"symbol": "GVT",
 		"name": "Genesis Vision"
-	},
-	{
-		"symbol": "GXLT",
-		"name": "GXLT"
 	},
 	{
 		"symbol": "GXS",

@@ -17,7 +17,8 @@ const overrides = new Map([
 	['DEEZ', 'DeezNuts'],
 	['MZC', 'MAZA'],
 	['CVC', 'Civic'],
-	['BTM', 'Bitmark']
+	['BTM', 'Bitmark'],
+	['GLXT', 'GLX Token']
 ]);
 
 const icons = manifest.map(icon => {

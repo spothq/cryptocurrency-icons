@@ -18,7 +18,10 @@ const overrides = new Map([
 	['MZC', 'MAZA'],
 	['CVC', 'Civic'],
 	['BTM', 'Bitmark'],
-	['GLXT', 'GLX Token']
+	['GLXT', 'GLX Token'],
+	['ONG', 'SoMee.Social'],
+	['CC', 'CoinCollect'],
+	['2GIVE', '2Give']
 ]);
 
 const icons = manifest.map(icon => {

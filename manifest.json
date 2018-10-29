@@ -4,6 +4,10 @@
 		"name": "PACcoin"
 	},
 	{
+		"symbol": "2GIVE",
+		"name": "2Give"
+	},
+	{
 		"symbol": "ABT",
 		"name": "Arcblock"
 	},
@@ -14,6 +18,10 @@
 	{
 		"symbol": "ACTN",
 		"name": "Action Coin"
+	},
+	{
+		"symbol": "ADA",
+		"name": "Cardano"
 	},
 	{
 		"symbol": "ADA",
@@ -196,6 +204,10 @@
 		"name": "BitcoinDark"
 	},
 	{
+		"symbol": "BTCH",
+		"name": "Bitcoin Hush"
+	},
+	{
 		"symbol": "BTCP",
 		"name": "Bitcoin Private"
 	},
@@ -230,6 +242,10 @@
 	{
 		"symbol": "CALL",
 		"name": "Capital"
+	},
+	{
+		"symbol": "CC",
+		"name": "CoinCollect"
 	},
 	{
 		"symbol": "CDN",
@@ -936,6 +952,10 @@
 		"name": "Omni (Mastercoin)"
 	},
 	{
+		"symbol": "ONG",
+		"name": "SoMee.Social"
+	},
+	{
 		"symbol": "ONT",
 		"name": "Ontology"
 	},
@@ -998,6 +1018,10 @@
 	{
 		"symbol": "POE",
 		"name": "Po.et"
+	},
+	{
+		"symbol": "POLIS",
+		"name": "Polis"
 	},
 	{
 		"symbol": "POLY",
@@ -1116,6 +1140,10 @@
 		"name": "Ravencoin"
 	},
 	{
+		"symbol": "RYO",
+		"name": "Ryo Currency"
+	},
+	{
 		"symbol": "SAFE",
 		"name": "Safe"
 	},
@@ -1164,6 +1192,10 @@
 		"name": "SmartCash"
 	},
 	{
+		"symbol": "SMART",
+		"name": "SmartCash"
+	},
+	{
 		"symbol": "SNGLS",
 		"name": "SingularDTV"
 	},
@@ -1190,6 +1222,10 @@
 	{
 		"symbol": "SRN",
 		"name": "Sirin Labs Token"
+	},
+	{
+		"symbol": "STAK",
+		"name": "STRAKS"
 	},
 	{
 		"symbol": "START",
@@ -1246,6 +1282,10 @@
 	{
 		"symbol": "TERN",
 		"name": "Ternio"
+	},
+	{
+		"symbol": "TGCH",
+		"name": "TrueGalaxyCash"
 	},
 	{
 		"symbol": "THETA",
@@ -1416,6 +1456,10 @@
 		"name": "Stellar"
 	},
 	{
+		"symbol": "XMCC",
+		"name": "Monoeci"
+	},
+	{
 		"symbol": "XMG",
 		"name": "Magi"
 	},
@@ -1494,6 +1538,10 @@
 	{
 		"symbol": "ZEN",
 		"name": "Horizen"
+	},
+	{
+		"symbol": "ZEST",
+		"name": "Zest"
 	},
 	{
 		"symbol": "ZIL",

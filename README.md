@@ -1,10 +1,12 @@
 # Cryptocurrency Icons
 
-[This project](http://cryptoicons.co) contains over 2000 icons – [330 crypto, and fiat currencies](Coin%20List.md), in 4 styles and a range of sizes. Completely free. All I ask is that you don’t claim them as your own, and share this resource with others.
+[This project](http://cryptoicons.co) contains over 6000 icons – almost 400 crypto currencies, in 4 styles and a range of sizes. Completely free. All we ask is that you don’t claim them as your own, and share this resource with others.
 
-Images are in the PNG format (transparent) in 32×32, 64×64(@2x), and 128×128 variants, along with SVG versions.
+We also have some fiat currencies: `USD`, `GBP`, `EUR`, `JPY`, `CNY`, `RUB`. *(We don't intend to add more)*
 
-If there is an altcoin you’re looking for that hasn’t been included, please create a new issue.
+Images are in the PNG format (transparent) in `32×32`, `32×32 (2x)`, and `128×128` variants, along with SVG versions.
+
+If there is an altcoin you’re looking for that hasn’t been included, please [create a new issue](https://github.com/atomiclabs/cryptocurrency-icons/issues/new).
 
 
 ## Install 🚀

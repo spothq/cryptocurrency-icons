@@ -17,6 +17,8 @@ $ npm install cryptocurrency-icons
 
 You can then import the icons from `./node_modules/cryptocurrency-icons`, for example `./node_modules/cryptocurrency-icons/svg/color/kmd.svg`.
 
+There's also a `manifest.json` file included in the package with a list of the currency symbol and name of the icons.
+
 
 ## Special Thanks 👏
 

@@ -9,7 +9,8 @@
 		"32",
 		"32@2x",
 		"128",
-		"svg"
+		"svg",
+		"manifest.json"
 	],
 	"keywords": [
 		"cryptocurrency",

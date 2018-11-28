@@ -6,7 +6,7 @@ We also have some fiat currencies: `USD`, `GBP`, `EUR`, `JPY`, `CNY`, `RUB`. *(W
 
 Images are in the PNG format (transparent) in `32×32`, `32×32 (2x)`, and `128×128` variants, along with SVG versions.
 
-If there is an altcoin you’re looking for that hasn’t been included, please [create a new issue](https://github.com/atomiclabs/cryptocurrency-icons/issues/new).
+If there is an altcoin you’re looking for that hasn’t been included, please [create a new issue](https://github.com/atomiclabs/cryptocurrency-icons/issues/new).<br><sub>(We don't accept pull request contributions for new or updated icons at this time. Open an issue and we'll do the icon for you.)</sub>
 
 
 ## Install 🚀

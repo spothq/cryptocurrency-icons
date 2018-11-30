@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/icon/tks</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="15" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/tks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#895AF8" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+                <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="15" cy="15" r="14.5"></circle>
+            </g>
+        </g>
+        <g id="tks-1" transform="translate(5.000000, 4.000000)" fill="#FFFFFF">
+            <path d="M12.6225,9.39583333 C12.7690344,9.3870254 12.9159656,9.3870254 13.0625,9.39583333 C14.4191667,9.4875 15.0425,11.33 15.9041667,11.2291667 C15.0965932,11.8893387 14.159873,12.3733108 13.1541667,12.65 C12.2922077,12.775786 11.4607514,12.2776785 11.165,11.4583333 L11.165,15.125 L16.5,12.0816667 L16.5,7.33333333 L12.6225,9.39583333 Z" id="Path"></path>
+            <path d="M9.97333333,9.38666667 C9.56434556,9.04772297 9.31790949,8.55152061 9.295,8.02083333 L9.295,7.9475 C9.295,6.88416667 11.0091667,5.1975 11.0641667,5.1975 C11.1191667,5.2525 12.8333333,6.89333333 12.8333333,7.9475 L12.8333333,8.03 C12.8169714,8.50078322 12.6200212,8.94720368 12.2833333,9.27666667 L16.5,7.0125 L11,4.3175 L5.5,6.985 L9.97333333,9.38666667 Z" id="Path"></path>
+            <path d="M10.8716667,11.495 C10.579288,12.3179888 9.74694377,12.8204638 8.8825,12.6958333 C7.87679368,12.4191441 6.9400735,11.9351721 6.1325,11.275 C6.99416667,11.3391667 7.60833333,9.4875 8.97416667,9.44166667 C9.1207011,9.43285873 9.26763224,9.43285873 9.41416667,9.44166667 L5.5,7.33333333 L5.5,12.0908333 L10.8808333,15.1983333 L10.8716667,11.495 Z" id="Path"></path>
+            <path d="M11,0 C4.92486775,-3.71994563e-16 7.43989126e-16,4.92486775 0,11 C-7.43989126e-16,17.0751322 4.92486775,22 11,22 C17.0751322,22 22,17.0751322 22,11 C22,8.08261861 20.8410748,5.28472557 18.7781746,3.22182541 C16.7152744,1.15892524 13.9173814,1.78638089e-16 11,0 Z M4.85833333,6.59083333 L11,3.61166667 L17.1508333,6.59083333 L17.1508333,12.4483333 L11,15.9958333 L4.85833333,12.4483333 L4.85833333,6.59083333 Z M17.1691667,14.8408333 L11.0458333,18.3791667 L4.84916667,14.8041667 L4.84916667,14.465 L11.0458333,18.04 L17.1691667,14.5016667 L17.1691667,14.8408333 Z M17.1691667,14.1533333 L11.0458333,17.6916667 L4.84916667,14.1166667 L4.84916667,13.75 L11.0458333,17.3341667 L17.1691667,13.7958333 L17.1691667,14.1533333 Z M17.1691667,13.4658333 L11.0458333,17.0041667 L4.84916667,13.4291667 L4.84916667,13.09 L11.0458333,16.6741667 L17.1691667,13.1358333 L17.1691667,13.4658333 Z" id="Shape" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

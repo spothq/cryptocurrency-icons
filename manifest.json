@@ -176,6 +176,10 @@
 		"name": "Bounty0x"
 	},
 	{
+		"symbol": "BOOTY",
+		"name": "Booty"
+	},
+	{
 		"symbol": "BOS",
 		"name": "BOScoin"
 	},
@@ -474,6 +478,10 @@
 	{
 		"symbol": "ENJ",
 		"name": "Enjin Coin"
+	},
+	{
+		"symbol": "ENTRP",
+		"name": "Hut34 Entropy"
 	},
 	{
 		"symbol": "EOS",
@@ -996,6 +1004,10 @@
 		"name": "Paypex"
 	},
 	{
+		"symbol": "PGT",
+		"name": "Pungo Token"
+	},
+	{
 		"symbol": "PINK",
 		"name": "Pinkcoin"
 	},
@@ -1312,6 +1324,10 @@
 		"name": "Tierion"
 	},
 	{
+		"symbol": "TPAY",
+		"name": "TokenPay"
+	},
+	{
 		"symbol": "TRIG",
 		"name": "Triggers"
 	},
@@ -1422,6 +1438,10 @@
 	{
 		"symbol": "WTC",
 		"name": "Waltonchain"
+	},
+	{
+		"symbol": "X",
+		"name": "GLX Equity Token"
 	},
 	{
 		"symbol": "XAS",

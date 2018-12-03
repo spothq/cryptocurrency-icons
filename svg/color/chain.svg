@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/color/chain</title>
+    <desc>Created with Sketch.</desc>
+    <g id="color/chain" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#00ACED" fill-rule="nonzero">
+            <circle id="Oval" cx="16" cy="16" r="16"></circle>
+        </g>
+        <g id="chain" transform="translate(6.000000, 4.000000)" fill="#FFFFFF">
+            <polygon id="Path" points="0 5.71428571 0 9.79047619 9.8952381 15.5047619 16.3142857 11.7904762 16.3142857 15.1047619 19.7714286 17.1428571 19.7714286 5.71428571 9.88571429 11.4285714"></polygon>
+            <polygon id="Path-2" opacity="0.7" points="9.88571429 0 0 5.71428571 0 17.1428571 9.88571429 22.8571429 19.7428571 17.1428571 16.247619 15.1047619 9.88571429 18.7809524 3.4952381 15.1047619 3.4952381 7.75238095 9.88571429 4.07619048 16.247619 7.75238095 19.7428571 5.71428571 19.7428571 5.71428571"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/black/chain</title>
+    <desc>Created with Sketch.</desc>
+    <g id="black/chain" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,32 C7.163444,32 0,24.836556 0,16 C0,7.163444 7.163444,0 16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 Z M9.51060831,11.7435391 L15.8857143,8.07619048 L22.2465713,11.7517755 L15.8857143,15.4285714 L9.51060831,11.7435391 Z M22.4864241,11.6131322 L25.7428571,9.71428571 L15.8857143,4 L6,9.71428571 L6,21.1428571 L15.8857143,26.8571429 L25.7428571,21.1428571 L22.247619,19.1047619 L15.8857143,22.7809524 L9.4952381,19.1047619 L9.4952381,15.8089005 L15.8952381,19.5047619 L22.3142857,15.7904762 L22.3142857,19.1047619 L25.7714286,21.1428571 L25.7714286,9.71428571 L22.4864241,11.6131322 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

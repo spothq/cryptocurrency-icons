@@ -24,7 +24,10 @@ const overrides = new Map([
 	['2GIVE', '2Give'],
 	['BOOTY', 'Booty'],
 	['PGT', 'Pungo Token'],
-	['X', 'GLX Equity Token']
+	['X', 'GLX Equity Token'],
+	['AYWA', 'Aywa'],
+	['CHAIN', 'Chainmakers'],
+	['LPT', 'Livepeer Token']
 ]);
 
 const icons = manifest.map(icon => {

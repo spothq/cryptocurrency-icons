@@ -100,6 +100,10 @@
 		"name": "Cube"
 	},
 	{
+		"symbol": "AYWA",
+		"name": "Aywa"
+	},
+	{
 		"symbol": "BAT",
 		"name": "Basic Attention Token"
 	},
@@ -258,6 +262,10 @@
 	{
 		"symbol": "CDT",
 		"name": "Coindash"
+	},
+	{
+		"symbol": "CHAIN",
+		"name": "Chainmakers"
 	},
 	{
 		"symbol": "CHAT",
@@ -766,6 +774,10 @@
 	{
 		"symbol": "LOOM",
 		"name": "Loom Network"
+	},
+	{
+		"symbol": "LPT",
+		"name": "Livepeer Token"
 	},
 	{
 		"symbol": "LRC",
@@ -1312,6 +1324,10 @@
 		"name": "TokenCard"
 	},
 	{
+		"symbol": "TKS",
+		"name": "Tokes Platform"
+	},
+	{
 		"symbol": "TNB",
 		"name": "Time New Bank"
 	},
@@ -1558,6 +1574,14 @@
 	{
 		"symbol": "ZEN",
 		"name": "Horizen"
+	},
+	{
+		"symbol": "ZEN",
+		"name": "Horizen"
+	},
+	{
+		"symbol": "ZEST",
+		"name": "Zest"
 	},
 	{
 		"symbol": "ZEST",

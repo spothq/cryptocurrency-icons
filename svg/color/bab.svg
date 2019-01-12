@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/color/bab</title>
+    <desc>Created with Sketch.</desc>
+    <g id="color/bab" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#F19F13" fill-rule="nonzero">
+            <circle id="Oval" cx="16" cy="16" r="16"></circle>
+        </g>
+        <g id="bab" transform="translate(4.000000, 9.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M18.77,4.95 L23.64,4.95 L24,2.95 L19.29,2.95 C18.3614382,2.97888758 17.4614175,3.27773617 16.7,3.81 C16.42,2.81 13.7,2.95 13.7,2.95 L14.06,0.95 L13,0.95 L12.64,2.95 L11.53,2.95 L11.84,0.95 L10.69,0.95 L10.27,2.95 L9.08,2.95 L8.47,6.07 L7.66,3.01 L5,3.01 L0,10.36 L4.12,10.36 L4.54,8.41 L3.7,8.41 L6.1,4.9 L7,8.43 L6.1,8.43 L5.71,10.36 L8.77,10.36 L8.52,11.7 L9.72,11.7 L10,10.36 L11,10.36 L10.75,11.7 L12,11.7 L12.25,10.36 L13.81,10.36 C14.5273348,10.2786509 15.1912773,9.94135388 15.68,9.41 C16.2626086,9.9996601 17.0513016,10.3402321 17.88,10.36 L22.59,10.36 L22.9,8.41 L18.67,8.41 C15.76,8.36 17,4.93 18.77,4.95 Z M13.48,8.36 L10.36,8.36 L10.61,7.41 L13.61,7.41 C14.37,7.46 14.12,8.36 13.48,8.36 Z M13.95,5.8 L10.83,5.8 L11.08,4.85 L14.08,4.85 C14.84,4.9 14.56,5.84 13.95,5.84 L13.95,5.8 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

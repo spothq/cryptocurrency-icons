@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/icon/audr</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="15" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/audr" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#34318A" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+                <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="15" cy="15" r="14.5"></circle>
+            </g>
+        </g>
+        <g id="audr" transform="translate(10.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M0.7832,8.492 L4.092,10.252 L5.852,9.372 L1.6456,7.0928 L1.6456,3.08 L9.7328,7.2776 L11.4928,6.3976 L1.1352,0.968 C0.89496928,0.841505975 0.606039666,0.850056363 0.373709556,0.990535034 C0.141379445,1.13101371 -0.000415843742,1.38290163 -9.76997448e-17,1.6544 L-9.76997448e-17,7.216 C0.00277880588,7.75408009 0.304673306,8.24593068 0.7832,8.492 Z M13.3936,7.5592 C13.1593676,7.33127155 12.8072555,7.27493362 12.5136,7.4184 L0.7832,13.508 C0.301866689,13.7555214 -0.000508751798,14.251553 -1.12608478e-16,14.7928 L-1.12608478e-16,20.3456 C-0.000415843742,20.6170984 0.141379445,20.8689863 0.373709556,21.009465 C0.606039666,21.1499436 0.89496928,21.158494 1.1352,21.032 L12.8392,14.96 C13.327613,14.7066295 13.6308538,14.1989567 13.6224,13.6488 L13.6224,8.1048 C13.6223239,7.89962194 13.5398949,7.70306047 13.3936,7.5592 Z M11.9856,13.552 L1.6456,18.92 L1.6456,14.9072 L11.9856,9.5392 L11.9856,13.552 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/color/pax</title>
+    <desc>Created with Sketch.</desc>
+    <g id="color/pax" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#EDE708" fill-rule="nonzero">
+            <circle id="Oval" cx="16" cy="16" r="16"></circle>
+        </g>
+        <g id="pax" transform="translate(4.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M22.88,9.35 L23.38,10.1 C24.38,7.58 24.15,5.61 23.25,4.75 C21.63,3.19 19.25,4.06 16.67,2.98 C14.52,1.4 13.22,0.98 11.43,0.98 C10.2073567,1.19032168 9.07553938,1.76145412 8.18,2.62 C6.71871403,2.53453762 5.29336839,3.09371168 4.28,4.15 C3.22,5.4 2.98,8.83 2.82,9.7 C2.66,10.57 0.82,14.08 1.01,16 C1.2,17.92 2.61,20 6.6,20.49 C8.09834829,22.2302873 10.304865,23.1974771 12.6,23.12 C14.69,22.9 17.6,19.7 19.29,18.43 C20.98,17.16 27,16.06 23.41,10.15 C23.2561229,9.89170595 23.0892418,9.64138427 22.91,9.4 L22.88,9.35 Z M13.75,18.15 C10.6143911,18.7582211 7.48848336,17.0547063 6.3,14.09 C6.08,13.23 5.65,8.85 9.3,6.68 C12.02,5.14 15.85,4.93 17.46,8.52 C19.07,12.11 18.48,17.14 13.75,18.15 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

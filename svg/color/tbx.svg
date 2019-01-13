@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/color/tbx</title>
+    <desc>Created with Sketch.</desc>
+    <g id="color/tbx" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#5244D4" fill-rule="nonzero">
+            <circle id="Oval" cx="16" cy="16" r="16"></circle>
+        </g>
+        <g id="tbx" transform="translate(4.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M11.7,23.4 C5.23826843,23.4 -9.99200722e-16,18.1617316 -1.77635684e-15,11.7 C-2.55351296e-15,5.23826843 5.23826843,-6.10622664e-16 11.7,-1.77635684e-15 C18.1617316,-2.99760217e-15 23.4,5.23826843 23.4,11.7 C23.4,18.1617316 18.1617316,23.4 11.7,23.4 Z M14.59,15.7 L11.7,11.7 L8.81,15.7 L6.46,11.7 L9.08,7.22 L14.32,7.22 L16.94,11.7 L14.59,15.7 Z M15.45,5.3 L7.95,5.3 L4.21,11.7 L7.96,18.1 L15.45,18.1 L19.19,11.7 L15.45,5.3 Z"></path>
+        </g>
+    </g>
+</svg>

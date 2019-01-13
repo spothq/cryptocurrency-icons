@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>TBX Icon/originals/tbx</title>
+    <desc>Created with Sketch.</desc>
+    <g id="TBX-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M64,128 C28.653776,128 0,99.346224 0,64 C0,28.653776 28.653776,0 64,0 C99.346224,0 128,28.653776 128,64 C128,99.346224 99.346224,128 64,128 Z M79.8047931,86.001 L64.0021207,63.9951 L48.1959138,86.0017 L35.3063621,63.9951 L49.6528276,39.5 L78.3471724,39.5 L92.6936379,63.9951 L79.8047931,86.001 Z M84.5,29 L43.5,29 L23,64 L43.5,99 L84.5,99 L105,64 L84.5,29 Z" id="tbx" fill="#5244D4"></path>
+    </g>
+</svg>

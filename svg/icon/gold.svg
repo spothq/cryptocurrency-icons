@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/icon/gold</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="15" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/gold" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#F1B32B" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+                <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="15" cy="15" r="14.5"></circle>
+            </g>
+        </g>
+        <g id="gold" transform="translate(4.000000, 3.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M11.75,0 C5.26065419,-3.97357829e-16 7.94715658e-16,5.26065419 0,11.75 C-7.94715658e-16,18.2393458 5.26065419,23.5 11.75,23.5 C18.2393458,23.5 23.5,18.2393458 23.5,11.75 C23.5,8.63370624 22.2620571,5.64504777 20.0585047,3.44149532 C17.8549522,1.23794287 14.8662938,1.90817959e-16 11.75,0 Z M11.75,20.57 C6.87884851,20.57 2.93,16.6211515 2.93,11.75 C2.93,6.87884851 6.87884851,2.93 11.75,2.93 C16.6211515,2.93 20.57,6.87884851 20.57,11.75 C20.57,14.0892094 19.6407527,16.332611 17.9866818,17.9866818 C16.332611,19.6407527 14.0892094,20.57 11.75,20.57 Z M8.82,11.76 L11.76,16.16 L14.68,11.76 L11.76,7.35 L8.82,11.76 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

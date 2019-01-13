@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1 0 26 26" width="32" height="32">
+  <defs>
+    <filter id="brightness">
+      <feComponentTransfer>
+        <feFuncR type="linear" slope="1" intercept="0.1"/>
+        <feFuncG type="linear" slope="1.3" intercept="0.1"/>
+        <feFuncB type="linear" slope="1.1" intercept="0.1"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <g>
+    <path fill="currentColor" filter="url(#brightness)" d="M1,13c0,7.18 5.82,13 13,13c7.18,0 13,-5.82 13,-13c0,-7.18 -5.82,-13 -13,-13c-7.18,0 -13,5.82 -13,13z" />
+    <path fill="currentColor" d="M4.25,13c0,5.38 4.37,9.75 9.75,9.75c5.38,0 9.75,-4.37 9.75,-9.75c0,-5.38 -4.37,-9.75 -9.75,-9.75c-5.38,0 -9.75,4.37 -9.75,9.75z" />
+    <path fill="currentColor" filter="url(#brightness)" d="M10.76,13l3.24,4.87l3.24,-4.87l-3.24,-4.87z" />
+  </g>
+</svg>

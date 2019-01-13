@@ -1044,10 +1044,6 @@
 		"name": "Paypex"
 	},
 	{
-		"symbol": "PGT",
-		"name": "Pungo Token"
-	},
-	{
 		"symbol": "PINK",
 		"name": "Pinkcoin"
 	},
@@ -1102,6 +1098,10 @@
 	{
 		"symbol": "PRL",
 		"name": "Oyster"
+	},
+	{
+		"symbol": "PUNGO",
+		"name": "Pungo Token"
 	},
 	{
 		"symbol": "PURA",

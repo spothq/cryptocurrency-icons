@@ -23,7 +23,7 @@ const overrides = new Map([
 	['CC', 'CoinCollect'],
 	['2GIVE', '2Give'],
 	['BOOTY', 'Booty'],
-	['PGT', 'Pungo Token'],
+	['PUNGO', 'Pungo Token'],
 	['X', 'GLX Equity Token'],
 	['AYWA', 'Aywa'],
 	['CHAIN', 'Chainmakers'],

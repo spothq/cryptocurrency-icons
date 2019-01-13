@@ -27,7 +27,12 @@ const overrides = new Map([
 	['X', 'GLX Equity Token'],
 	['AYWA', 'Aywa'],
 	['CHAIN', 'Chainmakers'],
-	['LPT', 'Livepeer Token']
+	['LPT', 'Livepeer Token'],
+	['AUDR', 'AUDRamp'],
+	['BAB', 'Bitcoin Cash ABC'],
+	['BSV', 'BitcoinSV'],
+	['GOLD', 'Dragonereum Gold'],
+	['USDC', 'USD Coin']
 ]);
 
 const icons = manifest.map(icon => {

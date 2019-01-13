@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>svg/color/gold</title>
-    <desc>Created with Sketch.</desc>
-    <g id="color/gold" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" fill="#F1B32B" fill-rule="nonzero">
-            <circle id="Oval" cx="16" cy="16" r="16"></circle>
-        </g>
-        <g id="gold" transform="translate(4.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
-            <path d="M11.75,0 C5.26065419,-3.97357829e-16 7.94715658e-16,5.26065419 0,11.75 C-7.94715658e-16,18.2393458 5.26065419,23.5 11.75,23.5 C18.2393458,23.5 23.5,18.2393458 23.5,11.75 C23.5,8.63370624 22.2620571,5.64504777 20.0585047,3.44149532 C17.8549522,1.23794287 14.8662938,1.90817959e-16 11.75,0 Z M11.75,20.57 C6.87884851,20.57 2.93,16.6211515 2.93,11.75 C2.93,6.87884851 6.87884851,2.93 11.75,2.93 C16.6211515,2.93 20.57,6.87884851 20.57,11.75 C20.57,14.0892094 19.6407527,16.332611 17.9866818,17.9866818 C16.332611,19.6407527 14.0892094,20.57 11.75,20.57 Z M8.82,11.76 L11.76,16.16 L14.68,11.76 L11.76,7.35 L8.82,11.76 Z" id="Shape"></path>
-        </g>
-    </g>
-</svg>
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><g fill="none"><circle cx="16" cy="16" r="16" fill="#F1B32B"/><path d="M15.75 4C9.26 4 4 9.26 4 15.75S9.26 27.5 15.75 27.5 27.5 22.24 27.5 15.75A11.75 11.75 0 0 0 15.75 4zm0 20.57a8.82 8.82 0 1 1 0-17.64 8.82 8.82 0 0 1 0 17.64zm-2.93-8.81l2.94 4.4 2.92-4.4-2.92-4.41-2.94 4.41z" fill="#FFF"/></g></svg>

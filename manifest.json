@@ -28,6 +28,10 @@
 		"name": "Cardano"
 	},
 	{
+		"symbol": "ADD",
+		"name": "ADD Token"
+	},
+	{
 		"symbol": "ADX",
 		"name": "AdEx"
 	},
@@ -96,12 +100,20 @@
 		"name": "ATMChain"
 	},
 	{
+		"symbol": "AUDR",
+		"name": "AUDRamp"
+	},
+	{
 		"symbol": "AUTO",
 		"name": "Cube"
 	},
 	{
 		"symbol": "AYWA",
 		"name": "Aywa"
+	},
+	{
+		"symbol": "BAB",
+		"name": "Bitcoin Cash ABC"
 	},
 	{
 		"symbol": "BAT",
@@ -202,6 +214,10 @@
 	{
 		"symbol": "BSD",
 		"name": "BitSend"
+	},
+	{
+		"symbol": "BSV",
+		"name": "BitcoinSV"
 	},
 	{
 		"symbol": "BTC",
@@ -620,6 +636,10 @@
 		"name": "Golem"
 	},
 	{
+		"symbol": "GOLD",
+		"name": "Dragonereum Gold"
+	},
+	{
 		"symbol": "GRC",
 		"name": "Gridcoin"
 	},
@@ -722,6 +742,10 @@
 	{
 		"symbol": "IOTX",
 		"name": "IoTeX"
+	},
+	{
+		"symbol": "IQ",
+		"name": "Everipedia"
 	},
 	{
 		"symbol": "ITC",
@@ -1006,6 +1030,10 @@
 	{
 		"symbol": "PASL",
 		"name": "Pascal Lite"
+	},
+	{
+		"symbol": "PAX",
+		"name": "Paxos Standard"
 	},
 	{
 		"symbol": "PAY",
@@ -1296,6 +1324,10 @@
 		"name": "Lamden"
 	},
 	{
+		"symbol": "TBX",
+		"name": "Tokenbox"
+	},
+	{
 		"symbol": "TEL",
 		"name": "Telcoin"
 	},
@@ -1340,6 +1372,10 @@
 		"name": "Tierion"
 	},
 	{
+		"symbol": "TOMO",
+		"name": "TomoChain"
+	},
+	{
 		"symbol": "TPAY",
 		"name": "TokenPay"
 	},
@@ -1374,6 +1410,10 @@
 	{
 		"symbol": "USD",
 		"name": "USD"
+	},
+	{
+		"symbol": "USDC",
+		"name": "USD Coin"
 	},
 	{
 		"symbol": "USDT",

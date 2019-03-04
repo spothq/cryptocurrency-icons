@@ -1,3 +1,5 @@
+## Title
+
 The title of your pull-request should follow this format:
 
 ```
@@ -5,7 +7,12 @@ Add Token Name (Symbol)
 ```
 
 [Example]
+
+```
 Add Nakamoto (NAKAMOTO)
+```
+
+## Body
 
 The body of your pull-request should follow this format:
 
@@ -16,9 +23,12 @@ Txid:
 ```
 
 [Example]
+
+```
 Token name: Nakamoto
 Symbol: NAKAMOTO
 Txid: df808a41672a0a0ae6475b44f272a107bc9961b90f29dc918d71301f24fe92fb
+```
 
 Attach the logos to this pull-request in 32x32, 64x64, 128x128 and svg.
 

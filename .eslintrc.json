@@ -1,0 +1,54 @@
+{
+  "root": true,
+  "parserOptions": {
+    "ecmaVersion": 2018
+  },
+  "plugins": ["prettier"],
+  "rules": {
+    "no-debugger": ["warn"],
+    "no-regex-spaces": ["error"],
+    "no-unsafe-negation": ["error"],
+    "curly": ["error", "multi-or-nest", "consistent"],
+    "dot-location": ["error", "property"],
+    "dot-notation": ["error"],
+    "eqeqeq": ["error", "smart"],
+    "no-else-return": ["error"],
+    "no-extra-bind": ["error"],
+    "no-extra-label": ["error"],
+    "no-floating-decimal": ["error"],
+    "no-implicit-coercion": ["error", { "allow": ["!!"] }],
+    "wrap-iife": ["error", "inside"],
+    "strict": ["error", "global"],
+    "func-call-spacing": ["error", "never"],
+    "comma-style": ["error", "last"],
+    "keyword-spacing": ["error"],
+    "linebreak-style": ["error", "unix"],
+    "new-parens": ["error"],
+    "no-lonely-if": ["error"],
+    "no-multiple-empty-lines": ["error", { "max": 2, "maxEOF": 1 }],
+    "no-whitespace-before-property": ["error"],
+    "semi": ["error", "never"],
+    "arrow-body-style": ["error", "as-needed"],
+    "arrow-parens": ["error", "as-needed"],
+    "arrow-spacing": ["error"],
+    "no-useless-computed-key": ["error"],
+    "no-useless-rename": ["error"],
+    "no-var": ["off"],
+    "prefer-spread": ["error"],
+    "prefer-template": ["error"],
+    "rest-spread-spacing": ["error", "never"],
+    "prefer-const": ["warn", { "destructuring": "all" }],
+    "no-unreachable": ["warn"],
+    "no-unused-vars": ["off"],
+
+    "prettier/prettier": [
+      "warn",
+      {
+        "printWidth": 80,
+        "trailingComma": "none",
+        "singleQuote": false,
+        "semi": false
+      }
+    ]
+  }
+}

@@ -1,58 +1,52 @@
 {
-	"name": "cryptocurrency-icons",
-	"version": "0.10.1",
-	"description": "A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes",
-	"license": "CC0-1.0",
-	"repository": "atomiclabs/cryptocurrency-icons",
-	"homepage": "http://cryptoicons.co",
-	"files": [
-		"32",
-		"32@2x",
-		"128",
-		"svg",
-		"manifest.json"
-	],
-	"keywords": [
-		"cryptocurrency",
-		"icons",
-		"icon",
-		"crypto",
-		"currency",
-		"cryptocurrencies",
-		"currencies",
-		"symbols",
-		"svg",
-		"png",
-		"vector",
-		"color",
-		"coin",
-		"bitcoin",
-		"ethereum",
-		"flat-icons",
-		"altcoin",
-		"altcoins",
-		"icon-pack",
-		"icon-set",
-		"erc20-tokens",
-		"erc20",
-		"erc721"
-	],
-	"scripts": {
-		"test": "xo",
-		"manifest": "node scripts/manifest.js",
-		"clean": "svgo --multipass --disable=removeViewBox $(globby {svg,originals}/**/*.svg)"
-	},
-	"devDependencies": {
-		"alpha-sort": "^2.0.1",
-		"coinlist": "^3.0.0",
-		"globby-cli": "^1.0.1",
-		"husky": "^1.3.1",
-		"svgo": "^1.2.0",
-		"xo": "^0.24.0"
-	},
-	"husky": {
-		"hooks": {
-			"pre-commit": "npm run manifest && npm run clean"
-		}
-	}
+  "name": "bch-token-icons",
+  "version": "0.0.1",
+  "description": "A set of icons for all the main Bitcoin Cash tokens, in a range of styles and sizes",
+  "license": "CC0-1.0",
+  "repository": "Bitcoin-com/token-icons",
+  "homepage": "https://developer.bitcoin.com",
+  "files": [
+    "32",
+    "32@2x",
+    "128",
+    "svg",
+    "manifest.json"
+  ],
+  "keywords": [
+    "icons",
+    "icon",
+    "crypto",
+    "bch",
+    "Bitcoin Cash",
+    "symbols",
+    "svg",
+    "png",
+    "vector",
+    "color",
+    "coin",
+    "bitcoin",
+    "flat-icons",
+    "icon-pack",
+    "icon-set",
+    "tokens",
+    "bch-tokens"
+  ],
+  "scripts": {
+    "test": "xo",
+    "manifest": "node scripts/manifest.js",
+    "clean": "svgo --multipass --disable=removeViewBox $(globby {svg,originals}/**/*.svg)"
+  },
+  "devDependencies": {
+    "alpha-sort": "^2.0.1",
+    "coinlist": "^3.0.0",
+    "globby-cli": "^1.0.1",
+    "husky": "^1.3.1",
+    "svgo": "^1.2.0",
+    "xo": "^0.24.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run manifest && npm run clean"
+    }
+  }
 }

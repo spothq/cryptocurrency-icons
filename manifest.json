@@ -1,12 +1,10 @@
 [
-  {
-    "txid": "",
-    "symbol": "$BCH",
-    "name": "Bitcoin Cash"
-  },
-  {
-    "txid": "",
-    "symbol": "SatoshiDice",
-    "name": "SatoshiDice"
-  }
+	{
+		"symbol": "$BCH",
+		"name": "$BCH"
+	},
+	{
+		"symbol": "SATOSHIDICE",
+		"name": "SatoshiDice"
+	}
 ]

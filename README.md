@@ -11,7 +11,7 @@ If there is a token you’re looking for that hasn’t been included, please [cr
 ## Install 🚀
 
 ```
-$ npm install bch-token-icons
+$ npm install bch-token-icons --save
 ```
 
 You can then import the icons from `./node_modules/bch-token-icons`, for example `./node_modules/bch-token-icons/svg/icon/bch.svg`.

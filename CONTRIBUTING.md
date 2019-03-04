@@ -33,3 +33,7 @@ Txid: df808a41672a0a0ae6475b44f272a107bc9961b90f29dc918d71301f24fe92fb
 Attach the logos to this pull-request in 32x32, 64x64, 128x128 and svg.
 
 Ensure the SVG file is a proper vector file and not just embedding a PNG/JPEG file. If the SVG source contains `data:image/png;base64`/`data:image/jpeg;base64` or its size is larger than 100 KB, it's not a valid vectorized SVG file.
+
+## Manifest
+
+Lastly please include the token name, symbol and txid in `manifest.json`

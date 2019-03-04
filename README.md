@@ -4,7 +4,7 @@ This project contains Bitcon Cash token icons in 4 sizes. Completely free. All w
 
 Images are in the PNG format (transparent) in `32×32`, `32×32 (2x)`, and `128×128` variants, along with SVG versions.
 
-There's also a [`generic` icon](https://github.com/Bitcoin-com/bch-token-icons/blob/master/svg/color/generic.svg) that can be used for cryptocurrencies missing an icon here.
+There's also a [`generic` icon](https://github.com/Bitcoin-com/bch-token-icons/blob/master/svg/icon/generic.svg) that can be used for cryptocurrencies missing an icon here.
 
 If there is a token you’re looking for that hasn’t been included, please [create a new pull-request](https://github.com/Bitcoin-com/bch-token-icons/pulls/new) and add it.
 

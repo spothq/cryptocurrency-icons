@@ -17,7 +17,7 @@ const overrides = new Map([
 	['DEEZ', 'DeezNuts'],
 	['MZC', 'MAZA'],
 	['CVC', 'Civic'],
-	['BTM', 'Bitmark'],
+	['BTM', 'Bytom'],
 	['GLXT', 'GLX Token'],
 	['ONG', 'SoMee.Social'],
 	['CC', 'CoinCollect'],

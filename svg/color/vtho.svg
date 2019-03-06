@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>svg/color/vtho</title>
+    <desc>Created with Sketch.</desc>
+    <g id="color/vtho" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#2A5284" fill-rule="nonzero">
+            <circle id="Oval" cx="16" cy="16" r="16"></circle>
+        </g>
+        <g id="vtho" transform="translate(10.000000, 5.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" fill-opacity="0.704326923" points="10.2715232 0.0582781457 13.294702 0.0582781457 7.61258278 7.64172185 12.7119205 7.64172185 0.531788079 21.9417219 4.47284768 11.8377483 0.0218543046 11.8377483 4.50927152 0.0582781457"></polygon>
+            <polygon id="Path" points="10.2715232 0.0582781457 10.4536424 0.0582781457 5.34701987 8.77086093 10.0165563 8.77086093 0.531788079 21.9417219 4.47284768 11.8377483 0.0218543046 11.8377483 4.50927152 0.0582781457"></polygon>
+        </g>
+    </g>
+</svg>

@@ -29,7 +29,7 @@ const overrides = new Map([
 	["CHAIN", "Chainmakers"],
 	["LPT", "Livepeer Token"],
 	["AUDR", "AUDRamp"],
-	["BAB", "Bitcoin Cash ABC"],
+	["BCH", "Bitcoin Cash ABC"],
 	["BSV", "BitcoinSV"],
 	["GOLD", "Dragonereum Gold"],
 	["USDC", "USD Coin"]

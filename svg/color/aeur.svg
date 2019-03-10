@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>svg/color/aeur</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="143.239314%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.83" offset="3%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.66" offset="7%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="11%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.37" offset="15%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.25" offset="19%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.16" offset="25%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.09" offset="30%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.04" offset="37%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.01" offset="47%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="color/aeur" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#051D2D" fill-rule="nonzero">
+            <circle id="Oval" cx="16" cy="16" r="16"></circle>
+        </g>
+        <g id="aeur-copy" transform="translate(9.000000, 6.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M6.99304348,13.986087 C3.13089221,13.986087 4.72977119e-16,10.8551947 0,6.99304348 C-4.72977119e-16,3.13089221 3.13089221,7.09465678e-16 6.99304348,0 C10.8551947,-7.09465678e-16 13.986087,3.13089221 13.986087,6.99304348 C13.9812959,10.8532085 10.8532085,13.9812959 6.99304348,13.986087 Z M6.99956531,6.95056512 C6.97974666,6.95056512 6.96187948,6.96250359 6.95429521,6.98081364 C6.94671094,6.99912368 6.95090318,7.02019945 6.96491708,7.03421336 C6.97893098,7.04822726 7.00000675,7.05241949 7.0183168,7.04483522 C7.03662684,7.03725095 7.04856531,7.01938377 7.04856531,6.99956512 C7.0458688,6.97370222 7.02542821,6.95326163 6.99956531,6.95056512 L6.99956531,6.95056512 Z" id="Shape"></path>
+            <path d="M6.99304348,20.986087 C3.13089221,20.986087 4.72977119e-16,17.8551947 0,13.9930435 C-4.72977119e-16,10.1308922 3.13089221,7 6.99304348,7 C10.8551947,7 13.986087,10.1308922 13.986087,13.9930435 C13.9812959,17.8532085 10.8532085,20.9812959 6.99304348,20.986087 Z M6.99956531,13.9505651 C6.97974666,13.9505651 6.96187948,13.9625036 6.95429521,13.9808136 C6.94671094,13.9991237 6.95090318,14.0201995 6.96491708,14.0342134 C6.97893098,14.0482273 7.00000675,14.0524195 7.0183168,14.0448352 C7.03662684,14.037251 7.04856531,14.0193838 7.04856531,13.9995651 C7.0458688,13.9737022 7.02542821,13.9532616 6.99956531,13.9505651 L6.99956531,13.9505651 Z" id="Shape-Copy-2"></path>
+        </g>
+    </g>
+</svg>

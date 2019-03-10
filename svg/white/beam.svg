@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>svg/white/beam</title>
+    <desc>Created with Sketch.</desc>
+    <g id="white/beam" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,32 C7.163444,32 0,24.836556 0,16 C0,7.163444 7.163444,0 16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 Z M27.16,12.66 L27.16,10.46 L20,14.63 L15.58,7.01 L15.58,12.01 L17.83,15.91 L16.92,16.45 L15.58,14.09 L14.14,16.65 L13.14,16.24 L15.58,12.01 L15.58,7.01 L10.74,15.25 L4,12.46 L4,15.01 L10,16.49 L6.2,23.01 L15.58,23.01 L15.58,20.32 L10.79,20.32 L12.58,17.18 L13.66,17.45 L12.58,19.35 L18.58,19.35 L17.68,17.76 L18.87,17.67 L20.4,20.32 L15.58,20.32 L15.58,23.01 L25,23.01 L21.76,17.48 L27.2,17.08 L27.2,14.87 L21.08,16.38 L27.19,14.81 L27.19,12.81 L20.56,15.5 L27.16,12.66 Z M18.46,17.01 L17.38,17.28 L18.44,17.01 L18.46,17.01 Z M18.12,16.41 L17.12,16.81 L18.12,16.4 L18.12,16.41 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

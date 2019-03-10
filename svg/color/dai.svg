@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>svg/color/dai</title>
+    <desc>Created with Sketch.</desc>
+    <g id="color/dai" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#B68900" fill-rule="nonzero">
+            <circle id="Oval" cx="16" cy="16" r="16"></circle>
+        </g>
+        <g id="dai" transform="translate(5.000000, 5.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M21.6333333,10.8166667 L10.8166667,0 L0,10.8166667 L10.8166667,14.8133333 L21.6333333,10.8166667 Z M3.36416667,9.9 L10.6975,2.40166667 C10.6975,2.40166667 17.8658333,9.735 18.1683333,9.88166667 C18.4708333,10.0283333 13.2366667,9.88166667 13.2366667,9.88166667 L10.8166667,7.40666667 L8.36916667,9.9 L3.36416667,9.9 Z M10.8166667,15.5741667 L21.6333333,11.55 L10.8166667,21.6333333 L0,11.605 L10.8166667,15.5741667 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

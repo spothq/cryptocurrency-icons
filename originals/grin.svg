@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="0 0 244 244"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"
+   id="svg851"
+   sodipodi:docname="grin-logo-inverted.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata857"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs855" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1649"
+   inkscape:window-height="1164"
+   id="namedview853"
+   showgrid="false"
+   inkscape:zoom="0.90561832"
+   inkscape:cx="-105.04722"
+   inkscape:cy="226.81987"
+   inkscape:window-x="429"
+   inkscape:window-y="132"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg851" />
+    <g
+   transform="matrix(1.03804,0,0,1.03804,-19.1739,-16.0598)"
+   id="g840">
+        <g
+   id="Layer1">
+            <circle
+   cx="136"
+   cy="133"
+   r="92"
+   id="circle837" />
+        </g>
+    </g>
+    <g
+   transform="matrix(1.06897,0,0,1.06897,-29.7347,-25.25)"
+   id="g845"
+   style="fill:#000000">
+        <g
+   id="Layer2"
+   style="fill:#000000">
+            <circle
+   cx="141.75"
+   cy="137.75"
+   r="79.75"
+   style="fill:#000000"
+   id="circle842" />
+        </g>
+    </g>
+    <g
+   transform="matrix(1,0,0,1,0.208873,-2)"
+   id="g849"
+   style="fill:#ffffff">
+        <path
+   d="M162,92C159.966,87.434 158.071,78.413 152.855,76.407C146.14,73.825 141.989,90.729 141,95L140,95C138.307,87.682 136.035,77.31 128,75C124.28,90.624 131.886,107.479 139,121C146.596,117.37 150.297,106.002 151,98L152,98L160,122C166.436,120.15 168.675,113.781 170.999,108C175.988,95.592 180.174,80.332 177,67C167.395,69.72 164.473,83.455 162,92M66,124C74.595,119.896 78.685,106.906 80,98L81,98C82.017,102.293 84.736,113.368 90.1,114.079C96.934,114.983 100.517,99.819 101,95L102,95C104.179,102.529 106.475,112.32 114,116C116.776,104.34 113.452,91.905 109.188,81C108.092,78.196 105.841,70.636 101.975,70.636C95.641,70.636 92.08,87.332 91,92L90,92L82,68C67.928,74.72 60.284,110.453 66,124M51,136C61.443,181.551 109.612,207.374 153,188.138C168.791,181.137 181.317,168.663 188.539,153C190.405,148.953 194.07,141.628 191.933,136.318C189.805,131.029 169.166,139.671 164.009,141.928C163.285,142.25 162.774,142.918 162.655,143.702C162.655,143.702 162.655,143.702 162.655,143.702C162.486,144.811 162.786,145.941 163.485,146.82C164.183,147.699 165.216,148.247 166.335,148.333C170.116,148.624 175,149 175,149C159.313,179.365 116.899,192.791 87,168.532C80.308,163.103 74.338,156.652 70.32,149C68.377,145.3 66.575,140.568 63.272,138.029C60.099,135.589 55.285,134.753 51,136Z"
+   style="fill-rule:nonzero;fill:#ffffff"
+   id="path847" />
+    </g>
+</svg>

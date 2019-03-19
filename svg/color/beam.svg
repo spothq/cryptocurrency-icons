@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>svg/color/beam</title>
+    <desc>Created with Sketch.</desc>
+    <g id="color/beam" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#0B76FF" fill-rule="nonzero">
+            <circle id="Oval" cx="16" cy="16" r="16"></circle>
+        </g>
+        <g id="beam" transform="translate(4.000000, 7.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M23.16,5.66 L23.16,3.46 L16,7.63 L11.58,0.01 L11.58,5.01 L11.58,5.01 L13.83,8.91 L12.92,9.45 L11.58,7.09 L10.14,9.65 L9.14,9.24 L11.58,5.01 L11.58,5.01 L11.58,0.01 L6.74,8.25 L0,5.46 L0,8.01 L6,9.49 L2.2,16.01 L11.58,16.01 L11.58,13.32 L6.79,13.32 L8.58,10.18 L9.66,10.45 L8.58,12.35 L14.58,12.35 L13.68,10.76 L14.87,10.67 L16.4,13.32 L11.58,13.32 L11.58,16.01 L21,16.01 L17.76,10.48 L23.2,10.08 L23.2,7.87 L17.08,9.38 L17.08,9.38 L23.19,7.81 L23.19,5.81 L16.56,8.5 L16.56,8.5 L23.16,5.66 Z M14.46,10.01 L13.38,10.28 L13.38,10.28 L14.44,10.01 L14.46,10.01 Z M14.12,9.41 L13.12,9.81 L13.12,9.81 L14.12,9.4 L14.12,9.41 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

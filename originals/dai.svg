@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="115px" height="116px" viewBox="0 0 115 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>logo-gray_head</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DCS-v5.0.0" transform="translate(-743.000000, -300.000000)">
+            <g id="logo-gray_head" transform="translate(742.000000, 300.000000)">
+                <g id="Group-6-Copy-4">
+                    <g id="Group-4" style="mix-blend-mode: luminosity;">
+                        <rect id="Rectangle-20" fill="#FBBA00" transform="translate(57.785367, 58.431820) rotate(-315.000000) translate(-57.785367, -58.431820) " x="17.699594" y="18.1584636" width="80.1715458" height="80.5467132"></rect>
+                        <polygon id="Rectangle-20-Copy" fill="#F7A600" transform="translate(57.785367, 58.431820) rotate(-315.000000) translate(-57.785367, -58.431820) " points="17.699594 18.1584636 97.8711399 18.1584636 72.5897214 73.3054525 17.699594 98.7051768"></polygon>
+                        <path d="M18.6427887,53.4619928 L44.9185341,53.4619928 L57.8249158,40.5421129 L70.6207287,53.3513083 C70.6207287,53.3513083 98.1589043,54.1635086 96.5453076,53.3513083 C94.9317109,52.539108 57.3032414,14.0682008 57.3032414,14.0682008 L18.6427887,53.4619928 Z" id="Path-1" fill="#FEFFFE"></path>
+                        <polygon id="Rectangle-1-Copy-2" fill="#0A122A" opacity="0.286333955" style="mix-blend-mode: multiply;" transform="translate(86.238406, 57.645231) rotate(1.000000) translate(-86.238406, -57.645231) " points="57.3137696 0.538870116 115.163042 56.6506321 59.5536123 114.751592"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

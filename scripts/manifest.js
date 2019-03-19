@@ -38,7 +38,8 @@ const overrides = new Map([
 	['BEAM', 'Beam'],
 	['BTT', 'BitTorrent'],
 	['GRIN', 'Grin'],
-	['ILK', 'Inlock Token']
+	['ILK', 'Inlock Token'],
+	['BTM', 'Bytom']
 ]);
 
 const icons = manifest.map(icon => {

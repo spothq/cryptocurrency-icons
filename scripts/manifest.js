@@ -32,7 +32,13 @@ const overrides = new Map([
 	['BAB', 'Bitcoin Cash ABC'],
 	['BSV', 'BitcoinSV'],
 	['GOLD', 'Dragonereum Gold'],
-	['USDC', 'USD Coin']
+	['USDC', 'USD Coin'],
+	['AEUR', 'Augmint Euro Token'],
+	['BCIO', 'Blockchain.io'],
+	['BEAM', 'Beam'],
+	['BTT', 'BitTorrent'],
+	['GRIN', 'Grin'],
+	['ILK', 'Inlock Token']
 ]);
 
 const icons = manifest.map(icon => {

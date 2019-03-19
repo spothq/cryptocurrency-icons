@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
-    <title>svg/color/eop</title>
-    <desc>Created with Sketch.</desc>
-    <g id="color/eop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" fill="#35A7DF" fill-rule="nonzero">
-            <circle id="Oval" cx="16" cy="16" r="16"></circle>
-        </g>
-        <g id="eop" transform="translate(7.000000, 4.000000)" fill="#FEFFFE" fill-rule="nonzero">
-            <polygon id="Path" points="7.71428571 24 2.36571429 9.73714286 0.205714286 19.5771429"></polygon>
-            <polygon id="Path" points="9.12 0.171428571 3.25714286 7.30285714 9.12 22.2857143 15.0171429 7.30285714"></polygon>
-            <polygon id="Path" points="10.56 24 15.9085714 9.73714286 18.0342857 19.5771429"></polygon>
-        </g>
-    </g>
-</svg>
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><g fill="none"><circle cx="16" cy="16" r="16" fill="#35A7DF"/><path d="M14.714 28L9.366 13.737l-2.16 9.84zM16.12 4.171l-5.863 7.132 5.863 14.983 5.897-14.983zM17.56 28l5.349-14.263 2.125 9.84z" fill="#FEFFFE"/></g></svg>

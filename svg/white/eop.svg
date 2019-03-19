@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="33px" height="32px" viewBox="0 0 33 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
-    <title>svg/white/eop</title>
-    <desc>Created with Sketch.</desc>
-    <g id="white/eop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1.000000, 0.000000)">
-        <path d="M16,32 C7.163444,32 0,24.836556 0,16 C0,7.163444 7.163444,0 16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 Z M14.7142857,28 L9.36571429,13.7371429 L7.20571429,23.5771429 L14.7142857,28 Z M16.12,4.17142857 L10.2571429,11.3028571 L16.12,26.2857143 L22.0171429,11.3028571 L16.12,4.17142857 Z M17.56,28 L25.0342857,23.5771429 L22.9085714,13.7371429 L17.56,28 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
-    </g>
-</svg>
+<svg width="33" height="32" viewBox="0 0 33 32" xmlns="http://www.w3.org/2000/svg"><path d="M17 32C8.163 32 1 24.837 1 16S8.163 0 17 0s16 7.163 16 16-7.163 16-16 16zm-1.286-4l-5.348-14.263-2.16 9.84L15.714 28zM17.12 4.171l-5.863 7.132 5.863 14.983 5.897-14.983L17.12 4.17zM18.56 28l7.474-4.423-2.125-9.84L18.56 28z" fill="#FFF"/></svg>

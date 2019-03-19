@@ -40,6 +40,10 @@
 		"name": "Aeon"
 	},
 	{
+		"symbol": "AEUR",
+		"name": "Augmint Euro Token"
+	},
+	{
 		"symbol": "AGI",
 		"name": "SingularityNET"
 	},
@@ -136,6 +140,10 @@
 		"name": "Bitcoin Cash"
 	},
 	{
+		"symbol": "BCIO",
+		"name": "Blockchain.io"
+	},
+	{
 		"symbol": "BCN",
 		"name": "Bytecoin"
 	},
@@ -150,6 +158,10 @@
 	{
 		"symbol": "BDL",
 		"name": "Bitdeal"
+	},
+	{
+		"symbol": "BEAM",
+		"name": "Beam"
 	},
 	{
 		"symbol": "BELA",
@@ -250,6 +262,10 @@
 	{
 		"symbol": "BTS",
 		"name": "BitShares"
+	},
+	{
+		"symbol": "BTT",
+		"name": "BitTorrent"
 	},
 	{
 		"symbol": "BTX",
@@ -358,6 +374,10 @@
 	{
 		"symbol": "CVC",
 		"name": "Civic"
+	},
+	{
+		"symbol": "DAI",
+		"name": "Dai"
 	},
 	{
 		"symbol": "DASH",
@@ -504,6 +524,14 @@
 		"name": "Hut34 Entropy"
 	},
 	{
+		"symbol": "EON",
+		"name": "EOS Network"
+	},
+	{
+		"symbol": "EOP",
+		"name": "EOP"
+	},
+	{
 		"symbol": "EOS",
 		"name": "EOS"
 	},
@@ -616,6 +644,10 @@
 		"name": "GENERIC"
 	},
 	{
+		"symbol": "GIN",
+		"name": "GINcoin"
+	},
+	{
 		"symbol": "GLXT",
 		"name": "GLX Token"
 	},
@@ -638,6 +670,10 @@
 	{
 		"symbol": "GRC",
 		"name": "Gridcoin"
+	},
+	{
+		"symbol": "GRIN",
+		"name": "Grin"
 	},
 	{
 		"symbol": "GRS",
@@ -680,6 +716,10 @@
 		"name": "HOdlcoin"
 	},
 	{
+		"symbol": "HOT",
+		"name": "Holo"
+	},
+	{
 		"symbol": "HPB",
 		"name": "High Performance Blockchain"
 	},
@@ -714,6 +754,10 @@
 	{
 		"symbol": "IGNIS",
 		"name": "Ignis"
+	},
+	{
+		"symbol": "ILK",
+		"name": "Inlock Token"
 	},
 	{
 		"symbol": "INK",
@@ -842,6 +886,10 @@
 	{
 		"symbol": "MED",
 		"name": "Medibloc"
+	},
+	{
+		"symbol": "MEETONE",
+		"name": "MEET.ONE"
 	},
 	{
 		"symbol": "MIOTA",
@@ -1090,6 +1138,10 @@
 	{
 		"symbol": "PPT",
 		"name": "Populous"
+	},
+	{
+		"symbol": "PRE",
+		"name": "Presearch"
 	},
 	{
 		"symbol": "PRL",
@@ -1454,6 +1506,10 @@
 	{
 		"symbol": "VTC",
 		"name": "Vertcoin"
+	},
+	{
+		"symbol": "VTHO",
+		"name": "VeThor Token"
 	},
 	{
 		"symbol": "WABI",

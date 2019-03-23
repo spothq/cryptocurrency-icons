@@ -25,3 +25,8 @@ There's also a `manifest.json` file included in the package with a list of the c
 ## Special Thanks 👏
 
 Thanks to [Christopher Downer](https://github.com/cjdowner) for starting this project and all our wonderful [contributors](https://github.com/atomiclabs/cryptocurrency-icons/graphs/contributors).
+
+
+## Used By
+
+- [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon) - Cryptocurrency icons for Vue apps

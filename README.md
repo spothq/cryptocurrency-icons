@@ -17,7 +17,3 @@ $ npm install bch-token-icons --save
 You can then import the icons from `./node_modules/bch-token-icons`, for example `./node_modules/bch-token-icons/svg/icon/bch.svg`.
 
 There's also a `manifest.json` file included in the package with a list of the currency symbol and name of the icons.
-
-## Special Thanks 👏
-
-Thanks to [Christopher Downer](https://github.com/cjdowner) for starting this project and all our wonderful [contributors](https://github.com/atomiclabs/cryptocurrency-icons/graphs/contributors).

@@ -2,6 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 const coins = require('coinlist');
+const getColors = require('get-svg-colors');
 const alphaSort = require('alpha-sort');
 const manifest = require('../manifest.json');
 
@@ -44,10 +45,22 @@ const overrides = new Map([
 
 const icons = manifest.map(icon => {
 	const id = typeof icon === 'string' ? icon : icon.symbol;
+	const fileName = `${id.toLowerCase()}.svg`;
+	const svgPath = path.join(__dirname, '..', 'svg', 'color', fileName);
+	let color;
+	if (fs.existsSync(svgPath)) {
+		const svg = fs.readFileSync(svgPath, 'utf8');
+		const colors = getColors(svg);
+		const hex = colors.fills.map(color => color.hex().toUpperCase())[0];
+		color = hex;
+	} else {
+		color = 'not_found';
+	}
 
 	return {
 		symbol: id.toUpperCase(),
-		name: overrides.get(id) || coins.get(id, 'name') || id
+		name: overrides.get(id) || coins.get(id, 'name') || id,
+		color
 	};
 });
 
@@ -56,3 +69,4 @@ icons.sort((a, b) => alphaSort.asc(a.symbol, b.symbol));
 const data = JSON.stringify(icons, null, '\t') + '\n';
 
 fs.writeFileSync(path.resolve(__dirname, '../manifest.json'), data);
+;

@@ -51,10 +51,8 @@ const icons = manifest.map(icon => {
 	if (fs.existsSync(svgPath)) {
 		const svg = fs.readFileSync(svgPath, 'utf8');
 		const colors = getColors(svg);
-		const hex = colors.fills.map(color => color.hex().toUpperCase())[0];
+		const hex = colors.fills[0].hex().toUpperCase();
 		color = hex;
-	} else {
-		color = 'not_found';
 	}
 
 	return {

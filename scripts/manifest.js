@@ -69,4 +69,3 @@ icons.sort((a, b) => alphaSort.asc(a.symbol, b.symbol));
 const data = JSON.stringify(icons, null, '\t') + '\n';
 
 fs.writeFileSync(path.resolve(__dirname, '../manifest.json'), data);
-;

@@ -46,7 +46,7 @@ const overrides = new Map([
 const icons = manifest.map(icon => {
 	const id = typeof icon === 'string' ? icon : icon.symbol;
 	const fileName = `${id.toLowerCase()}.svg`;
-	const svgPath = path.join(__dirname, '..', 'svg', 'color', fileName);
+	const svgPath = path.resolve(__dirname, '../svg/color/', fileName);
 	let color;
 	if (fs.existsSync(svgPath)) {
 		const svg = fs.readFileSync(svgPath, 'utf8');

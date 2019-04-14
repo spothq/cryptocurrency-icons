@@ -22,5 +22,11 @@
     "name": "CASH",
     "tokenId":
       "fc7aa9a70b4ae86d30b93a98e853716a4217e77c60769f664da3c6189647d3ba"
+  },
+  {
+    "symbol": "Ash nazg durbatuluk",
+    "name": "Nazgûl",
+    "tokenId":
+      "b5419ec4353979daba805cb897411a00b6ca81776d61a0d8c9b792e44a9821c1"
   }
 ]

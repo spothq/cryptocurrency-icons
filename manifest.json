@@ -474,6 +474,11 @@
 		"color": "#B68900"
 	},
 	{
+		"symbol": "D",
+		"name": "Denarius",
+		"color": "#B8B8B8"
+	},
+	{
 		"symbol": "DASH",
 		"name": "Dash",
 		"color": "#008CE7"
@@ -537,11 +542,6 @@
 		"symbol": "DLT",
 		"name": "Agrello",
 		"color": "#F4AE95"
-	},
-	{
-		"symbol": "DNR",
-		"name": "Denarius",
-		"color": "#B8B8B8"
 	},
 	{
 		"symbol": "DNT",

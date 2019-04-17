@@ -2,47 +2,47 @@
 	{
 		"symbol": "$PAC",
 		"name": "PACcoin",
-		"color": "#F5EB16"
+		"color": "#f5eb16"
 	},
 	{
 		"symbol": "2GIVE",
 		"name": "2Give",
-		"color": "#F1CB60"
+		"color": "#f1cb60"
 	},
 	{
 		"symbol": "ABT",
 		"name": "Arcblock",
-		"color": "#3EFFFF"
+		"color": "#3effff"
 	},
 	{
 		"symbol": "ACT",
 		"name": "Achain",
-		"color": "#767DFF"
+		"color": "#767dff"
 	},
 	{
 		"symbol": "ACTN",
 		"name": "Action Coin",
-		"color": "#FFFFFF"
+		"color": "#ffffff"
 	},
 	{
 		"symbol": "ADA",
 		"name": "Cardano",
-		"color": "#0D1E30"
+		"color": "#0d1e30"
 	},
 	{
 		"symbol": "ADD",
 		"name": "ADD Token",
-		"color": "#FEC807"
+		"color": "#fec807"
 	},
 	{
 		"symbol": "ADX",
 		"name": "AdEx",
-		"color": "#1B75BC"
+		"color": "#1b75bc"
 	},
 	{
 		"symbol": "AE",
 		"name": "Aeternity",
-		"color": "#DE3F6B"
+		"color": "#de3f6b"
 	},
 	{
 		"symbol": "AEON",
@@ -52,62 +52,62 @@
 	{
 		"symbol": "AEUR",
 		"name": "Augmint Euro Token",
-		"color": "#051D2D"
+		"color": "#051d2d"
 	},
 	{
 		"symbol": "AGI",
 		"name": "SingularityNET",
-		"color": "#6916FF"
+		"color": "#6916ff"
 	},
 	{
 		"symbol": "AGRS",
 		"name": "Agoras Tauchain",
-		"color": "#F49E00"
+		"color": "#f49e00"
 	},
 	{
 		"symbol": "AION",
 		"name": "Aion",
-		"color": "#00BFEC"
+		"color": "#00bfec"
 	},
 	{
 		"symbol": "AMB",
 		"name": "Amber",
-		"color": "#3C5BE0"
+		"color": "#3c5be0"
 	},
 	{
 		"symbol": "AMP",
 		"name": "Synereo",
-		"color": "#2DAEE4"
+		"color": "#2daee4"
 	},
 	{
 		"symbol": "ANT",
 		"name": "Aragon",
-		"color": "#2CD3E1"
+		"color": "#2cd3e1"
 	},
 	{
 		"symbol": "APPC",
 		"name": "AppCoins",
-		"color": "#FD875E"
+		"color": "#fd875e"
 	},
 	{
 		"symbol": "ARDR",
 		"name": "Ardor",
-		"color": "#3C87C7"
+		"color": "#3c87c7"
 	},
 	{
 		"symbol": "ARG",
 		"name": "Argentum",
-		"color": "#A71435"
+		"color": "#a71435"
 	},
 	{
 		"symbol": "ARK",
 		"name": "Ark",
-		"color": "#F70000"
+		"color": "#f70000"
 	},
 	{
 		"symbol": "ARN",
 		"name": "Aeron",
-		"color": "#0092B5"
+		"color": "#0092b5"
 	},
 	{
 		"symbol": "ARY",
@@ -117,77 +117,77 @@
 	{
 		"symbol": "AST",
 		"name": "AirSwap",
-		"color": "#0061FF"
+		"color": "#0061ff"
 	},
 	{
 		"symbol": "ATM",
 		"name": "ATMChain",
-		"color": "#346FCE"
+		"color": "#346fce"
 	},
 	{
 		"symbol": "AUDR",
 		"name": "AUDRamp",
-		"color": "#34318A"
+		"color": "#34318a"
 	},
 	{
 		"symbol": "AUTO",
 		"name": "Cube",
-		"color": "#FAB431"
+		"color": "#fab431"
 	},
 	{
 		"symbol": "AYWA",
 		"name": "Aywa",
-		"color": "#3355B5"
+		"color": "#3355b5"
 	},
 	{
 		"symbol": "BAB",
 		"name": "Bitcoin Cash ABC",
-		"color": "#F19F13"
+		"color": "#f19f13"
 	},
 	{
 		"symbol": "BAT",
 		"name": "Basic Attention Token",
-		"color": "#FF5000"
+		"color": "#ff5000"
 	},
 	{
 		"symbol": "BAY",
 		"name": "BitBay",
-		"color": "#6356AB"
+		"color": "#6356ab"
 	},
 	{
 		"symbol": "BCBC",
 		"name": "BCBC",
-		"color": "#004AB5"
+		"color": "#004ab5"
 	},
 	{
 		"symbol": "BCC",
 		"name": "BCC",
-		"color": "#F7931C"
+		"color": "#f7931c"
 	},
 	{
 		"symbol": "BCD",
 		"name": "Bitcoin Diamond",
-		"color": "#FCC339"
+		"color": "#fcc339"
 	},
 	{
 		"symbol": "BCH",
 		"name": "Bitcoin Cash",
-		"color": "#8DC351"
+		"color": "#8dc351"
 	},
 	{
 		"symbol": "BCIO",
 		"name": "Blockchain.io",
-		"color": "#3F43AD"
+		"color": "#3f43ad"
 	},
 	{
 		"symbol": "BCN",
 		"name": "Bytecoin",
-		"color": "#F04086"
+		"color": "#f04086"
 	},
 	{
 		"symbol": "BCO",
 		"name": "BananaCoin",
-		"color": "#2C76B7"
+		"color": "#2c76b7"
 	},
 	{
 		"symbol": "BCPT",
@@ -197,17 +197,17 @@
 	{
 		"symbol": "BDL",
 		"name": "Bitdeal",
-		"color": "#E54C40"
+		"color": "#e54c40"
 	},
 	{
 		"symbol": "BEAM",
 		"name": "Beam",
-		"color": "#0B76FF"
+		"color": "#0b76ff"
 	},
 	{
 		"symbol": "BELA",
 		"name": "Belacoin",
-		"color": "#13A0F6"
+		"color": "#13a0f6"
 	},
 	{
 		"symbol": "BIX",
@@ -217,7 +217,7 @@
 	{
 		"symbol": "BLCN",
 		"name": "BLCN",
-		"color": "#2AABE4"
+		"color": "#2aabe4"
 	},
 	{
 		"symbol": "BLK",
@@ -232,47 +232,47 @@
 	{
 		"symbol": "BLZ",
 		"name": "Blazecoin",
-		"color": "#18578C"
+		"color": "#18578c"
 	},
 	{
 		"symbol": "BNB",
 		"name": "Binance Coin",
-		"color": "#F3BA2F"
+		"color": "#f3ba2f"
 	},
 	{
 		"symbol": "BNT",
 		"name": "Bancor Network Token",
-		"color": "#000D2B"
+		"color": "#000d2b"
 	},
 	{
 		"symbol": "BNTY",
 		"name": "Bounty0x",
-		"color": "#FD7A3D"
+		"color": "#fd7a3d"
 	},
 	{
 		"symbol": "BOOTY",
 		"name": "Booty",
-		"color": "#00B4F4"
+		"color": "#00b4f4"
 	},
 	{
 		"symbol": "BOS",
 		"name": "BOScoin",
-		"color": "#00A8D6"
+		"color": "#00a8d6"
 	},
 	{
 		"symbol": "BPT",
 		"name": "Blockport",
-		"color": "#0F63D8"
+		"color": "#0f63d8"
 	},
 	{
 		"symbol": "BQ",
 		"name": "bitqy",
-		"color": "#1D1D1D"
+		"color": "#1d1d1d"
 	},
 	{
 		"symbol": "BRD",
 		"name": "Bread",
-		"color": "#FE5D86"
+		"color": "#fe5d86"
 	},
 	{
 		"symbol": "BSD",
@@ -282,52 +282,52 @@
 	{
 		"symbol": "BSV",
 		"name": "BitcoinSV",
-		"color": "#EAB304"
+		"color": "#eab304"
 	},
 	{
 		"symbol": "BTC",
 		"name": "Bitcoin",
-		"color": "#F7931A"
+		"color": "#f7931a"
 	},
 	{
 		"symbol": "BTCD",
 		"name": "BitcoinDark",
-		"color": "#FF6600"
+		"color": "#ff6600"
 	},
 	{
 		"symbol": "BTCH",
 		"name": "Bitcoin Hush",
-		"color": "#4700C2"
+		"color": "#4700c2"
 	},
 	{
 		"symbol": "BTCP",
 		"name": "Bitcoin Private",
-		"color": "#272D63"
+		"color": "#272d63"
 	},
 	{
 		"symbol": "BTCZ",
 		"name": "BitcoinZ",
-		"color": "#F8C24A"
+		"color": "#f8c24a"
 	},
 	{
 		"symbol": "BTDX",
 		"name": "Bitcloud",
-		"color": "#00AAFF"
+		"color": "#00aaff"
 	},
 	{
 		"symbol": "BTG",
 		"name": "Bitcoin Gold",
-		"color": "#EBA809"
+		"color": "#eba809"
 	},
 	{
 		"symbol": "BTM",
 		"name": "Bytom",
-		"color": "#504C4C"
+		"color": "#504c4c"
 	},
 	{
 		"symbol": "BTS",
 		"name": "BitShares",
-		"color": "#35BAEB"
+		"color": "#35baeb"
 	},
 	{
 		"symbol": "BTT",
@@ -337,27 +337,27 @@
 	{
 		"symbol": "BTX",
 		"name": "Bitcore",
-		"color": "#FB2EA3"
+		"color": "#fb2ea3"
 	},
 	{
 		"symbol": "BURST",
 		"name": "Burst",
-		"color": "#2D2D2D"
+		"color": "#2d2d2d"
 	},
 	{
 		"symbol": "CALL",
 		"name": "Capital",
-		"color": "#FBB413"
+		"color": "#fbb413"
 	},
 	{
 		"symbol": "CC",
 		"name": "CoinCollect",
-		"color": "#36B0F3"
+		"color": "#36b0f3"
 	},
 	{
 		"symbol": "CDN",
 		"name": "Canada eCoin",
-		"color": "#F70808"
+		"color": "#f70808"
 	},
 	{
 		"symbol": "CDT",
@@ -367,12 +367,12 @@
 	{
 		"symbol": "CHAIN",
 		"name": "Chainmakers",
-		"color": "#00ACED"
+		"color": "#00aced"
 	},
 	{
 		"symbol": "CHAT",
 		"name": "ChatCoin",
-		"color": "#1C98F7"
+		"color": "#1c98f7"
 	},
 	{
 		"symbol": "CHIPS",
@@ -382,27 +382,27 @@
 	{
 		"symbol": "CIX",
 		"name": "Cryptonetix",
-		"color": "#0576B4"
+		"color": "#0576b4"
 	},
 	{
 		"symbol": "CLAM",
 		"name": "Clams",
-		"color": "#20C5D3"
+		"color": "#20c5d3"
 	},
 	{
 		"symbol": "CLOAK",
 		"name": "Cloakcoin",
-		"color": "#FF3A00"
+		"color": "#ff3a00"
 	},
 	{
 		"symbol": "CMM",
 		"name": "Commercium",
-		"color": "#2FD2E5"
+		"color": "#2fd2e5"
 	},
 	{
 		"symbol": "CMT",
 		"name": "Comet",
-		"color": "#C1A05C"
+		"color": "#c1a05c"
 	},
 	{
 		"symbol": "CND",
@@ -412,42 +412,42 @@
 	{
 		"symbol": "CNX",
 		"name": "Cryptonex",
-		"color": "#4C6BAE"
+		"color": "#4c6bae"
 	},
 	{
 		"symbol": "CNY",
 		"name": "CNY",
-		"color": "#FF4314"
+		"color": "#ff4314"
 	},
 	{
 		"symbol": "COB",
 		"name": "Cobinhood",
-		"color": "#13BF99"
+		"color": "#13bf99"
 	},
 	{
 		"symbol": "COLX",
 		"name": "ColossusXT",
-		"color": "#77C3B0"
+		"color": "#77c3b0"
 	},
 	{
 		"symbol": "COQUI",
 		"name": "COQUI Cash",
-		"color": "#71C800"
+		"color": "#71c800"
 	},
 	{
 		"symbol": "CRED",
 		"name": "Verify",
-		"color": "#37E8A3"
+		"color": "#37e8a3"
 	},
 	{
 		"symbol": "CRPT",
 		"name": "Crypterium",
-		"color": "#00BDCD"
+		"color": "#00bdcd"
 	},
 	{
 		"symbol": "CRW",
 		"name": "Crown",
-		"color": "#0F1529"
+		"color": "#0f1529"
 	},
 	{
 		"symbol": "CS",
@@ -457,7 +457,7 @@
 	{
 		"symbol": "CTR",
 		"name": "Centra",
-		"color": "#FDDE6C"
+		"color": "#fdde6c"
 	},
 	{
 		"symbol": "CTXC",
@@ -467,42 +467,42 @@
 	{
 		"symbol": "CVC",
 		"name": "Civic",
-		"color": "#3AB03E"
+		"color": "#3ab03e"
 	},
 	{
 		"symbol": "D",
 		"name": "Denarius",
-		"color": "#B8B8B8"
+		"color": "#b8b8b8"
 	},
 	{
 		"symbol": "DAI",
 		"name": "Dai",
-		"color": "#B68900"
+		"color": "#b68900"
 	},
 	{
 		"symbol": "DASH",
 		"name": "Dash",
-		"color": "#008CE7"
+		"color": "#008ce7"
 	},
 	{
 		"symbol": "DASH",
 		"name": "Dash",
-		"color": "#008CE7"
+		"color": "#008ce7"
 	},
 	{
 		"symbol": "DAT",
 		"name": "Datum",
-		"color": "#2D9CDB"
+		"color": "#2d9cdb"
 	},
 	{
 		"symbol": "DATA",
 		"name": "Streamr DATAcoin",
-		"color": "#E9570F"
+		"color": "#e9570f"
 	},
 	{
 		"symbol": "DBC",
 		"name": "DeepBrain Chain",
-		"color": "#5BC1D4"
+		"color": "#5bc1d4"
 	},
 	{
 		"symbol": "DCN",
@@ -512,7 +512,7 @@
 	{
 		"symbol": "DCR",
 		"name": "Decred",
-		"color": "#2ED6A1"
+		"color": "#2ed6a1"
 	},
 	{
 		"symbol": "DEEZ",
@@ -527,57 +527,57 @@
 	{
 		"symbol": "DEW",
 		"name": "DEW",
-		"color": "#FEC907"
+		"color": "#fec907"
 	},
 	{
 		"symbol": "DGB",
 		"name": "DigiByte",
-		"color": "#006AD2"
+		"color": "#006ad2"
 	},
 	{
 		"symbol": "DGD",
 		"name": "DigixDAO",
-		"color": "#F4D029"
+		"color": "#f4d029"
 	},
 	{
 		"symbol": "DLT",
 		"name": "Agrello",
-		"color": "#F4AE95"
+		"color": "#f4ae95"
 	},
 	{
 		"symbol": "DNT",
 		"name": "district0x",
-		"color": "#2C398F"
+		"color": "#2c398f"
 	},
 	{
 		"symbol": "DOCK",
 		"name": "Dock",
-		"color": "#786DBC"
+		"color": "#786dbc"
 	},
 	{
 		"symbol": "DOGE",
 		"name": "Dogecoin",
-		"color": "#C3A634"
+		"color": "#c3a634"
 	},
 	{
 		"symbol": "DRGN",
 		"name": "Dragonchain",
-		"color": "#C91111"
+		"color": "#c91111"
 	},
 	{
 		"symbol": "DROP",
 		"name": "Dropil",
-		"color": "#242D3D"
+		"color": "#242d3d"
 	},
 	{
 		"symbol": "DTA",
 		"name": "DATA",
-		"color": "#74D269"
+		"color": "#74d269"
 	},
 	{
 		"symbol": "DTH",
 		"name": "Dether",
-		"color": "#3C80F1"
+		"color": "#3c80f1"
 	},
 	{
 		"symbol": "DTR",
@@ -587,17 +587,17 @@
 	{
 		"symbol": "EBST",
 		"name": "eBoost",
-		"color": "#1693D4"
+		"color": "#1693d4"
 	},
 	{
 		"symbol": "ECA",
 		"name": "Electra",
-		"color": "#AA15DD"
+		"color": "#aa15dd"
 	},
 	{
 		"symbol": "EDG",
 		"name": "Edgeless",
-		"color": "#2B1544"
+		"color": "#2b1544"
 	},
 	{
 		"symbol": "EDO",
@@ -607,62 +607,62 @@
 	{
 		"symbol": "EDOGE",
 		"name": "EtherDoge",
-		"color": "#0FACF3"
+		"color": "#0facf3"
 	},
 	{
 		"symbol": "ELA",
 		"name": "Elastos",
-		"color": "#3FBADF"
+		"color": "#3fbadf"
 	},
 	{
 		"symbol": "ELF",
 		"name": "aelf",
-		"color": "#2B5EBB"
+		"color": "#2b5ebb"
 	},
 	{
 		"symbol": "ELIX",
 		"name": "Elixir",
-		"color": "#00ADED"
+		"color": "#00aded"
 	},
 	{
 		"symbol": "ELLA",
 		"name": "Ellaism",
-		"color": "#396A28"
+		"color": "#396a28"
 	},
 	{
 		"symbol": "EMC",
 		"name": "EmerCoin",
-		"color": "#B49FFC"
+		"color": "#b49ffc"
 	},
 	{
 		"symbol": "EMC2",
 		"name": "Einsteinium",
-		"color": "#00CCFF"
+		"color": "#00ccff"
 	},
 	{
 		"symbol": "ENG",
 		"name": "Enigma",
-		"color": "#2F2F2F"
+		"color": "#2f2f2f"
 	},
 	{
 		"symbol": "ENJ",
 		"name": "Enjin Coin",
-		"color": "#624DBF"
+		"color": "#624dbf"
 	},
 	{
 		"symbol": "ENTRP",
 		"name": "Hut34 Entropy",
-		"color": "#FA5836"
+		"color": "#fa5836"
 	},
 	{
 		"symbol": "EON",
 		"name": "EOS Network",
-		"color": "#443F54"
+		"color": "#443f54"
 	},
 	{
 		"symbol": "EOP",
 		"name": "EOP",
-		"color": "#35A7DF"
+		"color": "#35a7df"
 	},
 	{
 		"symbol": "EOS",
@@ -672,12 +672,12 @@
 	{
 		"symbol": "EQLI",
 		"name": "Equaliser",
-		"color": "#C9A35E"
+		"color": "#c9a35e"
 	},
 	{
 		"symbol": "EQUA",
 		"name": "EQUA",
-		"color": "#F68922"
+		"color": "#f68922"
 	},
 	{
 		"symbol": "ETC",
@@ -687,127 +687,127 @@
 	{
 		"symbol": "ETH",
 		"name": "Ethereum",
-		"color": "#627EEA"
+		"color": "#627eea"
 	},
 	{
 		"symbol": "ETHOS",
 		"name": "Ethos",
-		"color": "#00FFBA"
+		"color": "#00ffba"
 	},
 	{
 		"symbol": "ETN",
 		"name": "Electroneum",
-		"color": "#23BEE2"
+		"color": "#23bee2"
 	},
 	{
 		"symbol": "ETP",
 		"name": "Metaverse ETP",
-		"color": "#00A5FF"
+		"color": "#00a5ff"
 	},
 	{
 		"symbol": "EUR",
 		"name": "EUR",
-		"color": "#0F8FF8"
+		"color": "#0f8ff8"
 	},
 	{
 		"symbol": "EVX",
 		"name": "Everex",
-		"color": "#044AAC"
+		"color": "#044aac"
 	},
 	{
 		"symbol": "EXMO",
 		"name": "EXMO",
-		"color": "#347FFB"
+		"color": "#347ffb"
 	},
 	{
 		"symbol": "EXP",
 		"name": "Expanse",
-		"color": "#FFAA5C"
+		"color": "#ffaa5c"
 	},
 	{
 		"symbol": "FAIR",
 		"name": "Faircoin",
-		"color": "#C99705"
+		"color": "#c99705"
 	},
 	{
 		"symbol": "FCT",
 		"name": "Factom",
-		"color": "#417BA4"
+		"color": "#417ba4"
 	},
 	{
 		"symbol": "FIL",
 		"name": "Filecoin [Futures]",
-		"color": "#42C1CA"
+		"color": "#42c1ca"
 	},
 	{
 		"symbol": "FJC",
 		"name": "Fujicoin",
-		"color": "#00AFEC"
+		"color": "#00afec"
 	},
 	{
 		"symbol": "FLDC",
 		"name": "Foldingcoin",
-		"color": "#C40E09"
+		"color": "#c40e09"
 	},
 	{
 		"symbol": "FLO",
 		"name": "FLO",
-		"color": "#2080A2"
+		"color": "#2080a2"
 	},
 	{
 		"symbol": "FSN",
 		"name": "FUSION",
-		"color": "#1D9AD7"
+		"color": "#1d9ad7"
 	},
 	{
 		"symbol": "FTC",
 		"name": "Feathercoin",
-		"color": "#27323A"
+		"color": "#27323a"
 	},
 	{
 		"symbol": "FUEL",
 		"name": "Etherparty",
-		"color": "#4096D0"
+		"color": "#4096d0"
 	},
 	{
 		"symbol": "FUN",
 		"name": "FunFair",
-		"color": "#ED1968"
+		"color": "#ed1968"
 	},
 	{
 		"symbol": "GAME",
 		"name": "GameCredits",
-		"color": "#2D475B"
+		"color": "#2d475b"
 	},
 	{
 		"symbol": "GAS",
 		"name": "Gas",
-		"color": "#58BF00"
+		"color": "#58bf00"
 	},
 	{
 		"symbol": "GBP",
 		"name": "GBP",
-		"color": "#BC3FE0"
+		"color": "#bc3fe0"
 	},
 	{
 		"symbol": "GBX",
 		"name": "Globitex",
-		"color": "#1666AF"
+		"color": "#1666af"
 	},
 	{
 		"symbol": "GBYTE",
 		"name": "Byteball Bytes",
-		"color": "#302C2C"
+		"color": "#302c2c"
 	},
 	{
 		"symbol": "GENERIC",
 		"name": "GENERIC",
-		"color": "#EFB914"
+		"color": "#efb914"
 	},
 	{
 		"symbol": "GIN",
 		"name": "GINcoin",
-		"color": "#008DDE"
+		"color": "#008dde"
 	},
 	{
 		"symbol": "GLXT",
@@ -817,112 +817,112 @@
 	{
 		"symbol": "GMR",
 		"name": "Gimmer",
-		"color": "#372D2C"
+		"color": "#372d2c"
 	},
 	{
 		"symbol": "GNO",
 		"name": "Gnosis",
-		"color": "#00A6C4"
+		"color": "#00a6c4"
 	},
 	{
 		"symbol": "GNT",
 		"name": "Golem",
-		"color": "#001D57"
+		"color": "#001d57"
 	},
 	{
 		"symbol": "GOLD",
 		"name": "Dragonereum Gold",
-		"color": "#F1B32B"
+		"color": "#f1b32b"
 	},
 	{
 		"symbol": "GRC",
 		"name": "Gridcoin",
-		"color": "#5411B3"
+		"color": "#5411b3"
 	},
 	{
 		"symbol": "GRIN",
 		"name": "Grin",
-		"color": "#FFF300"
+		"color": "#fff300"
 	},
 	{
 		"symbol": "GRS",
 		"name": "Groestlcoin",
-		"color": "#377E96"
+		"color": "#377e96"
 	},
 	{
 		"symbol": "GSC",
 		"name": "Global Social Chain",
-		"color": "#FF0060"
+		"color": "#ff0060"
 	},
 	{
 		"symbol": "GTO",
 		"name": "Gifto",
-		"color": "#7F27FF"
+		"color": "#7f27ff"
 	},
 	{
 		"symbol": "GUP",
 		"name": "Guppy",
-		"color": "#37DCD8"
+		"color": "#37dcd8"
 	},
 	{
 		"symbol": "GUSD",
 		"name": "Gemini dollar",
-		"color": "#00DCFA"
+		"color": "#00dcfa"
 	},
 	{
 		"symbol": "GVT",
 		"name": "Genesis Vision",
-		"color": "#16B9AD"
+		"color": "#16b9ad"
 	},
 	{
 		"symbol": "GXS",
 		"name": "GXChain",
-		"color": "#35A5F3"
+		"color": "#35a5f3"
 	},
 	{
 		"symbol": "GZR",
 		"name": "Gizer",
-		"color": "#56C9E9"
+		"color": "#56c9e9"
 	},
 	{
 		"symbol": "HIGHT",
 		"name": "Highcoin",
-		"color": "#117FC0"
+		"color": "#117fc0"
 	},
 	{
 		"symbol": "HODL",
 		"name": "HOdlcoin",
-		"color": "#D59143"
+		"color": "#d59143"
 	},
 	{
 		"symbol": "HOT",
 		"name": "Holo",
-		"color": "#8834FF"
+		"color": "#8834ff"
 	},
 	{
 		"symbol": "HPB",
 		"name": "High Performance Blockchain",
-		"color": "#1591CA"
+		"color": "#1591ca"
 	},
 	{
 		"symbol": "HSR",
 		"name": "HShare",
-		"color": "#56428E"
+		"color": "#56428e"
 	},
 	{
 		"symbol": "HT",
 		"name": "HOTTO",
-		"color": "#2A3069"
+		"color": "#2a3069"
 	},
 	{
 		"symbol": "HTML",
 		"name": "HTMLCOIN",
-		"color": "#CFA967"
+		"color": "#cfa967"
 	},
 	{
 		"symbol": "HUC",
 		"name": "Huntercoin",
-		"color": "#FFC018"
+		"color": "#ffc018"
 	},
 	{
 		"symbol": "HUSH",
@@ -932,57 +932,57 @@
 	{
 		"symbol": "ICN",
 		"name": "Iconomi",
-		"color": "#4C6F8C"
+		"color": "#4c6f8c"
 	},
 	{
 		"symbol": "ICX",
 		"name": "ICON",
-		"color": "#1FC5C9"
+		"color": "#1fc5c9"
 	},
 	{
 		"symbol": "IGNIS",
 		"name": "Ignis",
-		"color": "#F9C011"
+		"color": "#f9c011"
 	},
 	{
 		"symbol": "ILK",
 		"name": "Inlock Token",
-		"color": "#98C23A"
+		"color": "#98c23a"
 	},
 	{
 		"symbol": "INK",
 		"name": "Ink",
-		"color": "#DF1A14"
+		"color": "#df1a14"
 	},
 	{
 		"symbol": "INS",
 		"name": "INS Ecosystem",
-		"color": "#B2A3F6"
+		"color": "#b2a3f6"
 	},
 	{
 		"symbol": "ION",
 		"name": "ION",
-		"color": "#57BEEA"
+		"color": "#57beea"
 	},
 	{
 		"symbol": "IOP",
 		"name": "Internet of People",
-		"color": "#4CB8D1"
+		"color": "#4cb8d1"
 	},
 	{
 		"symbol": "IOST",
 		"name": "IOStoken",
-		"color": "#1C1C1C"
+		"color": "#1c1c1c"
 	},
 	{
 		"symbol": "IOTX",
 		"name": "IoTeX",
-		"color": "#00D4D5"
+		"color": "#00d4d5"
 	},
 	{
 		"symbol": "IQ",
 		"name": "Everipedia",
-		"color": "#55DDFF"
+		"color": "#55ddff"
 	},
 	{
 		"symbol": "ITC",
@@ -992,22 +992,22 @@
 	{
 		"symbol": "JNT",
 		"name": "Jibrel Network",
-		"color": "#0050DB"
+		"color": "#0050db"
 	},
 	{
 		"symbol": "JPY",
 		"name": "JPY",
-		"color": "#EAC749"
+		"color": "#eac749"
 	},
 	{
 		"symbol": "KCS",
 		"name": "KuCoin Shares",
-		"color": "#0093DD"
+		"color": "#0093dd"
 	},
 	{
 		"symbol": "KIN",
 		"name": "Kin",
-		"color": "#005FFF"
+		"color": "#005fff"
 	},
 	{
 		"symbol": "KMD",
@@ -1017,12 +1017,12 @@
 	{
 		"symbol": "KNC",
 		"name": "Kyber Network",
-		"color": "#188C92"
+		"color": "#188c92"
 	},
 	{
 		"symbol": "KRB",
 		"name": "Karbo",
-		"color": "#00AEEF"
+		"color": "#00aeef"
 	},
 	{
 		"symbol": "LBC",
@@ -1032,22 +1032,22 @@
 	{
 		"symbol": "LEND",
 		"name": "ETHLend",
-		"color": "#0FA9C9"
+		"color": "#0fa9c9"
 	},
 	{
 		"symbol": "LINK",
 		"name": "ChainLink",
-		"color": "#01A6FB"
+		"color": "#01a6fb"
 	},
 	{
 		"symbol": "LKK",
 		"name": "Lykke",
-		"color": "#9D01EB"
+		"color": "#9d01eb"
 	},
 	{
 		"symbol": "LOOM",
 		"name": "Loom Network",
-		"color": "#48BEFF"
+		"color": "#48beff"
 	},
 	{
 		"symbol": "LPT",
@@ -1057,57 +1057,57 @@
 	{
 		"symbol": "LRC",
 		"name": "Loopring",
-		"color": "#2AB6F6"
+		"color": "#2ab6f6"
 	},
 	{
 		"symbol": "LSK",
 		"name": "Lisk",
-		"color": "#0D4EA0"
+		"color": "#0d4ea0"
 	},
 	{
 		"symbol": "LTC",
 		"name": "Litecoin",
-		"color": "#BFBBBB"
+		"color": "#bfbbbb"
 	},
 	{
 		"symbol": "LUN",
 		"name": "Lunyr",
-		"color": "#F55749"
+		"color": "#f55749"
 	},
 	{
 		"symbol": "MAID",
 		"name": "MaidSafeCoin",
-		"color": "#5592D7"
+		"color": "#5592d7"
 	},
 	{
 		"symbol": "MANA",
 		"name": "Decentraland",
-		"color": "#BFB5AF"
+		"color": "#bfb5af"
 	},
 	{
 		"symbol": "MCAP",
 		"name": "MCAP",
-		"color": "#033B4A"
+		"color": "#033b4a"
 	},
 	{
 		"symbol": "MCO",
 		"name": "Crypto.com",
-		"color": "#103F68"
+		"color": "#103f68"
 	},
 	{
 		"symbol": "MDA",
 		"name": "Moeda Loyalty Points",
-		"color": "#01A64F"
+		"color": "#01a64f"
 	},
 	{
 		"symbol": "MDS",
 		"name": "MediShares",
-		"color": "#1E252C"
+		"color": "#1e252c"
 	},
 	{
 		"symbol": "MED",
 		"name": "Medibloc",
-		"color": "#00B0FF"
+		"color": "#00b0ff"
 	},
 	{
 		"symbol": "MEETONE",
@@ -1122,27 +1122,27 @@
 	{
 		"symbol": "MITH",
 		"name": "Mithril",
-		"color": "#00316D"
+		"color": "#00316d"
 	},
 	{
 		"symbol": "MKR",
 		"name": "Maker",
-		"color": "#1ABC9C"
+		"color": "#1abc9c"
 	},
 	{
 		"symbol": "MLN",
 		"name": "Melon",
-		"color": "#0B1529"
+		"color": "#0b1529"
 	},
 	{
 		"symbol": "MNX",
 		"name": "MinexCoin",
-		"color": "#00ADEF"
+		"color": "#00adef"
 	},
 	{
 		"symbol": "MNZ",
 		"name": "MNZ",
-		"color": "#7F368A"
+		"color": "#7f368a"
 	},
 	{
 		"symbol": "MOAC",
@@ -1152,42 +1152,42 @@
 	{
 		"symbol": "MOD",
 		"name": "Modum",
-		"color": "#09547D"
+		"color": "#09547d"
 	},
 	{
 		"symbol": "MONA",
 		"name": "MonaCoin",
-		"color": "#DEC799"
+		"color": "#dec799"
 	},
 	{
 		"symbol": "MSR",
 		"name": "Masari",
-		"color": "#47B95C"
+		"color": "#47b95c"
 	},
 	{
 		"symbol": "MTH",
 		"name": "Monetha",
-		"color": "#104FCA"
+		"color": "#104fca"
 	},
 	{
 		"symbol": "MTL",
 		"name": "Metal",
-		"color": "#1E1F25"
+		"color": "#1e1f25"
 	},
 	{
 		"symbol": "MUSIC",
 		"name": "Musicoin",
-		"color": "#FFFFFF"
+		"color": "#ffffff"
 	},
 	{
 		"symbol": "MZC",
 		"name": "MAZA",
-		"color": "#FFAA05"
+		"color": "#ffaa05"
 	},
 	{
 		"symbol": "NANO",
 		"name": "Nano",
-		"color": "#4A90E2"
+		"color": "#4a90e2"
 	},
 	{
 		"symbol": "NAS",
@@ -1197,92 +1197,92 @@
 	{
 		"symbol": "NAV",
 		"name": "NAV Coin",
-		"color": "#7D59B5"
+		"color": "#7d59b5"
 	},
 	{
 		"symbol": "NCASH",
 		"name": "Nucleus Vision",
-		"color": "#36A9CF"
+		"color": "#36a9cf"
 	},
 	{
 		"symbol": "NDZ",
 		"name": "NDZ",
-		"color": "#622FBA"
+		"color": "#622fba"
 	},
 	{
 		"symbol": "NEBL",
 		"name": "Neblio",
-		"color": "#50479E"
+		"color": "#50479e"
 	},
 	{
 		"symbol": "NEO",
 		"name": "NEO",
-		"color": "#58BF00"
+		"color": "#58bf00"
 	},
 	{
 		"symbol": "NEOS",
 		"name": "Neoscoin",
-		"color": "#E5F300"
+		"color": "#e5f300"
 	},
 	{
 		"symbol": "NEU",
 		"name": "Neumark",
-		"color": "#B3BA00"
+		"color": "#b3ba00"
 	},
 	{
 		"symbol": "NEXO",
 		"name": "Nexo",
-		"color": "#1A4199"
+		"color": "#1a4199"
 	},
 	{
 		"symbol": "NGC",
 		"name": "NAGA",
-		"color": "#F80000"
+		"color": "#f80000"
 	},
 	{
 		"symbol": "NIO",
 		"name": "Autonio",
-		"color": "#70C9C9"
+		"color": "#70c9c9"
 	},
 	{
 		"symbol": "NLC2",
 		"name": "NoLimitCoin",
-		"color": "#F28F01"
+		"color": "#f28f01"
 	},
 	{
 		"symbol": "NLG",
 		"name": "Gulden",
-		"color": "#2AB0FD"
+		"color": "#2ab0fd"
 	},
 	{
 		"symbol": "NMC",
 		"name": "Namecoin",
-		"color": "#186C9D"
+		"color": "#186c9d"
 	},
 	{
 		"symbol": "NPXS",
 		"name": "Pundi X",
-		"color": "#F5D100"
+		"color": "#f5d100"
 	},
 	{
 		"symbol": "NULS",
 		"name": "Nuls",
-		"color": "#82BD39"
+		"color": "#82bd39"
 	},
 	{
 		"symbol": "NXS",
 		"name": "Nexus",
-		"color": "#4099CD"
+		"color": "#4099cd"
 	},
 	{
 		"symbol": "NXT",
 		"name": "NXT",
-		"color": "#008FBB"
+		"color": "#008fbb"
 	},
 	{
 		"symbol": "OAX",
 		"name": "OpenANX",
-		"color": "#164B79"
+		"color": "#164b79"
 	},
 	{
 		"symbol": "OK",
@@ -1292,12 +1292,12 @@
 	{
 		"symbol": "OMG",
 		"name": "OmiseGo",
-		"color": "#1A53F0"
+		"color": "#1a53f0"
 	},
 	{
 		"symbol": "OMNI",
 		"name": "Omni (Mastercoin)",
-		"color": "#1C347A"
+		"color": "#1c347a"
 	},
 	{
 		"symbol": "ONG",
@@ -1307,52 +1307,52 @@
 	{
 		"symbol": "ONT",
 		"name": "Ontology",
-		"color": "#32A4BE"
+		"color": "#32a4be"
 	},
 	{
 		"symbol": "OOT",
 		"name": "Utrum",
-		"color": "#25AAE1"
+		"color": "#25aae1"
 	},
 	{
 		"symbol": "OST",
 		"name": "OST",
-		"color": "#34445B"
+		"color": "#34445b"
 	},
 	{
 		"symbol": "OST",
 		"name": "OST",
-		"color": "#34445B"
+		"color": "#34445b"
 	},
 	{
 		"symbol": "OX",
 		"name": "OX Fina",
-		"color": "#4392CD"
+		"color": "#4392cd"
 	},
 	{
 		"symbol": "PART",
 		"name": "Particl",
-		"color": "#03E8B0"
+		"color": "#03e8b0"
 	},
 	{
 		"symbol": "PASC",
 		"name": "Pascalcoin",
-		"color": "#F7931E"
+		"color": "#f7931e"
 	},
 	{
 		"symbol": "PASL",
 		"name": "Pascal Lite",
-		"color": "#00ACFF"
+		"color": "#00acff"
 	},
 	{
 		"symbol": "PAX",
 		"name": "Paxos Standard",
-		"color": "#EDE708"
+		"color": "#ede708"
 	},
 	{
 		"symbol": "PAY",
 		"name": "TenX",
-		"color": "#302C2C"
+		"color": "#302c2c"
 	},
 	{
 		"symbol": "PAYX",
@@ -1362,62 +1362,62 @@
 	{
 		"symbol": "PINK",
 		"name": "Pinkcoin",
-		"color": "#ED79AA"
+		"color": "#ed79aa"
 	},
 	{
 		"symbol": "PIRL",
 		"name": "Pirl",
-		"color": "#96B73D"
+		"color": "#96b73d"
 	},
 	{
 		"symbol": "PIVX",
 		"name": "PIVX",
-		"color": "#5E4778"
+		"color": "#5e4778"
 	},
 	{
 		"symbol": "PLR",
 		"name": "Pillar",
-		"color": "#00BFFF"
+		"color": "#00bfff"
 	},
 	{
 		"symbol": "POA",
 		"name": "POA Network",
-		"color": "#444FA1"
+		"color": "#444fa1"
 	},
 	{
 		"symbol": "POE",
 		"name": "Po.et",
-		"color": "#DCD6CC"
+		"color": "#dcd6cc"
 	},
 	{
 		"symbol": "POLIS",
 		"name": "Polis",
-		"color": "#2C3E50"
+		"color": "#2c3e50"
 	},
 	{
 		"symbol": "POLY",
 		"name": "Polymath Network",
-		"color": "#4C5A95"
+		"color": "#4c5a95"
 	},
 	{
 		"symbol": "POT",
 		"name": "Potcoin",
-		"color": "#105B2F"
+		"color": "#105b2f"
 	},
 	{
 		"symbol": "POWR",
 		"name": "Power Ledger",
-		"color": "#05BCA9"
+		"color": "#05bca9"
 	},
 	{
 		"symbol": "PPC",
 		"name": "Peercoin",
-		"color": "#3CB054"
+		"color": "#3cb054"
 	},
 	{
 		"symbol": "PPP",
 		"name": "PayPie",
-		"color": "#348F8D"
+		"color": "#348f8d"
 	},
 	{
 		"symbol": "PPT",
@@ -1427,17 +1427,17 @@
 	{
 		"symbol": "PRE",
 		"name": "Presearch",
-		"color": "#3A8CBD"
+		"color": "#3a8cbd"
 	},
 	{
 		"symbol": "PRL",
 		"name": "Oyster",
-		"color": "#1061E3"
+		"color": "#1061e3"
 	},
 	{
 		"symbol": "PUNGO",
 		"name": "Pungo Token",
-		"color": "#22B573"
+		"color": "#22b573"
 	},
 	{
 		"symbol": "PURA",
@@ -1447,12 +1447,12 @@
 	{
 		"symbol": "QASH",
 		"name": "QASH",
-		"color": "#1347E8"
+		"color": "#1347e8"
 	},
 	{
 		"symbol": "QIWI",
 		"name": "QIWI",
-		"color": "#FF8C00"
+		"color": "#ff8c00"
 	},
 	{
 		"symbol": "QLC",
@@ -1472,17 +1472,17 @@
 	{
 		"symbol": "QTUM",
 		"name": "Qtum",
-		"color": "#2E9AD0"
+		"color": "#2e9ad0"
 	},
 	{
 		"symbol": "R",
 		"name": "Revain",
-		"color": "#771A4E"
+		"color": "#771a4e"
 	},
 	{
 		"symbol": "RADS",
 		"name": "Radium",
-		"color": "#9D4BEF"
+		"color": "#9d4bef"
 	},
 	{
 		"symbol": "RAP",
@@ -1492,57 +1492,57 @@
 	{
 		"symbol": "RCN",
 		"name": "Rcoin",
-		"color": "#3555F9"
+		"color": "#3555f9"
 	},
 	{
 		"symbol": "RDD",
 		"name": "Reddcoin",
-		"color": "#E30613"
+		"color": "#e30613"
 	},
 	{
 		"symbol": "RDN",
 		"name": "Raiden Network Token",
-		"color": "#2A2A2A"
+		"color": "#2a2a2a"
 	},
 	{
 		"symbol": "REP",
 		"name": "Augur",
-		"color": "#602A52"
+		"color": "#602a52"
 	},
 	{
 		"symbol": "REQ",
 		"name": "Request Network",
-		"color": "#6CFCCD"
+		"color": "#6cfccd"
 	},
 	{
 		"symbol": "RHOC",
 		"name": "RChain",
-		"color": "#CC1E46"
+		"color": "#cc1e46"
 	},
 	{
 		"symbol": "RIC",
 		"name": "Riecoin",
-		"color": "#60E4DD"
+		"color": "#60e4dd"
 	},
 	{
 		"symbol": "RISE",
 		"name": "Rise",
-		"color": "#F49352"
+		"color": "#f49352"
 	},
 	{
 		"symbol": "RLC",
 		"name": "iExec RLC",
-		"color": "#FFD800"
+		"color": "#ffd800"
 	},
 	{
 		"symbol": "RPX",
 		"name": "RPX",
-		"color": "#8D181B"
+		"color": "#8d181b"
 	},
 	{
 		"symbol": "RUB",
 		"name": "RUB",
-		"color": "#64D1FF"
+		"color": "#64d1ff"
 	},
 	{
 		"symbol": "RVN",
@@ -1552,87 +1552,87 @@
 	{
 		"symbol": "RYO",
 		"name": "Ryo Currency",
-		"color": "#3D58B0"
+		"color": "#3d58b0"
 	},
 	{
 		"symbol": "SAFE",
 		"name": "Safe",
-		"color": "#00688C"
+		"color": "#00688c"
 	},
 	{
 		"symbol": "SALT",
 		"name": "SALT",
-		"color": "#1BEEF4"
+		"color": "#1beef4"
 	},
 	{
 		"symbol": "SAN",
 		"name": "Santiment Network Token",
-		"color": "#2B77B3"
+		"color": "#2b77b3"
 	},
 	{
 		"symbol": "SBD",
 		"name": "Steem Dollars",
-		"color": "#4BA2F2"
+		"color": "#4ba2f2"
 	},
 	{
 		"symbol": "SBERBANK",
 		"name": "SBERBANK",
-		"color": "#48B254"
+		"color": "#48b254"
 	},
 	{
 		"symbol": "SC",
 		"name": "Siacoin",
-		"color": "#20EE82"
+		"color": "#20ee82"
 	},
 	{
 		"symbol": "SHIFT",
 		"name": "Shift",
-		"color": "#964B9C"
+		"color": "#964b9c"
 	},
 	{
 		"symbol": "SIB",
 		"name": "SIBCoin",
-		"color": "#057BC1"
+		"color": "#057bc1"
 	},
 	{
 		"symbol": "SKY",
 		"name": "Skycoin",
-		"color": "#0072FF"
+		"color": "#0072ff"
 	},
 	{
 		"symbol": "SLR",
 		"name": "Solarcoin",
-		"color": "#FDA616"
+		"color": "#fda616"
 	},
 	{
 		"symbol": "SLS",
 		"name": "SaluS",
-		"color": "#8E9495"
+		"color": "#8e9495"
 	},
 	{
 		"symbol": "SMART",
 		"name": "SmartCash",
-		"color": "#FEC60D"
+		"color": "#fec60d"
 	},
 	{
 		"symbol": "SMART",
 		"name": "SmartCash",
-		"color": "#FEC60D"
+		"color": "#fec60d"
 	},
 	{
 		"symbol": "SNGLS",
 		"name": "SingularDTV",
-		"color": "#B30D23"
+		"color": "#b30d23"
 	},
 	{
 		"symbol": "SNM",
 		"name": "SONM",
-		"color": "#0B1C26"
+		"color": "#0b1c26"
 	},
 	{
 		"symbol": "SNT",
 		"name": "Status",
-		"color": "#5B6DEE"
+		"color": "#5b6dee"
 	},
 	{
 		"symbol": "SOC",
@@ -1642,67 +1642,67 @@
 	{
 		"symbol": "SPANK",
 		"name": "SpankChain",
-		"color": "#FF3B81"
+		"color": "#ff3b81"
 	},
 	{
 		"symbol": "SPHTX",
 		"name": "SophiaTX",
-		"color": "#00B098"
+		"color": "#00b098"
 	},
 	{
 		"symbol": "SRN",
 		"name": "Sirin Labs Token",
-		"color": "#1C1C1C"
+		"color": "#1c1c1c"
 	},
 	{
 		"symbol": "STAK",
 		"name": "STRAKS",
-		"color": "#F2941B"
+		"color": "#f2941b"
 	},
 	{
 		"symbol": "START",
 		"name": "Startcoin",
-		"color": "#01AEF0"
+		"color": "#01aef0"
 	},
 	{
 		"symbol": "STEEM",
 		"name": "Steem",
-		"color": "#4BA2F2"
+		"color": "#4ba2f2"
 	},
 	{
 		"symbol": "STORJ",
 		"name": "Storj",
-		"color": "#2683FF"
+		"color": "#2683ff"
 	},
 	{
 		"symbol": "STORM",
 		"name": "Storm",
-		"color": "#080D98"
+		"color": "#080d98"
 	},
 	{
 		"symbol": "STQ",
 		"name": "Storiqa",
-		"color": "#2DC4E7"
+		"color": "#2dc4e7"
 	},
 	{
 		"symbol": "STRAT",
 		"name": "Stratis",
-		"color": "#1387C9"
+		"color": "#1387c9"
 	},
 	{
 		"symbol": "SUB",
 		"name": "Substratum",
-		"color": "#E53431"
+		"color": "#e53431"
 	},
 	{
 		"symbol": "SUMO",
 		"name": "Sumokoin",
-		"color": "#2D9CDB"
+		"color": "#2d9cdb"
 	},
 	{
 		"symbol": "SYS",
 		"name": "Syscoin",
-		"color": "#0082C6"
+		"color": "#0082c6"
 	},
 	{
 		"symbol": "TAAS",
@@ -1712,86 +1712,87 @@
 	{
 		"symbol": "TAU",
 		"name": "Lamden",
-		"color": "#7B346E"
+		"color": "#7b346e"
 	},
 	{
 		"symbol": "TBX",
 		"name": "Tokenbox",
-		"color": "#5244D4"
+		"color": "#5244d4"
 	},
 	{
 		"symbol": "TEL",
 		"name": "Telcoin",
-		"color": "#14C8FF"
+		"color": "#14c8ff"
 	},
 	{
 		"symbol": "TEN",
 		"name": "Tokenomy",
-		"color": "#0899CD"
+		"color": "#0899cd"
 	},
 	{
 		"symbol": "TERN",
 		"name": "Ternio",
-		"color": "#F4C257"
+		"color": "#f4c257"
 	},
 	{
 		"symbol": "TGCH",
-		"name": "TrueGalaxyCash"
+		"name": "TrueGalaxyCash",
+		"color": "#434247"
 	},
 	{
 		"symbol": "THETA",
 		"name": "Theta Network",
-		"color": "#2AB8E6"
+		"color": "#2ab8e6"
 	},
 	{
 		"symbol": "TIX",
 		"name": "Blocktix",
-		"color": "#EF494D"
+		"color": "#ef494d"
 	},
 	{
 		"symbol": "TKN",
 		"name": "TokenCard",
-		"color": "#24DD7B"
+		"color": "#24dd7b"
 	},
 	{
 		"symbol": "TKS",
 		"name": "Tokes Platform",
-		"color": "#895AF8"
+		"color": "#895af8"
 	},
 	{
 		"symbol": "TNB",
 		"name": "Time New Bank",
-		"color": "#FFC04E"
+		"color": "#ffc04e"
 	},
 	{
 		"symbol": "TNC",
 		"name": "Trinity Network Credit",
-		"color": "#FF439B"
+		"color": "#ff439b"
 	},
 	{
 		"symbol": "TNT",
 		"name": "Tierion",
-		"color": "#FF4081"
+		"color": "#ff4081"
 	},
 	{
 		"symbol": "TOMO",
 		"name": "TomoChain",
-		"color": "#1A1F36"
+		"color": "#1a1f36"
 	},
 	{
 		"symbol": "TPAY",
 		"name": "TokenPay",
-		"color": "#3058A6"
+		"color": "#3058a6"
 	},
 	{
 		"symbol": "TRIG",
 		"name": "Triggers",
-		"color": "#30C0F2"
+		"color": "#30c0f2"
 	},
 	{
 		"symbol": "TRTL",
 		"name": "TurtleCoin",
-		"color": "#00843D"
+		"color": "#00843d"
 	},
 	{
 		"symbol": "TRX",
@@ -1801,7 +1802,7 @@
 	{
 		"symbol": "TUSD",
 		"name": "True USD",
-		"color": "#2B2E7F"
+		"color": "#2b2e7f"
 	},
 	{
 		"symbol": "TZC",
@@ -1811,42 +1812,42 @@
 	{
 		"symbol": "UBQ",
 		"name": "Ubiq",
-		"color": "#00EA90"
+		"color": "#00ea90"
 	},
 	{
 		"symbol": "UNITY",
 		"name": "SuperNET",
-		"color": "#F58634"
+		"color": "#f58634"
 	},
 	{
 		"symbol": "USD",
 		"name": "USD",
-		"color": "#6CDE07"
+		"color": "#6cde07"
 	},
 	{
 		"symbol": "USDC",
 		"name": "USD Coin",
-		"color": "#2775C9"
+		"color": "#2775c9"
 	},
 	{
 		"symbol": "USDT",
 		"name": "Tether",
-		"color": "#26A17B"
+		"color": "#26a17b"
 	},
 	{
 		"symbol": "UTK",
 		"name": "UTRUST",
-		"color": "#30367A"
+		"color": "#30367a"
 	},
 	{
 		"symbol": "VERI",
 		"name": "Veritaseum",
-		"color": "#FF9933"
+		"color": "#ff9933"
 	},
 	{
 		"symbol": "VET",
 		"name": "VeChain",
-		"color": "#15BDFF"
+		"color": "#15bdff"
 	},
 	{
 		"symbol": "VIA",
@@ -1856,27 +1857,27 @@
 	{
 		"symbol": "VIB",
 		"name": "Viberate",
-		"color": "#FF1F43"
+		"color": "#ff1f43"
 	},
 	{
 		"symbol": "VIBE",
 		"name": "VIBE",
-		"color": "#338BE5"
+		"color": "#338be5"
 	},
 	{
 		"symbol": "VIVO",
 		"name": "VIVO",
-		"color": "#408AF1"
+		"color": "#408af1"
 	},
 	{
 		"symbol": "VRC",
 		"name": "VeriCoin",
-		"color": "#418BCA"
+		"color": "#418bca"
 	},
 	{
 		"symbol": "VRSC",
 		"name": "VerusCoin",
-		"color": "#FFB500"
+		"color": "#ffb500"
 	},
 	{
 		"symbol": "VTC",
@@ -1886,122 +1887,122 @@
 	{
 		"symbol": "VTHO",
 		"name": "VeThor Token",
-		"color": "#2A5284"
+		"color": "#2a5284"
 	},
 	{
 		"symbol": "WABI",
 		"name": "WaBi",
-		"color": "#399B32"
+		"color": "#399b32"
 	},
 	{
 		"symbol": "WAN",
 		"name": "Wanchain",
-		"color": "#136AAD"
+		"color": "#136aad"
 	},
 	{
 		"symbol": "WAVES",
 		"name": "Waves",
-		"color": "#0155FF"
+		"color": "#0155ff"
 	},
 	{
 		"symbol": "WAX",
 		"name": "WAX",
-		"color": "#F89022"
+		"color": "#f89022"
 	},
 	{
 		"symbol": "WGR",
 		"name": "Wagerr",
-		"color": "#B80000"
+		"color": "#b80000"
 	},
 	{
 		"symbol": "WICC",
 		"name": "WaykiChain",
-		"color": "#5783CB"
+		"color": "#5783cb"
 	},
 	{
 		"symbol": "WINGS",
 		"name": "Wings",
-		"color": "#0DC9F7"
+		"color": "#0dc9f7"
 	},
 	{
 		"symbol": "WPR",
 		"name": "WePower",
-		"color": "#FFE600"
+		"color": "#ffe600"
 	},
 	{
 		"symbol": "WTC",
 		"name": "Waltonchain",
-		"color": "#8200FF"
+		"color": "#8200ff"
 	},
 	{
 		"symbol": "X",
 		"name": "GLX Equity Token",
-		"color": "#3B5998"
+		"color": "#3b5998"
 	},
 	{
 		"symbol": "XAS",
 		"name": "Asch",
-		"color": "#FAA00D"
+		"color": "#faa00d"
 	},
 	{
 		"symbol": "XBC",
 		"name": "Bitcoin Plus",
-		"color": "#F7931A"
+		"color": "#f7931a"
 	},
 	{
 		"symbol": "XBY",
 		"name": "XtraBYtes",
-		"color": "#56F4F1"
+		"color": "#56f4f1"
 	},
 	{
 		"symbol": "XCP",
 		"name": "Counterparty",
-		"color": "#ED1650"
+		"color": "#ed1650"
 	},
 	{
 		"symbol": "XDN",
 		"name": "DigitalNote",
-		"color": "#4F7AA2"
+		"color": "#4f7aa2"
 	},
 	{
 		"symbol": "XEM",
 		"name": "NEM",
-		"color": "#67B2E8"
+		"color": "#67b2e8"
 	},
 	{
 		"symbol": "XIN",
 		"name": "Infinity Economics",
-		"color": "#1EB5FA"
+		"color": "#1eb5fa"
 	},
 	{
 		"symbol": "XLM",
 		"name": "Stellar",
-		"color": "#14B6E7"
+		"color": "#14b6e7"
 	},
 	{
 		"symbol": "XMCC",
 		"name": "Monoeci",
-		"color": "#DD0632"
+		"color": "#dd0632"
 	},
 	{
 		"symbol": "XMG",
 		"name": "Magi",
-		"color": "#004A80"
+		"color": "#004a80"
 	},
 	{
 		"symbol": "XMO",
 		"name": "Monero Original",
-		"color": "#FF6600"
+		"color": "#ff6600"
 	},
 	{
 		"symbol": "XMR",
 		"name": "Monero",
-		"color": "#FF6600"
+		"color": "#ff6600"
 	},
 	{
 		"symbol": "XMY",
 		"name": "Myriadcoin",
-		"color": "#EC1076"
+		"color": "#ec1076"
 	},
 	{
 		"symbol": "XP",
@@ -2011,106 +2012,106 @@
 	{
 		"symbol": "XPA",
 		"name": "XPA",
-		"color": "#4FA784"
+		"color": "#4fa784"
 	},
 	{
 		"symbol": "XPM",
 		"name": "Primecoin",
-		"color": "#FFD81B"
+		"color": "#ffd81b"
 	},
 	{
 		"symbol": "XRP",
 		"name": "XRP",
-		"color": "#23292F"
+		"color": "#23292f"
 	},
 	{
 		"symbol": "XRP",
 		"name": "XRP",
-		"color": "#23292F"
+		"color": "#23292f"
 	},
 	{
 		"symbol": "XSG",
 		"name": "SnowGem",
-		"color": "#D21E2B"
+		"color": "#d21e2b"
 	},
 	{
 		"symbol": "XTZ",
 		"name": "Tezos",
-		"color": "#A6E000"
+		"color": "#a6e000"
 	},
 	{
 		"symbol": "XUC",
 		"name": "Exchange Union",
-		"color": "#25AAE3"
+		"color": "#25aae3"
 	},
 	{
 		"symbol": "XVC",
 		"name": "Vcash",
-		"color": "#B50126"
+		"color": "#b50126"
 	},
 	{
 		"symbol": "XVG",
 		"name": "Verge",
-		"color": "#00CBFF"
+		"color": "#00cbff"
 	},
 	{
 		"symbol": "XZC",
 		"name": "ZCoin",
-		"color": "#23B852"
+		"color": "#23b852"
 	},
 	{
 		"symbol": "YOYOW",
 		"name": "YOYOW",
-		"color": "#21A5DE"
+		"color": "#21a5de"
 	},
 	{
 		"symbol": "ZCL",
 		"name": "Zclassic",
-		"color": "#C87035"
+		"color": "#c87035"
 	},
 	{
 		"symbol": "ZEC",
 		"name": "Zcash",
-		"color": "#ECB244"
+		"color": "#ecb244"
 	},
 	{
 		"symbol": "ZEL",
 		"name": "ZelCash",
-		"color": "#183C87"
+		"color": "#183c87"
 	},
 	{
 		"symbol": "ZEN",
 		"name": "Horizen",
-		"color": "#16203A"
+		"color": "#16203a"
 	},
 	{
 		"symbol": "ZEN",
 		"name": "Horizen",
-		"color": "#16203A"
+		"color": "#16203a"
 	},
 	{
 		"symbol": "ZEST",
 		"name": "Zest",
-		"color": "#07BC9C"
+		"color": "#07bc9c"
 	},
 	{
 		"symbol": "ZEST",
 		"name": "Zest",
-		"color": "#07BC9C"
+		"color": "#07bc9c"
 	},
 	{
 		"symbol": "ZIL",
 		"name": "Zilliqa",
-		"color": "#49C1BF"
+		"color": "#49c1bf"
 	},
 	{
 		"symbol": "ZILLA",
 		"name": "ZILLA",
-		"color": "#00004D"
+		"color": "#00004d"
 	},
 	{
 		"symbol": "ZRX",
 		"name": "0x",
-		"color": "#302C2C"
+		"color": "#302c2c"
 	}
 ]

@@ -1,4 +1,5 @@
-[{
+[
+	{
 		"symbol": "$PAC",
 		"name": "PACcoin",
 		"color": "#F5EB16"
@@ -469,14 +470,14 @@
 		"color": "#3AB03E"
 	},
 	{
-		"symbol": "DAI",
-		"name": "Dai",
-		"color": "#B68900"
-	},
-	{
 		"symbol": "D",
 		"name": "Denarius",
 		"color": "#B8B8B8"
+	},
+	{
+		"symbol": "DAI",
+		"name": "Dai",
+		"color": "#B68900"
 	},
 	{
 		"symbol": "DASH",
@@ -1735,8 +1736,7 @@
 	},
 	{
 		"symbol": "TGCH",
-		"name": "TrueGalaxyCash",
-		"color": "#221F20"
+		"name": "TrueGalaxyCash"
 	},
 	{
 		"symbol": "THETA",

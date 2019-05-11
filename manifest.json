@@ -40,5 +40,11 @@
     "name": "Hug",
     "tokenId":
       "4ac91a7245936cda41cfa616c342cbcd111a72a60bf37fdf8e556926cbaa7b28"
+  },
+	{
+    "symbol": "DNT",
+    "name": "Donut",
+    "tokenId":
+      "ec8d74d7d5793abb25b8c6391ca951e333523859bf2bbe6a4fd307a2385579d0"
   }
 ]

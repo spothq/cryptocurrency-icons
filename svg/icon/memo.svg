@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export memo.svg Zeichenblatt-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.95595in" height="2.95595in" viewBox="0 0 212.828 212.828" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="1031">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Multiple process)"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#336600;stroke:#c8c8c8;stroke-width:0.249999}
+		.st2 {fill:#548d1d;stroke:#c8c8c8;stroke-width:0.249999}
+		.st3 {fill:#ffffff;font-family:Arial;font-size:3em}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Zeichenblatt-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50392" v:shadowOffsetY="-8.50392"/>
+		<v:layer v:name="Flussdiagramm" v:index="0"/>
+		<v:layer v:name="Datengrafik" v:index="1"/>
+		<g id="group18-1" transform="translate(21.9685,-21.2561)" v:mID="18" v:groupContext="group">
+			<title>Tabelle.18</title>
+			<g id="shape3-2" v:mID="3" v:groupContext="shape" v:layerMember="0">
+				<title>Tabelle.3</title>
+				<path d="M0 126.51 A85.7499 85.7499 0 0 1 171.5 126.51 A85.7499 85.7499 0 1 1 -0 126.51 Z" class="st1"/>
+			</g>
+		</g>
+		<g id="group19-4" transform="translate(39.6884,-39.685)" v:mID="19" v:groupContext="group">
+			<title>Tabelle.19</title>
+			<desc>MEMO</desc>
+			<g id="shape16-5" v:mID="16" v:groupContext="shape" v:layerMember="0">
+				<title>Tabelle.3</title>
+				<path d="M0 144.35 A68.0313 68.0313 0 0 1 136.06 144.35 A68.0313 68.0313 0 1 1 0 144.35 Z" class="st2"/>
+			</g>
+			<g id="shape19-7" v:mID="19" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)"/>
+				<v:textRect cx="68.0298" cy="144.797" width="136.06" height="136.063"/>
+				<text x="12.03" y="155.6" class="st3" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>MEMO</text>			</g>
+		</g>
+	</g>
+</svg>

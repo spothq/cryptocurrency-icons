@@ -1,15 +1,50 @@
 [
-	{
-		"symbol": "$BCH",
-		"name": "$BCH"
-	},
-	{
-		"symbol": "SATOSHIDICE",
-		"name": "SatoshiDice"
-	},
-	{
-		"symbol": "Bitcoin cash SLP torch",
-		"name": "Torch",
-		"token_id": "49be89bbbe018bcfaebcb41cac8340bc555f022b47b922599e510b143603f4b6"
-	}
+  {
+    "symbol": "Bitcoin cash SLP torch",
+    "name": "Torch",
+    "tokenId":
+      "49be89bbbe018bcfaebcb41cac8340bc555f022b47b922599e510b143603f4b6"
+  },
+  {
+    "symbol": "SPICE",
+    "name": "Spice",
+    "tokenId":
+      "4de69e374a8ed21cbddd47f2338cc0f479dc58daa2bbe11cd604ca488eca0ddf"
+  },
+  {
+    "symbol": "WTN",
+    "name": "Wonton",
+    "tokenId":
+      "56ff58fd263736172f0b707c014ea8272d633cc0986b2ffb70e7e209bcc4adad"
+  },
+  {
+    "symbol": "CASH",
+    "name": "CASH",
+    "tokenId":
+      "fc7aa9a70b4ae86d30b93a98e853716a4217e77c60769f664da3c6189647d3ba"
+  },
+  {
+    "symbol": "Ash nazg durbatuluk",
+    "name": "Nazgûl",
+    "tokenId":
+      "b5419ec4353979daba805cb897411a00b6ca81776d61a0d8c9b792e44a9821c1"
+  },
+  {
+    "symbol": "HONKS",
+    "name": "HONKS",
+    "tokenId":
+      "f35007140e40c4b6ce4ecc9ad166101ad94562b3e4f650a30de10b8a80c0b987"
+  },
+  {
+    "symbol": "HUG",
+    "name": "Hug",
+    "tokenId":
+      "4ac91a7245936cda41cfa616c342cbcd111a72a60bf37fdf8e556926cbaa7b28"
+  }
+  {
+    "symbol": "MEMO",
+    "name": "MEMO",
+    "tokenId":
+      "271045cebbfac88ff91ad7cb3fd4c50a4f9d6523b81a49183214c75665a2363c"
+  }	
 ]

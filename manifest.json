@@ -24,6 +24,12 @@
       "fc7aa9a70b4ae86d30b93a98e853716a4217e77c60769f664da3c6189647d3ba"
   },
   {
+    "symbol": "LLM",
+    "name": "Merit",
+    "tokenId":
+      "527a337f34e04b1974cb8a1edc7ca30b2e444bea111afc122259552243c1dbe3"
+  },
+  {
     "symbol": "Ash nazg durbatuluk",
     "name": "Nazgûl",
     "tokenId":
@@ -41,9 +47,15 @@
     "tokenId":
       "4ac91a7245936cda41cfa616c342cbcd111a72a60bf37fdf8e556926cbaa7b28"
   },
-	{
-    "symbol": "DNT",
-    "name": "Donut",
+  {
+    "symbol": "MEMO",
+    "name": "MEMO",
+    "tokenId":
+      "271045cebbfac88ff91ad7cb3fd4c50a4f9d6523b81a49183214c75665a2363c"
+  },
+  {
+    "symbol": "Donut",
+    "name": "DNT",
     "tokenId":
       "ec8d74d7d5793abb25b8c6391ca951e333523859bf2bbe6a4fd307a2385579d0"
   }

@@ -46,5 +46,11 @@
     "name": "Hug",
     "tokenId":
       "4ac91a7245936cda41cfa616c342cbcd111a72a60bf37fdf8e556926cbaa7b28"
+  },
+  {
+    "symbol": "MEMO",
+    "name": "MEMO",
+    "tokenId":
+      "271045cebbfac88ff91ad7cb3fd4c50a4f9d6523b81a49183214c75665a2363c"
   }
 ]

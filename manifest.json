@@ -52,5 +52,11 @@
     "name": "MEMO",
     "tokenId":
       "271045cebbfac88ff91ad7cb3fd4c50a4f9d6523b81a49183214c75665a2363c"
+  },
+  {
+    "symbol": "Donut",
+    "name": "DNT",
+    "tokenId":
+      "ec8d74d7d5793abb25b8c6391ca951e333523859bf2bbe6a4fd307a2385579d0"
   }
 ]

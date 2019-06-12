@@ -58,5 +58,11 @@
     "name": "DNT",
     "tokenId":
       "ec8d74d7d5793abb25b8c6391ca951e333523859bf2bbe6a4fd307a2385579d0"
+  },
+  {
+    "symbol": "USDH",
+    "name": "HonestCoin",
+    "tokenId":
+      "c4b0d62156b3fa5c8f3436079b5394f7edc1bef5dc1cd2f9d0c4d46f82cca479",
   }
 ]

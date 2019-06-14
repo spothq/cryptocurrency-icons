@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>svg/black/elec</title>
+    <desc>Created with Sketch.</desc>
+    <g id="black/elec" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16.7398266,14.2840295 L19.5105651,4 L8,18.2702703 L14.2618224,18.2702703 L10.7597052,27.5872236 L23.4260442,14.2840295 L16.7398266,14.2840295 Z M16,32 C7.163444,32 0,24.836556 0,16 C0,7.163444 7.163444,0 16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+        <g id="elec" transform="translate(8.000000, 4.000000)"></g>
+    </g>
+</svg>

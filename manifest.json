@@ -5,6 +5,11 @@
 		"color": "#f5eb16"
 	},
 	{
+		"symbol": "0XBTC",
+		"name": "0xBitcoin",
+		"color": "#ff914d"
+	},
+	{
 		"symbol": "2GIVE",
 		"name": "2Give",
 		"color": "#f1cb60"
@@ -71,12 +76,12 @@
 	},
 	{
 		"symbol": "AMB",
-		"name": "Amber",
+		"name": "Ambrosus",
 		"color": "#3c5be0"
 	},
 	{
 		"symbol": "AMP",
-		"name": "Synereo",
+		"name": "HyperSpace (Synereo)",
 		"color": "#2daee4"
 	},
 	{
@@ -123,6 +128,11 @@
 		"symbol": "ATM",
 		"name": "ATMChain",
 		"color": "#346fce"
+	},
+	{
+		"symbol": "ATOM",
+		"name": "Cosmos",
+		"color": "#2e3148"
 	},
 	{
 		"symbol": "AUDR",
@@ -361,7 +371,7 @@
 	},
 	{
 		"symbol": "CDT",
-		"name": "Coindash",
+		"name": "Blox",
 		"color": "#272731"
 	},
 	{
@@ -615,6 +625,11 @@
 		"color": "#3fbadf"
 	},
 	{
+		"symbol": "ELEC",
+		"name": "Electrify.Asia",
+		"color": "#ff9900"
+	},
+	{
 		"symbol": "ELF",
 		"name": "aelf",
 		"color": "#2b5ebb"
@@ -736,7 +751,7 @@
 	},
 	{
 		"symbol": "FIL",
-		"name": "Filecoin [Futures]",
+		"name": "Filecoin [IOU]",
 		"color": "#42c1ca"
 	},
 	{
@@ -796,7 +811,7 @@
 	},
 	{
 		"symbol": "GBYTE",
-		"name": "Byteball Bytes",
+		"name": "Obyte",
 		"color": "#302c2c"
 	},
 	{
@@ -956,7 +971,7 @@
 	},
 	{
 		"symbol": "INS",
-		"name": "INS Ecosystem",
+		"name": "Insolar",
 		"color": "#b2a3f6"
 	},
 	{
@@ -967,7 +982,7 @@
 	{
 		"symbol": "IOP",
 		"name": "Internet of People",
-		"color": "#4cb8d1"
+		"color": "#0cafa5"
 	},
 	{
 		"symbol": "IOST",
@@ -1115,6 +1130,11 @@
 		"color": "#000000"
 	},
 	{
+		"symbol": "MFT",
+		"name": "Mainframe",
+		"color": "#da1157"
+	},
+	{
 		"symbol": "MIOTA",
 		"name": "IOTA",
 		"color": "#242424"
@@ -1196,7 +1216,7 @@
 	},
 	{
 		"symbol": "NAV",
-		"name": "NAV Coin",
+		"name": "NavCoin",
 		"color": "#7d59b5"
 	},
 	{
@@ -1291,12 +1311,12 @@
 	},
 	{
 		"symbol": "OMG",
-		"name": "OmiseGo",
+		"name": "OmiseGO",
 		"color": "#1a53f0"
 	},
 	{
 		"symbol": "OMNI",
-		"name": "Omni (Mastercoin)",
+		"name": "Omni",
 		"color": "#1c347a"
 	},
 	{
@@ -1346,7 +1366,7 @@
 	},
 	{
 		"symbol": "PAX",
-		"name": "Paxos Standard",
+		"name": "PAX Token",
 		"color": "#ede708"
 	},
 	{
@@ -1505,13 +1525,18 @@
 		"color": "#2a2a2a"
 	},
 	{
+		"symbol": "REN",
+		"name": "Ren",
+		"color": "#001b3a"
+	},
+	{
 		"symbol": "REP",
 		"name": "Augur",
 		"color": "#602a52"
 	},
 	{
 		"symbol": "REQ",
-		"name": "Request Network",
+		"name": "Request",
 		"color": "#6cfccd"
 	},
 	{
@@ -1801,7 +1826,7 @@
 	},
 	{
 		"symbol": "TUSD",
-		"name": "True USD",
+		"name": "TrueUSD",
 		"color": "#2b2e7f"
 	},
 	{
@@ -1891,7 +1916,7 @@
 	},
 	{
 		"symbol": "WABI",
-		"name": "WaBi",
+		"name": "Tael",
 		"color": "#399b32"
 	},
 	{
@@ -1950,6 +1975,11 @@
 		"color": "#f7931a"
 	},
 	{
+		"symbol": "XBP",
+		"name": "BlitzPredict",
+		"color": "#21af67"
+	},
+	{
 		"symbol": "XBY",
 		"name": "XtraBYtes",
 		"color": "#56f4f1"
@@ -1977,7 +2007,7 @@
 	{
 		"symbol": "XLM",
 		"name": "Stellar",
-		"color": "#14b6e7"
+		"color": "#000000"
 	},
 	{
 		"symbol": "XMCC",
@@ -2001,7 +2031,7 @@
 	},
 	{
 		"symbol": "XMY",
-		"name": "Myriadcoin",
+		"name": "Myriad",
 		"color": "#ec1076"
 	},
 	{
@@ -2056,7 +2086,7 @@
 	},
 	{
 		"symbol": "XZC",
-		"name": "ZCoin",
+		"name": "Zcoin",
 		"color": "#23b852"
 	},
 	{
@@ -2106,7 +2136,7 @@
 	},
 	{
 		"symbol": "ZILLA",
-		"name": "ZILLA",
+		"name": "Chainzilla",
 		"color": "#00004d"
 	},
 	{

@@ -41,7 +41,19 @@ const overrides = new Map([
 	['GRIN', 'Grin'],
 	['ILK', 'Inlock Token'],
 	['BTM', 'Bytom'],
-	['D', 'Denarius']
+	['D', 'Denarius'],
+	['BTCD', 'BitcoinDark'],
+	['CMT', 'Comet'],
+	['CTR', 'Centra'],
+	['HSR', 'HShare'],
+	['ICN', 'Iconomi'],
+	['IOST', 'IOStoken'],
+	['PRL', 'Oyster'],
+	['RCN', 'Rcoin'],
+	['REN', 'Ren'],
+	['RYO', 'Ryo Currency'],
+	['SKY', 'Skycoin'],
+	['XVC', 'Vcash']
 ]);
 
 const icons = manifest.map(icon => {

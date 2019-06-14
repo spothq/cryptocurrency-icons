@@ -44,7 +44,7 @@
 	},
 	"devDependencies": {
 		"alpha-sort": "^2.0.1",
-		"coinlist": "^3.0.0",
+		"coinlist": "^3.1.2",
 		"get-svg-colors": "^1.5.1",
 		"globby-cli": "^1.0.1",
 		"husky": "^1.3.1",

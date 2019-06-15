@@ -130,5 +130,11 @@
     "name": "Bitcoin 2",
     "tokenId":
       "1074bafb678b85f90bca79fa201a26011e09bfc6f723b95c770c0850f8d44fe8",
+  },
+	{
+    "symbol": "PTKC",
+    "name": "PitchToken Klassic Cash",
+    "tokenId":
+      "6391445f8cdeca6f18dff1fa326b0ec40aba55c89864da27cc4645c4b44cfdb7",
   }
 ]

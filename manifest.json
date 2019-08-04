@@ -1,121 +1,147 @@
-[{
-		"symbol": "Bitcoin cash SLP torch",
-		"name": "Torch",
-		"tokenId": "49be89bbbe018bcfaebcb41cac8340bc555f022b47b922599e510b143603f4b6"
-	},
+[
+  {
+    "symbol": "Bitcoin cash SLP torch",
+    "name": "Torch",
+    "tokenId":
+      "49be89bbbe018bcfaebcb41cac8340bc555f022b47b922599e510b143603f4b6"
+  },
+  {
+    "symbol": "SPICE",
+    "name": "Spice",
+    "tokenId":
+      "4de69e374a8ed21cbddd47f2338cc0f479dc58daa2bbe11cd604ca488eca0ddf"
+  },
+  {
+    "symbol": "WTN",
+    "name": "Wonton",
+    "tokenId":
+      "56ff58fd263736172f0b707c014ea8272d633cc0986b2ffb70e7e209bcc4adad"
+  },
+  {
+    "symbol": "CASH",
+    "name": "CASH",
+    "tokenId":
+      "fc7aa9a70b4ae86d30b93a98e853716a4217e77c60769f664da3c6189647d3ba"
+  },
+  {
+    "symbol": "LLM",
+    "name": "Merit",
+    "tokenId":
+      "527a337f34e04b1974cb8a1edc7ca30b2e444bea111afc122259552243c1dbe3"
+  },
+  {
+    "symbol": "Ash nazg durbatuluk",
+    "name": "Nazgûl",
+    "tokenId":
+      "b5419ec4353979daba805cb897411a00b6ca81776d61a0d8c9b792e44a9821c1"
+  },
+  {
+    "symbol": "HONKS",
+    "name": "HONKS",
+    "tokenId":
+      "f35007140e40c4b6ce4ecc9ad166101ad94562b3e4f650a30de10b8a80c0b987"
+  },
+  {
+    "symbol": "HUG",
+    "name": "Hug",
+    "tokenId":
+      "4ac91a7245936cda41cfa616c342cbcd111a72a60bf37fdf8e556926cbaa7b28"
+  },
+  {
+    "symbol": "MEMO",
+    "name": "MEMO",
+    "tokenId":
+      "271045cebbfac88ff91ad7cb3fd4c50a4f9d6523b81a49183214c75665a2363c"
+  },
+  {
+    "symbol": "Donut",
+    "name": "DNT",
+    "tokenId":
+      "ec8d74d7d5793abb25b8c6391ca951e333523859bf2bbe6a4fd307a2385579d0"
+  },
+  {
+    "symbol": "USDH",
+    "name": "HonestCoin",
+    "tokenId":
+      "c4b0d62156b3fa5c8f3436079b5394f7edc1bef5dc1cd2f9d0c4d46f82cca479",
+  },
 	{
-		"symbol": "SPICE",
-		"name": "Spice",
-		"tokenId": "4de69e374a8ed21cbddd47f2338cc0f479dc58daa2bbe11cd604ca488eca0ddf"
-	},
+    "symbol": "BFT",
+    "name": "BLOCKFREIGHT",
+    "tokenId":
+      "f8448bef6a4dd0d43272e69a795ba95d6198446b550de7120c35a9f4d5a80cc4",
+  },
 	{
-		"symbol": "WTN",
-		"name": "Wonton",
-		"tokenId": "56ff58fd263736172f0b707c014ea8272d633cc0986b2ffb70e7e209bcc4adad"
-	},
+    "symbol": "RARE",
+    "name": "RARE",
+    "tokenId":
+      "f81e6d0a147006799597955e8bde1256f578436a9f55b1e475abd75ffb940a9d",
+  },
 	{
-		"symbol": "CASH",
-		"name": "CASH",
-		"tokenId": "fc7aa9a70b4ae86d30b93a98e853716a4217e77c60769f664da3c6189647d3ba"
-	},
+    "symbol": "BLACKED",
+    "name": "Blacked",
+    "tokenId":
+      "f216550f5bc33757c0e037f09133c40c0a359e624af3c690a6a2bdf0d077e7ce",
+  },
 	{
-		"symbol": "LLM",
-		"name": "Merit",
-		"tokenId": "527a337f34e04b1974cb8a1edc7ca30b2e444bea111afc122259552243c1dbe3"
-	},
+    "symbol": "MGTOW",
+    "name": "Men Going Their Own Way",
+    "tokenId":
+      "c1c5ad7c3d3871e4d584ea1e8cf8c4354a48c6cd374c78a80881b7ad635e6a21",
+  },
 	{
-		"symbol": "Ash nazg durbatuluk",
-		"name": "Nazgûl",
-		"tokenId": "b5419ec4353979daba805cb897411a00b6ca81776d61a0d8c9b792e44a9821c1"
-	},
+    "symbol": "STASH",
+    "name": "Stash Cash",
+    "tokenId":
+      "b4e1d771d1975528be616a5cdf23fccd9154981d0e231b52282952bb5d3521cd",
+  },
 	{
-		"symbol": "HONKS",
-		"name": "HONKS",
-		"tokenId": "f35007140e40c4b6ce4ecc9ad166101ad94562b3e4f650a30de10b8a80c0b987"
-	},
+    "symbol": "CRABS",
+    "name": "Crabs",
+    "tokenId":
+      "ad46c9d4db528865cef494e6a77ed5120df21d0a91f786aa0f41365568a444fb",
+  },
 	{
-		"symbol": "HUG",
-		"name": "Hug",
-		"tokenId": "4ac91a7245936cda41cfa616c342cbcd111a72a60bf37fdf8e556926cbaa7b28"
-	},
+    "symbol": "ACD",
+    "name": "ACD Coin",
+    "tokenId":
+      "959a6818cba5af8aba391d3f7649f5f6a5ceb6cdcd2c2a3dcb5d2fbfc4b08e98",
+  },
 	{
-		"symbol": "MEMO",
-		"name": "MEMO",
-		"tokenId": "271045cebbfac88ff91ad7cb3fd4c50a4f9d6523b81a49183214c75665a2363c"
-	},
+    "symbol": "TCASH",
+    "name": "TrueCASH",
+    "tokenId":
+      "918af9692eda8ea699d6938a7d87b1938bd9a2e421e2bafe41798b0915b2266a",
+  },
 	{
-		"symbol": "Donut",
-		"name": "DNT",
-		"tokenId": "ec8d74d7d5793abb25b8c6391ca951e333523859bf2bbe6a4fd307a2385579d0"
-	},
+    "symbol": "DCASH",
+    "name": "Dogecash",
+    "tokenId":
+      "8e9d0cc48bf2e32fb120c91038ca168794974361989f60156386b73d81b42bb0",
+  },
 	{
-		"symbol": "USDH",
-		"name": "HonestCoin",
-		"tokenId": "c4b0d62156b3fa5c8f3436079b5394f7edc1bef5dc1cd2f9d0c4d46f82cca479"
-	},
+    "symbol": "HONK",
+    "name": "HONK HONK",
+    "tokenId":
+      "7f8889682d57369ed0e32336f8b7e0ffec625a35cca183f4e81fde4e71a538a1",
+  },
 	{
-		"symbol": "BFT",
-		"name": "BLOCKFREIGHT",
-		"tokenId": "f8448bef6a4dd0d43272e69a795ba95d6198446b550de7120c35a9f4d5a80cc4"
-	},
+    "symbol": "BTC2",
+    "name": "Bitcoin 2",
+    "tokenId":
+      "1074bafb678b85f90bca79fa201a26011e09bfc6f723b95c770c0850f8d44fe8",
+  },
 	{
-		"symbol": "RARE",
-		"name": "RARE",
-		"tokenId": "f81e6d0a147006799597955e8bde1256f578436a9f55b1e475abd75ffb940a9d"
-	},
+    "symbol": "PTKC",
+    "name": "PitchToken Klassic Cash",
+    "tokenId":
+      "6391445f8cdeca6f18dff1fa326b0ec40aba55c89864da27cc4645c4b44cfdb7",
+  },
 	{
-		"symbol": "BLACKED",
-		"name": "Blacked",
-		"tokenId": "f216550f5bc33757c0e037f09133c40c0a359e624af3c690a6a2bdf0d077e7ce"
-	},
-	{
-		"symbol": "MGTOW",
-		"name": "Men Going Their Own Way",
-		"tokenId": "c1c5ad7c3d3871e4d584ea1e8cf8c4354a48c6cd374c78a80881b7ad635e6a21"
-	},
-	{
-		"symbol": "STASH",
-		"name": "Stash Cash",
-		"tokenId": "b4e1d771d1975528be616a5cdf23fccd9154981d0e231b52282952bb5d3521cd"
-	},
-	{
-		"symbol": "CRABS",
-		"name": "Crabs",
-		"tokenId": "ad46c9d4db528865cef494e6a77ed5120df21d0a91f786aa0f41365568a444fb"
-	},
-	{
-		"symbol": "ACD",
-		"name": "ACD Coin",
-		"tokenId": "959a6818cba5af8aba391d3f7649f5f6a5ceb6cdcd2c2a3dcb5d2fbfc4b08e98"
-	},
-	{
-		"symbol": "TCASH",
-		"name": "TrueCASH",
-		"tokenId": "918af9692eda8ea699d6938a7d87b1938bd9a2e421e2bafe41798b0915b2266a"
-	},
-	{
-		"symbol": "DCASH",
-		"name": "Dogecash",
-		"tokenId": "8e9d0cc48bf2e32fb120c91038ca168794974361989f60156386b73d81b42bb0"
-	},
-	{
-		"symbol": "HONK",
-		"name": "HONK HONK",
-		"tokenId": "7f8889682d57369ed0e32336f8b7e0ffec625a35cca183f4e81fde4e71a538a1"
-	},
-	{
-		"symbol": "BTC2",
-		"name": "Bitcoin 2",
-		"tokenId": "1074bafb678b85f90bca79fa201a26011e09bfc6f723b95c770c0850f8d44fe8"
-	},
-	{
-		"symbol": "PTKC",
-		"name": "PitchToken Klassic Cash",
-		"tokenId": "6391445f8cdeca6f18dff1fa326b0ec40aba55c89864da27cc4645c4b44cfdb7"
-	},
-	{
-		"symbol": "41ST",
-		"name": "41st Street",
-		"tokenId": "141cf78353b0d2681ff8f027855e9b07db19548fb1b449e40b73e093084ead4a"
-	}
+    "symbol": "41ST",
+    "name": "41st Street",
+    "tokenId":
+      "141cf78353b0d2681ff8f027855e9b07db19548fb1b449e40b73e093084ead4a",
+  }
+	
 ]

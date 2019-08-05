@@ -53,7 +53,8 @@ const overrides = new Map([
 	['REN', 'Ren'],
 	['RYO', 'Ryo Currency'],
 	['SKY', 'Skycoin'],
-	['XVC', 'Vcash']
+	['XVC', 'Vcash'],
+	['MATIC', 'Matic Network']
 ]);
 
 const icons = manifest.map(icon => {

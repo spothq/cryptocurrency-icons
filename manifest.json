@@ -1100,6 +1100,11 @@
 		"color": "#bfb5af"
 	},
 	{
+		"symbol": "MATIC",
+		"name": "Matic Network",
+		"color": "#2b6def"
+	},
+	{
 		"symbol": "MCAP",
 		"name": "MCAP",
 		"color": "#033b4a"

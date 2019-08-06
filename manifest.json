@@ -136,5 +136,12 @@
     "name": "PitchToken Klassic Cash",
     "tokenId":
       "6391445f8cdeca6f18dff1fa326b0ec40aba55c89864da27cc4645c4b44cfdb7",
+  },
+	{
+    "symbol": "41ST",
+    "name": "41st Street",
+    "tokenId":
+      "141cf78353b0d2681ff8f027855e9b07db19548fb1b449e40b73e093084ead4a",
   }
+	
 ]

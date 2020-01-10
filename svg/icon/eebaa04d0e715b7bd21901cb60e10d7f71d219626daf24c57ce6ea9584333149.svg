@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Group 4 Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="42.363034%" y1="33.4998022%" x2="75.8084454%" y2="80.4094146%" id="linearGradient-1">
+            <stop stop-color="#FFC7D3" offset="0%"></stop>
+            <stop stop-color="#F5546C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="89.4254032%" y1="107.870464%" x2="38.1766633%" y2="2.65498992%" id="linearGradient-2">
+            <stop stop-color="#FB8DA5" offset="0%"></stop>
+            <stop stop-color="#E5475E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4-Copy-3">
+            <circle id="Oval-Copy-3" fill="url(#linearGradient-1)" cx="64" cy="64" r="64"></circle>
+            <circle id="Oval-Copy-5" fill="url(#linearGradient-2)" cx="64" cy="64" r="56"></circle>
+            <g id="Group-Copy-3" transform="translate(36.000000, 32.000000)" fill="#FFFFFF">
+                <g id="Group-5" transform="translate(0.000000, 0.043065)">
+                    <g id="Group-6">
+                        <path d="M34.5116436,3.87096002 C41.9580783,-0.428241035 49.8099807,-0.769111454 52.0493584,3.10960463 L52.0493584,3.10960463 L38.4854042,10.9406767 C39.1228428,10.8992794 39.7722482,10.8779544 40.4312158,10.8779544 C49.0296179,10.8779544 56,14.5087031 56,18.9874587 L56,18.9874587 L38.8504097,18.9865411 C39.962288,19.4516223 41.0852364,20.0061483 42.1991121,20.6492448 C49.6455468,24.9484458 53.8667004,31.5779575 51.6273226,35.4566736 L51.6273226,35.4566736 L28,21.815 L4.37267739,35.4566736 C2.13329962,31.5779575 6.35445324,24.9484458 13.8008879,20.6492448 C14.9147636,20.0061483 16.037712,19.4516223 17.1495903,18.9865411 L0,18.9874587 C0,14.5087031 6.97038213,10.8779544 15.5687842,10.8779544 C16.2277518,10.8779544 16.8771572,10.8992794 17.5145958,10.9406767 L3.95064157,3.10960463 C6.19001934,-0.769111454 14.0419217,-0.428241035 21.4883564,3.87096002 C24.1039757,5.38108852 26.3216529,7.17873573 28.0011756,9.04369182 C29.6783471,7.17873573 31.8960243,5.38108852 34.5116436,3.87096002 Z" id="Combined-Shape"></path>
+                        <polygon id="Path-3" points="29.8006474 26.2360988 27.3162609 24 24.8283519 26.2360988 20 68.8405063 33.0393793 68.8405063"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

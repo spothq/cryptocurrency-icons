@@ -142,6 +142,17 @@
     "name": "41st Street",
     "tokenId":
       "141cf78353b0d2681ff8f027855e9b07db19548fb1b449e40b73e093084ead4a",
+  },
+	{
+    "symbol": "LEAD",
+    "name": "LEAD Token",
+    "tokenId":
+      "29d353a3d19cdd7324f1c14b3fe289293976842869fed1bea3f9510558f6f006",
+  },
+	{
+    "symbol": "GOC",
+    "name": "GoC Token",
+    "tokenId":
+      "3f83fa9f168f01d68933ef5fdb77143b2376ba7bf3a78175258861982d90d500",
   }
-	
 ]

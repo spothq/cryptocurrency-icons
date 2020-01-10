@@ -154,5 +154,11 @@
     "name": "GoC Token",
     "tokenId":
       "3f83fa9f168f01d68933ef5fdb77143b2376ba7bf3a78175258861982d90d500",
+  },
+	{
+    "symbol": "MIAMI",
+    "name": "	Miami Token 2020",
+    "tokenId":
+      "eebaa04d0e715b7bd21901cb60e10d7f71d219626daf24c57ce6ea9584333149",
   }
 ]

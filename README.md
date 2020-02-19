@@ -1,3 +1,18 @@
+# Deprecation Warning
+This repo is currently unmaintained
+
+We are working on a more user-friendly way to submit token icons, including on token creation at mint.bitcoin.com
+
+Status quo
+- mint.bitcoin.com pulls token icons from this repo: https://github.com/kosinusbch/slp-token-icons
+- Bitcoin.com mobile wallet uses its own whitelist based on https://markets.bitcoin.com/featured-tokens
+- Badger uses its own whitelist viewable here https://github.com/Bitcoin-com/badger-mobile/tree/develop/assets/images/token-icons (not affiliated with https://github.com/Bitcoin-com/bch-token-icons/)
+
+Future
+- Bitcoin.com will have an open-source repo where pretty much anything goes; it will be possible to submit to this repo when creating a token at mint.bitcoin.com
+- We'll have a whitelist repo that's a subset of the pretty-much-anything-goes repo
+- Wallets and apps can choose either/or
+
 # Bitcoin Cash Token Icons
 
 This project contains Bitcon Cash token icons in 4 sizes. Completely free. All we ask is that you don’t claim them as your own, and share this resource with others.

@@ -75,6 +75,11 @@
 		"color": "#00bfec"
 	},
 	{
+		"symbol": "AKRO",
+		"name": "Akropolis",
+		"color": "#a572ea"
+	},
+	{
 		"symbol": "AMB",
 		"name": "Ambrosus",
 		"color": "#3c5be0"
@@ -1058,6 +1063,11 @@
 		"symbol": "LKK",
 		"name": "Lykke",
 		"color": "#9d01eb"
+	},
+	{
+		"symbol": "LND",
+		"name": "Lendingblock",
+		"color": "#000000"
 	},
 	{
 		"symbol": "LOOM",

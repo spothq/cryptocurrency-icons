@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>hbar</title>
+    <desc>Created with Sketch.</desc>
+    <g id="hbar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="100" cy="100" r="100"></circle>
+        <path d="M71.875,53.125 L71.875,83.125 L128.125,83.125 L128.125,53.125 L143.75,53.125 L143.75,146.875 L128.125,146.875 L128.125,117.5 L71.875,117.5 L71.875,146.875 L56.25,146.875 L56.25,53.125 L71.875,53.125 Z M128.125,93.75 L71.875,93.75 L71.875,108.125 L128.125,108.125 L128.125,93.75 Z" id="H" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

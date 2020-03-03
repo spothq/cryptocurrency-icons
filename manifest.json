@@ -900,6 +900,11 @@
 		"color": "#56c9e9"
 	},
 	{
+		"symbol": "HBAR",
+		"name": "HBAR",
+		"color": "#000000"
+	},
+	{
 		"symbol": "HIGHT",
 		"name": "Highcoin",
 		"color": "#117fc0"

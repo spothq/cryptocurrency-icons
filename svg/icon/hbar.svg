@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>color</title>
-    <desc>Created with Sketch.</desc>
-    <g id="color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="16" cy="16" r="16"></circle>
-        <path d="M11.5,8.5 L11.5,13.3 L20.5,13.3 L20.5,8.5 L23,8.5 L23,23.5 L20.5,23.5 L20.5,18.8 L11.5,18.8 L11.5,23.5 L9,23.5 L9,8.5 L11.5,8.5 Z M20.5,15 L11.5,15 L11.5,17.3 L20.5,17.3 L20.5,15 Z" id="H" fill="#FFFFFF"></path>
-    </g>
-</svg>
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><circle fill="#000" fill-rule="nonzero" cx="16" cy="16" r="16"/><path d="M11.5 8.5v4.8h9V8.5H23v15h-2.5v-4.7h-9v4.7H9v-15h2.5zm9 6.5h-9v2.3h9V15z" fill="#FFF"/></g></svg>

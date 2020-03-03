@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>white</title>
-    <desc>Created with Sketch.</desc>
-    <g id="white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 C7.163444,32 0,24.836556 0,16 C0,7.163444 7.163444,0 16,0 Z M11.5,8.5 L9,8.5 L9,23.5 L11.5,23.5 L11.5,18.8 L20.5,18.8 L20.5,23.5 L23,23.5 L23,8.5 L20.5,8.5 L20.5,13.3 L11.5,13.3 L11.5,8.5 Z M20.5,15 L20.5,17.3 L11.5,17.3 L11.5,15 L20.5,15 Z" id="Oval" fill="#FFFFFF" fill-rule="nonzero"></path>
-    </g>
-</svg>
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M16 0c8.837 0 16 7.163 16 16s-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0zm-4.5 8.5H9v15h2.5v-4.7h9v4.7H23v-15h-2.5v4.8h-9V8.5zm9 6.5v2.3h-9V15h9z" fill="#FFF"/></svg>

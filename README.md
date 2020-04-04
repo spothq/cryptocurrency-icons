@@ -30,3 +30,4 @@ Thanks to [Christopher Downer](https://github.com/cjdowner) for starting this pr
 ## Used By
 
 - [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon) - Cryptocurrency icons for Vue apps
+- [svelte-cryptoicon](https://github.com/alepop/svelte-cryptoicon) - Cryptocurrency icons for Svelte apps

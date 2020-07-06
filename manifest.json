@@ -85,6 +85,11 @@
 		"color": "#2daee4"
 	},
 	{
+		"symbol": "AMPL",
+		"name": "Ampleforth",
+		"color": "#000000"
+	},
+	{
 		"symbol": "ANT",
 		"name": "Aragon",
 		"color": "#2cd3e1"
@@ -1050,6 +1055,11 @@
 		"color": "#0fa9c9"
 	},
 	{
+		"symbol": "LEO",
+		"name": "Unus Sed LEO",
+		"color": "#11021e"
+	},
+	{
 		"symbol": "LINK",
 		"name": "ChainLink",
 		"color": "#01a6fb"
@@ -1542,7 +1552,7 @@
 	{
 		"symbol": "REQ",
 		"name": "Request",
-		"color": "#6cfccd"
+		"color": "#00e6a0"
 	},
 	{
 		"symbol": "RHOC",

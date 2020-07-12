@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg/icon/bze</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="16" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M13.9521293,23.4613969 L8.2635054,23.4613969 L9.37950598,17.1464913 L15.2851195,11.8270593 L10.2630538,11.8270593 L14.3241295,9.33843837 L20.9272907,9.33843837 L12.3865601,17.7686782 L11.8130967,20.988356 C11.8130967,20.988356 13.7196134,21.1282594 15.2231405,20.988356 C16.7266676,20.832746 18.4161948,20.2106224 18.4161948,20.2106224 L13.9521293,23.4613969 Z M22.8957865,9.94504526 L20.3537641,12.4336662 C20.3537641,12.4336662 22.4927968,14.8134171 20.5242379,18.0797083 C18.5867317,21.2838695 12.1541073,20.6927792 12.1541073,20.6927792 L12.6500655,17.8775482 L21.7022806,9.04292492 L14.2001084,9.04292492 L14.9596351,4.75 L11.3325385,4.75 L10.0305379,12.0914761 L14.6496139,12.0914761 L9.16251638,17.0376212 L8,23.694717 C8,23.694717 12.3865601,23.8191037 16.1066883,23.694717 C19.8422796,23.570267 24.1977872,20.3661691 24.8333559,16.7421078 C25.7013774,11.842576 22.8957865,9.94504526 22.8957865,9.94504526 Z" id="path-4"></path>
+        <filter x="-10.3%" y="-6.6%" width="120.6%" height="118.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/bze" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Combined-Shape">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use fill="#00AEEF" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+            <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="16" cy="15" r="14.5"></circle>
+        </g>
+        <g id="Shape" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+            <use fill="#FFFFFF" xlink:href="#path-4"></use>
+        </g>
+    </g>
+</svg>

@@ -360,6 +360,11 @@
 		"color": "#2d2d2d"
 	},
 	{
+		"symbol": "BZE",
+		"name": "BZEdge",
+		"color": "#00aeef"
+	},
+	{
 		"symbol": "CALL",
 		"name": "Capital",
 		"color": "#fbb413"
@@ -1030,6 +1035,11 @@
 		"color": "#005fff"
 	},
 	{
+		"symbol": "KLOWN",
+		"name": "Ether Clown",
+		"color": "#ea0017"
+	},
+	{
 		"symbol": "KMD",
 		"name": "Komodo",
 		"color": "#2b6680"
@@ -1633,6 +1643,11 @@
 		"symbol": "SIB",
 		"name": "SIBCoin",
 		"color": "#057bc1"
+	},
+	{
+		"symbol": "SIN",
+		"name": "SINOVATE",
+		"color": "#f5342e"
 	},
 	{
 		"symbol": "SKY",

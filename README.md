@@ -32,3 +32,4 @@ Thanks to [Christopher Downer](https://github.com/cjdowner) for starting this pr
 - [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon) - Cryptocurrency icons for Vue apps
 - [svelte-cryptoicon](https://github.com/alepop/svelte-cryptoicon) - Cryptocurrency icons for Svelte apps
 - [Crypto Tools](http://bunchoftext.com/apps/crypto-calculator) - Cryptocurrency icons for Crypto Tools macOS app
+- [Cryptocurrency Ticker](http://cryptocurrencyticker.info) - Cryptocurrency ticker for Windows and Linux Mint - Cinnamon

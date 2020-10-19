@@ -495,11 +495,6 @@
 		"color": "#b8b8b8"
 	},
 	{
-		"symbol": "DAI",
-		"name": "Dai",
-		"color": "#b68900"
-	},
-	{
 		"symbol": "DASH",
 		"name": "Dash",
 		"color": "#008ce7"
@@ -1613,6 +1608,11 @@
 		"symbol": "SAFE",
 		"name": "Safe",
 		"color": "#00688c"
+	},
+	{
+		"symbol": "SAI",
+		"name": "Single Collateral DAI",
+		"color": "#b68900"
 	},
 	{
 		"symbol": "SALT",

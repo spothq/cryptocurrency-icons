@@ -580,6 +580,11 @@
 		"color": "#c3a634"
 	},
 	{
+		"symbol": "DOT",
+		"name": "Polkadot",
+		"color": "#e6007a"
+	},
+	{
 		"symbol": "DRGN",
 		"name": "Dragonchain",
 		"color": "#c91111"
@@ -2120,6 +2125,11 @@
 		"color": "#23b852"
 	},
 	{
+		"symbol": "YFI",
+		"name": "yearn.finance",
+		"color": "#006ae3"
+	},
+	{
 		"symbol": "YOYOW",
 		"name": "YOYOW",
 		"color": "#21a5de"
@@ -2142,12 +2152,7 @@
 	{
 		"symbol": "ZEN",
 		"name": "Horizen",
-		"color": "#16203a"
-	},
-	{
-		"symbol": "ZEN",
-		"name": "Horizen",
-		"color": "#16203a"
+		"color": "#00eaab"
 	},
 	{
 		"symbol": "ZEST",

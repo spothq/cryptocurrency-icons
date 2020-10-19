@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg/icon/dot</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="16" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/dot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Combined-Shape">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use fill="#E6007A" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+            <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="16" cy="15" r="14.5"></circle>
+        </g>
+        <g id="Polkadot_symbol_black" transform="translate(9.500000, 5.500000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M6.77227723,0.124752475 C3.06534653,0.124752475 0.0356435644,3.13663366 0.0356435644,6.86138614 C0.0356435644,7.60990099 0.16039604,8.34059406 0.392079208,9.05346535 C0.552475248,9.53465347 1.08712871,9.8019802 1.58613861,9.64158416 C2.06732673,9.48118812 2.33465347,8.94653465 2.17425743,8.44752475 C1.97821782,7.8950495 1.88910891,7.30693069 1.90693069,6.71881188 C1.97821782,4.20594059 4.00990099,2.13861386 6.52277228,2.01386139 C9.32079208,1.87128713 11.6376238,4.0990099 11.6376238,6.86138614 C11.6376238,9.44554455 9.60594059,11.5663366 7.05742574,11.7089109 C7.05742574,11.7089109 6.11287129,11.7623762 5.64950495,11.8336634 C5.41782178,11.8693069 5.23960396,11.9049505 5.11485149,11.9227723 C5.06138614,11.9405941 5.00792079,11.8871287 5.02574257,11.8336634 L5.18613861,11.049505 L6.05940594,7.02178218 C6.16633663,6.52277228 5.84554455,6.02376238 5.34653465,5.91683168 C4.84752475,5.80990099 4.34851485,6.13069307 4.24158416,6.62970297 C4.24158416,6.62970297 2.13861386,16.4316832 2.12079208,16.5386139 C2.01386139,17.0376238 2.33465347,17.5366337 2.83366337,17.6435644 C3.33267327,17.750495 3.83168317,17.429703 3.93861386,16.9306931 C3.95643564,16.8237624 4.24158416,15.5227723 4.24158416,15.5227723 C4.45544554,14.5247525 5.27524752,13.7940594 6.23762376,13.6693069 C6.45148515,13.6336634 7.28910891,13.580198 7.28910891,13.580198 C10.7643564,13.3128713 13.5089109,10.4079208 13.5089109,6.86138614 C13.5089109,3.13663366 10.4792079,0.124752475 6.77227723,0.124752475 Z M7.25346535,15.629703 C6.64752475,15.5049505 6.04158416,15.8792079 5.91683168,16.5029703 C5.79207921,17.1089109 6.16633663,17.7148515 6.79009901,17.839604 C7.3960396,17.9643564 8.0019802,17.590099 8.12673267,16.9663366 C8.25148515,16.3425743 7.87722772,15.7544554 7.25346535,15.629703 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -76,7 +76,7 @@
 	},
 	{
 		"symbol": "ALGO",
-		"name": "ALGO",
+		"name": "Algorand",
 		"color": "#000000"
 	},
 	{
@@ -126,7 +126,7 @@
 	},
 	{
 		"symbol": "ARNX",
-		"name": "ARNX",
+		"name": "Aeron",
 		"color": "#436697"
 	},
 	{
@@ -171,12 +171,12 @@
 	},
 	{
 		"symbol": "BAL",
-		"name": "BAL",
+		"name": "Balancer",
 		"color": "#1e1e1e"
 	},
 	{
 		"symbol": "BAND",
-		"name": "BAND",
+		"name": "Band Protocol",
 		"color": "#516aff"
 	},
 	{
@@ -471,7 +471,7 @@
 	},
 	{
 		"symbol": "COMP",
-		"name": "Compound Coin",
+		"name": "Compound",
 		"color": "#00d395"
 	},
 	{
@@ -1371,7 +1371,7 @@
 	},
 	{
 		"symbol": "OMG",
-		"name": "OmiseGO",
+		"name": "OMG Network",
 		"color": "#101010"
 	},
 	{
@@ -1411,7 +1411,7 @@
 	},
 	{
 		"symbol": "OXT",
-		"name": "OXT",
+		"name": "Orchid",
 		"color": "#5f45ba"
 	},
 	{
@@ -1601,7 +1601,7 @@
 	},
 	{
 		"symbol": "REPV2",
-		"name": "REPV2",
+		"name": "Augur",
 		"color": "#0e0e21"
 	},
 	{
@@ -1931,7 +1931,7 @@
 	},
 	{
 		"symbol": "UNI",
-		"name": "Universe",
+		"name": "Uniswap",
 		"color": "#ff007a"
 	},
 	{

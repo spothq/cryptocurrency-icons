@@ -61,7 +61,17 @@ const overrides = new Map([
 	['LEO', 'Unus Sed LEO'],
 	['SAI', 'Single Collateral DAI'],
 	['SIN', 'SINOVATE'],
-	['YFI', 'yearn.finance']
+	['YFI', 'yearn.finance'],
+	['DAI', 'Dai'],
+	['BAND', 'Band Protocol'],
+	['BAL', 'Balancer'],
+	['OMG', 'OMG Network'],
+	['ARNX', 'Aeron'],
+	['ALGO', 'Algorand'],
+	['OXT', 'Orchid'],
+	['REPV2', 'Augur'],
+	['UNI', 'Uniswap'],
+	['COMP', 'Compound']
 ]);
 
 const icons = manifest.map(icon => {

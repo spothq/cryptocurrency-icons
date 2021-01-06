@@ -75,6 +75,11 @@
 		"color": "#00bfec"
 	},
 	{
+		"symbol": "ALGO",
+		"name": "ALGO",
+		"color": "#000000"
+	},
+	{
 		"symbol": "AMB",
 		"name": "Ambrosus",
 		"color": "#3c5be0"
@@ -120,6 +125,11 @@
 		"color": "#0092b5"
 	},
 	{
+		"symbol": "ARNX",
+		"name": "ARNX",
+		"color": "#436697"
+	},
+	{
 		"symbol": "ARY",
 		"name": "Block Array",
 		"color": "#343434"
@@ -158,6 +168,16 @@
 		"symbol": "BAB",
 		"name": "Bitcoin Cash ABC",
 		"color": "#f19f13"
+	},
+	{
+		"symbol": "BAL",
+		"name": "BAL",
+		"color": "#1e1e1e"
+	},
+	{
+		"symbol": "BAND",
+		"name": "BAND",
+		"color": "#516aff"
 	},
 	{
 		"symbol": "BAT",
@@ -450,6 +470,11 @@
 		"color": "#77c3b0"
 	},
 	{
+		"symbol": "COMP",
+		"name": "Compound Coin",
+		"color": "#00d395"
+	},
+	{
 		"symbol": "COQUI",
 		"name": "COQUI Cash",
 		"color": "#71c800"
@@ -493,6 +518,11 @@
 		"symbol": "D",
 		"name": "Denarius",
 		"color": "#b8b8b8"
+	},
+	{
+		"symbol": "DAI",
+		"name": "Dai",
+		"color": "#f4b731"
 	},
 	{
 		"symbol": "DASH",
@@ -1072,7 +1102,7 @@
 	{
 		"symbol": "LINK",
 		"name": "ChainLink",
-		"color": "#01a6fb"
+		"color": "#2a5ada"
 	},
 	{
 		"symbol": "LKK",
@@ -1117,7 +1147,7 @@
 	{
 		"symbol": "MANA",
 		"name": "Decentraland",
-		"color": "#bfb5af"
+		"color": "#ff2d55"
 	},
 	{
 		"symbol": "MATIC",
@@ -1172,7 +1202,7 @@
 	{
 		"symbol": "MKR",
 		"name": "Maker",
-		"color": "#1abc9c"
+		"color": "#1aab9b"
 	},
 	{
 		"symbol": "MLN",
@@ -1305,6 +1335,11 @@
 		"color": "#186c9d"
 	},
 	{
+		"symbol": "NMR",
+		"name": "Numeraire",
+		"color": "#050708"
+	},
+	{
 		"symbol": "NPXS",
 		"name": "Pundi X",
 		"color": "#f5d100"
@@ -1337,7 +1372,7 @@
 	{
 		"symbol": "OMG",
 		"name": "OmiseGO",
-		"color": "#1a53f0"
+		"color": "#101010"
 	},
 	{
 		"symbol": "OMNI",
@@ -1373,6 +1408,11 @@
 		"symbol": "OX",
 		"name": "OX Fina",
 		"color": "#4392cd"
+	},
+	{
+		"symbol": "OXT",
+		"name": "OXT",
+		"color": "#5f45ba"
 	},
 	{
 		"symbol": "PART",
@@ -1552,12 +1592,17 @@
 	{
 		"symbol": "REN",
 		"name": "Ren",
-		"color": "#001b3a"
+		"color": "#080817"
 	},
 	{
 		"symbol": "REP",
 		"name": "Augur",
 		"color": "#602a52"
+	},
+	{
+		"symbol": "REPV2",
+		"name": "REPV2",
+		"color": "#0e0e21"
 	},
 	{
 		"symbol": "REQ",
@@ -1750,6 +1795,11 @@
 		"color": "#1387c9"
 	},
 	{
+		"symbol": "STX",
+		"name": "Stox",
+		"color": "#7324f0"
+	},
+	{
 		"symbol": "SUB",
 		"name": "Substratum",
 		"color": "#e53431"
@@ -1857,7 +1907,7 @@
 	{
 		"symbol": "TRX",
 		"name": "TRON",
-		"color": "#000000"
+		"color": "#ef0027"
 	},
 	{
 		"symbol": "TUSD",
@@ -1873,6 +1923,16 @@
 		"symbol": "UBQ",
 		"name": "Ubiq",
 		"color": "#00ea90"
+	},
+	{
+		"symbol": "UMA",
+		"name": "UMA",
+		"color": "#ff4a4a"
+	},
+	{
+		"symbol": "UNI",
+		"name": "Universe",
+		"color": "#ff007a"
 	},
 	{
 		"symbol": "UNITY",
@@ -1968,6 +2028,11 @@
 		"symbol": "WAX",
 		"name": "WAX",
 		"color": "#f89022"
+	},
+	{
+		"symbol": "WBTC",
+		"name": "Wrapped Bitcoin",
+		"color": "#201a2d"
 	},
 	{
 		"symbol": "WGR",

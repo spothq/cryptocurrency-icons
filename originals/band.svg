@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="141px" height="173px" viewBox="0 0 141 173" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>band</title>
+    <g id="band" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="band-protocol-band-logo" transform="translate(14.000000, 18.000000)" fill-rule="nonzero">
+            <circle id="Oval" fill="#516AFF" cx="16" cy="16" r="16"></circle>
+            <g id="Group" transform="translate(7.300000, 2.400000)" fill="#FFFFFF">
+                <path d="M11.5,9.2 L14.3,10.8 L14.3,2.8 L8.7,9.05941988e-14 L-2.30926389e-14,4.9 L-2.30926389e-14,22.3 L8.7,27.3 L17.3,22.2 L17.3,13.6 L9,8.6 L6.2,10 L14.5,14.9 L14.6,20.8 L8.7,24.1 L2.7,20.7 L2.7,6.3 L8.7,3 L11.5,4.5 C11.5,4.5 11.5,9.2 11.5,9.2 Z" id="Path"></path>
+                <polyline id="Path" points="8.4 14 10.3 13 12.4 14.3 6.2 17.8 6.2 10.6 8.4 11.9"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

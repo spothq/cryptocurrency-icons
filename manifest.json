@@ -1320,6 +1320,11 @@
 		"color": "#70c9c9"
 	},
 	{
+		"symbol": "NKN",
+		"name": "NKN",
+		"color": "#0d1e67"
+	},
+	{
 		"symbol": "NLC2",
 		"name": "NoLimitCoin",
 		"color": "#f28f01"

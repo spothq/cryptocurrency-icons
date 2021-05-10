@@ -15,6 +15,11 @@
 		"color": "#f1cb60"
 	},
 	{
+		"symbol": "AAVE",
+		"name": "AAVE",
+		"color": "#2ebac6"
+	},
+	{
 		"symbol": "ABT",
 		"name": "Arcblock",
 		"color": "#3effff"
@@ -93,6 +98,11 @@
 		"symbol": "AMPL",
 		"name": "Ampleforth",
 		"color": "#000000"
+	},
+	{
+		"symbol": "ANKR",
+		"name": "Ankr Network",
+		"color": "#2e6bf6"
 	},
 	{
 		"symbol": "ANT",
@@ -488,6 +498,11 @@
 		"symbol": "CRPT",
 		"name": "Crypterium",
 		"color": "#00bdcd"
+	},
+	{
+		"symbol": "CRV",
+		"name": "Curve DAO Token",
+		"color": "#40649f"
 	},
 	{
 		"symbol": "CRW",
@@ -905,6 +920,11 @@
 		"color": "#377e96"
 	},
 	{
+		"symbol": "GRT",
+		"name": "The Graph",
+		"color": "#5942cc"
+	},
+	{
 		"symbol": "GSC",
 		"name": "Global Social Chain",
 		"color": "#ff0060"
@@ -1077,12 +1097,17 @@
 	{
 		"symbol": "KNC",
 		"name": "Kyber Network",
-		"color": "#188c92"
+		"color": "#31cb9e"
 	},
 	{
 		"symbol": "KRB",
 		"name": "Karbo",
 		"color": "#00aeef"
+	},
+	{
+		"symbol": "KSM",
+		"name": "Kusama",
+		"color": "#000000"
 	},
 	{
 		"symbol": "LBC",
@@ -1318,6 +1343,11 @@
 		"symbol": "NIO",
 		"name": "Autonio",
 		"color": "#70c9c9"
+	},
+	{
+		"symbol": "NKN",
+		"name": "NKN",
+		"color": "#23336f"
 	},
 	{
 		"symbol": "NLC2",
@@ -1740,9 +1770,19 @@
 		"color": "#5b6dee"
 	},
 	{
+		"symbol": "SNX",
+		"name": "Synthetix",
+		"color": "#5fcdf9"
+	},
+	{
 		"symbol": "SOC",
 		"name": "All Sports",
 		"color": "#199248"
+	},
+	{
+		"symbol": "SOL",
+		"name": "Solana",
+		"color": "#66f9a1"
 	},
 	{
 		"symbol": "SPANK",
@@ -1800,6 +1840,11 @@
 		"color": "#1387c9"
 	},
 	{
+		"symbol": "STX",
+		"name": "Stacks",
+		"color": "#5546ff"
+	},
+	{
 		"symbol": "SUB",
 		"name": "Substratum",
 		"color": "#e53431"
@@ -1808,6 +1853,11 @@
 		"symbol": "SUMO",
 		"name": "Sumokoin",
 		"color": "#2d9cdb"
+	},
+	{
+		"symbol": "SUSHI",
+		"name": "SushiSwap",
+		"color": "#d65892"
 	},
 	{
 		"symbol": "SYS",
@@ -1947,7 +1997,7 @@
 	{
 		"symbol": "USDC",
 		"name": "USD Coin",
-		"color": "#2775c9"
+		"color": "#3e73c4"
 	},
 	{
 		"symbol": "USDT",

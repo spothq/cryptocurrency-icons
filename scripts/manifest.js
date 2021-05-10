@@ -72,7 +72,13 @@ const overrides = new Map([
 	['REPV2', 'Augur'],
 	['UNI', 'Uniswap'],
 	['COMP', 'Compound'],
-	['STOX', 'Stox']
+	['STOX', 'Stox'],
+	['CRV', 'Curve DAO Token'],
+	['SOL', 'Solana'],
+	['GRT', 'The Graph'],
+	['KSM', 'Kusama'],
+	['STX', 'Stacks'],
+	['SUSHI', 'SushiSwap'],
 ]);
 
 const icons = manifest.map(icon => {

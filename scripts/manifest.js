@@ -71,7 +71,8 @@ const overrides = new Map([
 	['OXT', 'Orchid'],
 	['REPV2', 'Augur'],
 	['UNI', 'Uniswap'],
-	['COMP', 'Compound']
+	['COMP', 'Compound'],
+	['STOX', 'Stox']
 ]);
 
 const icons = manifest.map(icon => {

@@ -1785,6 +1785,11 @@
 		"color": "#080d98"
 	},
 	{
+		"symbol": "STOX",
+		"name": "Stox",
+		"color": "#7324f0"
+	},
+	{
 		"symbol": "STQ",
 		"name": "Storiqa",
 		"color": "#2dc4e7"
@@ -1793,11 +1798,6 @@
 		"symbol": "STRAT",
 		"name": "Stratis",
 		"color": "#1387c9"
-	},
-	{
-		"symbol": "STX",
-		"name": "Stox",
-		"color": "#7324f0"
 	},
 	{
 		"symbol": "SUB",

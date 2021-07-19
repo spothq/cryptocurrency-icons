@@ -430,6 +430,11 @@
 		"color": "#598182"
 	},
 	{
+		"symbol": "CHSB",
+		"name": "SwissBorg",
+		"color": "#01c38d"
+	},
+	{
 		"symbol": "CIX",
 		"name": "Cryptonetix",
 		"color": "#0576b4"
@@ -700,6 +705,11 @@
 		"color": "#396a28"
 	},
 	{
+		"symbol": "EMB",
+		"name": "Emblem",
+		"color": "#f6c054"
+	},
+	{
 		"symbol": "EMC",
 		"name": "EmerCoin",
 		"color": "#b49ffc"
@@ -823,6 +833,11 @@
 		"symbol": "FLO",
 		"name": "FLO",
 		"color": "#2080a2"
+	},
+	{
+		"symbol": "FLUX",
+		"name": "Flux",
+		"color": "#2b61d1"
 	},
 	{
 		"symbol": "FSN",
@@ -965,6 +980,11 @@
 		"color": "#117fc0"
 	},
 	{
+		"symbol": "HNS",
+		"name": "Handshake",
+		"color": "#000000"
+	},
+	{
 		"symbol": "HODL",
 		"name": "HOdlcoin",
 		"color": "#d59143"
@@ -1000,6 +1020,11 @@
 		"color": "#ffc018"
 	},
 	{
+		"symbol": "HUSD",
+		"name": "HUSD",
+		"color": "#005ffa"
+	},
+	{
 		"symbol": "HUSH",
 		"name": "Hush",
 		"color": "#292929"
@@ -1008,6 +1033,11 @@
 		"symbol": "ICN",
 		"name": "Iconomi",
 		"color": "#4c6f8c"
+	},
+	{
+		"symbol": "ICP",
+		"name": "Internet Computer",
+		"color": "#292a2e"
 	},
 	{
 		"symbol": "ICX",
@@ -1176,8 +1206,18 @@
 	},
 	{
 		"symbol": "MATIC",
-		"name": "Matic Network",
-		"color": "#2b6def"
+		"name": "Polygon",
+		"color": "#6f41d8"
+	},
+	{
+		"symbol": "MATIC",
+		"name": "Polygon",
+		"color": "#6f41d8"
+	},
+	{
+		"symbol": "MAX",
+		"name": "MAX Token",
+		"color": "#2d4692"
 	},
 	{
 		"symbol": "MCAP",
@@ -1375,6 +1415,11 @@
 		"color": "#f5d100"
 	},
 	{
+		"symbol": "NTBC",
+		"name": "Note Blockchain",
+		"color": "#eec315"
+	},
+	{
 		"symbol": "NULS",
 		"name": "Nuls",
 		"color": "#82bd39"
@@ -1408,6 +1453,11 @@
 		"symbol": "OMNI",
 		"name": "Omni",
 		"color": "#1c347a"
+	},
+	{
+		"symbol": "ONE",
+		"name": "Harmony",
+		"color": "#00aee9"
 	},
 	{
 		"symbol": "ONG",
@@ -1447,7 +1497,7 @@
 	{
 		"symbol": "PART",
 		"name": "Particl",
-		"color": "#03e8b0"
+		"color": "#65cb8d"
 	},
 	{
 		"symbol": "PASC",
@@ -1462,7 +1512,12 @@
 	{
 		"symbol": "PAX",
 		"name": "PAX Token",
-		"color": "#ede708"
+		"color": "#398260"
+	},
+	{
+		"symbol": "PAXG",
+		"name": "PAX Gold",
+		"color": "#e4ce4d"
 	},
 	{
 		"symbol": "PAY",
@@ -1685,6 +1740,11 @@
 		"color": "#00688c"
 	},
 	{
+		"symbol": "SAFEMOON",
+		"name": "SafeMoon",
+		"color": "#00a79d"
+	},
+	{
 		"symbol": "SAI",
 		"name": "Single Collateral DAI",
 		"color": "#b68900"
@@ -1698,6 +1758,11 @@
 		"symbol": "SAN",
 		"name": "Santiment Network Token",
 		"color": "#2b77b3"
+	},
+	{
+		"symbol": "SAND",
+		"name": "The Sandbox",
+		"color": "#04adef"
 	},
 	{
 		"symbol": "SBD",
@@ -1728,6 +1793,11 @@
 		"symbol": "SIN",
 		"name": "SINOVATE",
 		"color": "#f5342e"
+	},
+	{
+		"symbol": "SKL",
+		"name": "SKALE Network",
+		"color": "#000000"
 	},
 	{
 		"symbol": "SKY",
@@ -1783,6 +1853,11 @@
 		"symbol": "SOL",
 		"name": "Solana",
 		"color": "#66f9a1"
+	},
+	{
+		"symbol": "SPACEHBIT",
+		"name": "HashBit Blockchain",
+		"color": "#0971fe"
 	},
 	{
 		"symbol": "SPANK",
@@ -2047,7 +2122,12 @@
 	{
 		"symbol": "VRSC",
 		"name": "VerusCoin",
-		"color": "#ffb500"
+		"color": "#3165d4"
+	},
+	{
+		"symbol": "VRSC",
+		"name": "VerusCoin",
+		"color": "#3165d4"
 	},
 	{
 		"symbol": "VTC",
@@ -2200,9 +2280,9 @@
 		"color": "#ffd81b"
 	},
 	{
-		"symbol": "XRP",
-		"name": "XRP",
-		"color": "#23292f"
+		"symbol": "XPR",
+		"name": "Proton",
+		"color": "#7543e3"
 	},
 	{
 		"symbol": "XRP",

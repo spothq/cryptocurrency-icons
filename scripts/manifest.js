@@ -79,6 +79,20 @@ const overrides = new Map([
 	['KSM', 'Kusama'],
 	['STX', 'Stacks'],
 	['SUSHI', 'SushiSwap'],
+	['PAXG', 'PAX Gold'],
+	['SAFEMOON', 'SafeMoon'],
+	['SAND', 'The Sandbox'],
+	['MAX', 'MAX Token'],
+	['NTBC', 'Note Blockchain'],
+	['FLUX', 'Flux'],
+	['MATIC', 'Polygon'],
+	['ONE', 'Harmony'],
+	['ICP', 'Internet Computer'],
+	['EMB', 'Emblem'],
+	['HNS', 'Handshake'],
+	['XPR', 'Proton'],
+	['SKL', 'SKALE Network'],
+	['SPACEHBIT', 'HashBit Blockchain'],
 ]);
 
 const icons = manifest.map(icon => {

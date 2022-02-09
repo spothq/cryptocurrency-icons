@@ -305,6 +305,11 @@
 		"color": "#00a8d6"
 	},
 	{
+		"symbol": "BOX",
+		"name": "BOX Token",
+		"color": "#efcaa8"
+	},
+	{
 		"symbol": "BPT",
 		"name": "Blockport",
 		"color": "#0f63d8"
@@ -423,6 +428,11 @@
 		"symbol": "CHAT",
 		"name": "ChatCoin",
 		"color": "#1c98f7"
+	},
+	{
+		"symbol": "CHEX",
+		"name": "CHEX",
+		"color": "#0e79cb"
 	},
 	{
 		"symbol": "CHIPS",
@@ -1087,7 +1097,7 @@
 	{
 		"symbol": "IQ",
 		"name": "Everipedia",
-		"color": "#55ddff"
+		"color": "#ee5ca1"
 	},
 	{
 		"symbol": "ITC",

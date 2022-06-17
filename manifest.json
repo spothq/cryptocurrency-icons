@@ -390,6 +390,11 @@
 		"color": "#2d2d2d"
 	},
 	{
+		"symbol": "BUSD",
+		"name": "BUSD",
+		"color": "#f0b90b"
+	},
+	{
 		"symbol": "BZE",
 		"name": "BZEdge",
 		"color": "#00aeef"

@@ -2225,6 +2225,11 @@
 		"color": "#4f7aa2"
 	},
 	{
+		"symbol": "XEC",
+		"name": "XEC",
+		"color": "#0074c2"
+	},
+	{
 		"symbol": "XEM",
 		"name": "NEM",
 		"color": "#67b2e8"

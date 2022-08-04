@@ -1360,6 +1360,11 @@
 		"color": "#622fba"
 	},
 	{
+		"symbol": "NEAR",
+		"name": "NEAR",
+		"color": "#ffffff"
+	},
+	{
 		"symbol": "NEBL",
 		"name": "Neblio",
 		"color": "#50479e"

@@ -10,6 +10,11 @@
 		"color": "#ff914d"
 	},
 	{
+		"symbol": "1INCH",
+		"name": "1inch Network",
+		"color": "#d82122"
+	},
+	{
 		"symbol": "2GIVE",
 		"name": "2Give",
 		"color": "#f1cb60"
@@ -110,6 +115,11 @@
 		"color": "#2cd3e1"
 	},
 	{
+		"symbol": "APE",
+		"name": "ApeCoin",
+		"color": "#0054f9"
+	},
+	{
 		"symbol": "APPC",
 		"name": "AppCoins",
 		"color": "#fd875e"
@@ -150,6 +160,11 @@
 		"color": "#0061ff"
 	},
 	{
+		"symbol": "ATLAS",
+		"name": "Star Atlas",
+		"color": "#31fafb"
+	},
+	{
 		"symbol": "ATM",
 		"name": "ATMChain",
 		"color": "#346fce"
@@ -165,9 +180,19 @@
 		"color": "#34318a"
 	},
 	{
+		"symbol": "AURY",
+		"name": "Aurory",
+		"color": "#e756cc"
+	},
+	{
 		"symbol": "AUTO",
 		"name": "Cube",
 		"color": "#fab431"
+	},
+	{
+		"symbol": "AVAX",
+		"name": "Avalanche",
+		"color": "#e84142"
 	},
 	{
 		"symbol": "AYWA",
@@ -433,6 +458,11 @@
 		"symbol": "CHSB",
 		"name": "SwissBorg",
 		"color": "#01c38d"
+	},
+	{
+		"symbol": "CHZ",
+		"name": "Chiliz",
+		"color": "#cd0124"
 	},
 	{
 		"symbol": "CIX",
@@ -815,6 +845,11 @@
 		"color": "#417ba4"
 	},
 	{
+		"symbol": "FIDA",
+		"name": "Bonfida",
+		"color": "#7c7cff"
+	},
+	{
 		"symbol": "FIL",
 		"name": "Filecoin [IOU]",
 		"color": "#42c1ca"
@@ -903,6 +938,11 @@
 		"symbol": "GMR",
 		"name": "Gimmer",
 		"color": "#372d2c"
+	},
+	{
+		"symbol": "GMT",
+		"name": "STEPN",
+		"color": "#dbb358"
 	},
 	{
 		"symbol": "GNO",
@@ -1495,6 +1535,11 @@
 		"color": "#5f45ba"
 	},
 	{
+		"symbol": "OXY",
+		"name": "Oxygen",
+		"color": "#2261f6"
+	},
+	{
 		"symbol": "PART",
 		"name": "Particl",
 		"color": "#65cb8d"
@@ -1630,6 +1675,11 @@
 		"color": "#610089"
 	},
 	{
+		"symbol": "QNT",
+		"name": "Quant",
+		"color": "#000000"
+	},
+	{
 		"symbol": "QRL",
 		"name": "Quantum Resistant Ledger",
 		"color": "#252525"
@@ -1658,6 +1708,11 @@
 		"symbol": "RAP",
 		"name": "Rapture",
 		"color": "#000000"
+	},
+	{
+		"symbol": "RAY",
+		"name": "Raydium",
+		"color": "#6c45dc"
 	},
 	{
 		"symbol": "RCN",
@@ -1778,6 +1833,11 @@
 		"symbol": "SC",
 		"name": "Siacoin",
 		"color": "#20ee82"
+	},
+	{
+		"symbol": "SER",
+		"name": "Serum",
+		"color": "#6dc6c1"
 	},
 	{
 		"symbol": "SHIFT",

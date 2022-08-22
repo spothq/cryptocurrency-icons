@@ -93,6 +93,17 @@ const overrides = new Map([
 	['XPR', 'Proton'],
 	['SKL', 'SKALE Network'],
 	['SPACEHBIT', 'HashBit Blockchain'],
+	['AVAX', 'Avalanche'],
+	['1INCH', '1inch Network'],
+	['RAY', 'Raydium'],
+	['SER', 'Serum'],
+	['OXY', 'Oxygen'],
+	['FIDA', 'Bonfida'],
+	['APE', 'ApeCoin'],
+	['CHZ', 'Chiliz'],
+	['GMT', 'STEPN'],
+	['ATLAS', 'Star Atlas'],
+	['AURY', 'Aurory']
 ]);
 
 const icons = manifest.map(icon => {

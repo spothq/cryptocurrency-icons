@@ -1,0 +1,3 @@
+import * as React from "react";
+const SvgDock = (props) => /* @__PURE__ */ React.createElement("svg", { width: 32, height: 32, viewBox: "0 0 32 32", xmlns: "http://www.w3.org/2000/svg", ...props }, /* @__PURE__ */ React.createElement("g", { fill: "none" }, /* @__PURE__ */ React.createElement("circle", { cx: 16, cy: 16, r: 16, fill: "#786DBC" }), /* @__PURE__ */ React.createElement("path", { d: "M15.931 10.771l-1.629-1.633a1.144 1.144 0 011.582-1.654l.038.038 3.636 3.636c.447.447.447 1.17 0 1.617l-3.64 3.636a1.143 1.143 0 01-1.616-1.616l1.707-1.707a5.695 5.695 0 104.705 5.63V6.142a1.143 1.143 0 012.286 0v12.729a8 8 0 11-7.07-8.104l.001.004z", fill: "#FFF" })));
+export default SvgDock;

@@ -1,0 +1,3 @@
+import * as React from "react";
+const SvgElec = (props) => /* @__PURE__ */ React.createElement("svg", { width: 32, height: 32, viewBox: "0 0 32 32", xmlns: "http://www.w3.org/2000/svg", ...props }, /* @__PURE__ */ React.createElement("g", { fill: "none" }, /* @__PURE__ */ React.createElement("circle", { cx: 16, cy: 16, r: 16, fill: "#F90" }), /* @__PURE__ */ React.createElement("g", { fill: "#FFF" }, /* @__PURE__ */ React.createElement("path", { d: "M10.76 27.587l12.666-13.303H15.76z" }), /* @__PURE__ */ React.createElement("path", { d: "M8 18.27h7.666l7.76-3.986H15.76z" }), /* @__PURE__ */ React.createElement("path", { d: "M19.51 4L8 18.27h7.666z" }))));
+export default SvgElec;

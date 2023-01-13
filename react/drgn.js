@@ -1,0 +1,3 @@
+import * as React from "react";
+const SvgDrgn = (props) => /* @__PURE__ */ React.createElement("svg", { xmlns: "http://www.w3.org/2000/svg", viewBox: "0 0 32 32", ...props }, /* @__PURE__ */ React.createElement("g", { fill: "none" }, /* @__PURE__ */ React.createElement("circle", { cx: 16, cy: 16, r: 16, fill: "#C91111" }), /* @__PURE__ */ React.createElement("g", { fill: "#FFF" }, /* @__PURE__ */ React.createElement("path", { opacity: 0.6, d: "M9.4 20.78h2.818l-.072-7.327L22.64 26.776l-.033-15.732h-2.774l.072 7.401L9.404 5.087z" }), /* @__PURE__ */ React.createElement("path", { d: "M9.4 9.953l.016-4.851 13.183 16.752.055 4.942z" }))));
+export default SvgDrgn;

@@ -1,0 +1,3 @@
+import * as React from "react";
+const SvgMod = (props) => /* @__PURE__ */ React.createElement("svg", { height: 32, viewBox: "0 0 32 32", width: 32, xmlns: "http://www.w3.org/2000/svg", ...props }, /* @__PURE__ */ React.createElement("g", { fill: "none" }, /* @__PURE__ */ React.createElement("circle", { cx: 16, cy: 16, fill: "#09547d", r: 16 }), /* @__PURE__ */ React.createElement("g", { fill: "#fff" }, /* @__PURE__ */ React.createElement("path", { d: "M22.985 21.007V8.08l-6.312 6.449z", opacity: 0.5 }), /* @__PURE__ */ React.createElement("path", { d: "M9 7l.304.312 8.467 8.675L9 24.985z" }))));
+export default SvgMod;

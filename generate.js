@@ -3,17 +3,18 @@ const { transform } = require("@svgr/core");
 const { join } = require("path");
 const esbuild = require("esbuild");
 
-const ICON_SOURCE_DIR = "./svg/color";
+const ICON_DIR = "./svg/icon";
+const ICON_COLOR_DIR = "./svg/color";
 
-const generateComponents = () => {
-	const icons = readdirSync(ICON_SOURCE_DIR);
+const generateComponents = (iconDir) => {
+	const icons = readdirSync(iconDir);
 	icons.forEach((file) => {
 		const [fileName] = file.split(".");
 		let iconName = fileName;
 		if (iconName === "index") {
 			iconName = "indexIcon";
 		}
-		const svgPath = join(ICON_SOURCE_DIR, file);
+		const svgPath = join(iconDir, file);
 		const svgCode = readFileSync(svgPath);
 
 		const jsCode = transform.sync(
@@ -28,6 +29,7 @@ const generateComponents = () => {
 
 		esbuild.buildSync({
 			outfile: `react/${iconName}.js`,
+			allowOverwrite: true,
 			loader: {
 				".js": "jsx",
 			},
@@ -39,4 +41,5 @@ const generateComponents = () => {
 	});
 };
 
-generateComponents();
+generateComponents(ICON_DIR);
+generateComponents(ICON_COLOR_DIR);

@@ -1,0 +1,5 @@
+import * as React from "react";
+const SvgGamma = (props) => /* @__PURE__ */ React.createElement("svg", { id: "Layer_1", xmlns: "http://www.w3.org/2000/svg", xmlnsXlink: "http://www.w3.org/1999/xlink", x: "0px", y: "0px", viewBox: "0 0 328 328", style: {
+  enableBackground: "new 0 0 328 328"
+}, xmlSpace: "preserve", ...props }, /* @__PURE__ */ React.createElement("style", { type: "text/css" }, "\n	.st0{fill:#FF0000;}\n	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}\n"), /* @__PURE__ */ React.createElement("circle", { className: "st0", cx: 164, cy: 164, r: 164 }), /* @__PURE__ */ React.createElement("path", { className: "st1", d: "M246.5,85.4c1.6-1.6,1.6-4.1,0-5.7c-1.6-1.6-4.1-1.6-5.7,0l-71.7,71.7V83.2c0-2.2-1.8-4-4-4s-4,1.8-4,4V152 l-47.1-47.1c-1.6-1.6-4.1-1.6-5.7,0c-1.6,1.6-1.6,4.1,0,5.7l47.1,47.1H86.7c-2.2,0-4,1.8-4,4s1.8,4,4,4h68.2l-71.1,71.1 c-1.6,1.6-1.6,4.1,0,5.7c1.6,1.6,4.1,1.6,5.7,0l71.7-71.7V239c0,2.2,1.8,4,4,4s4-1.8,4-4v-67.7l47.1,47.1c1.6,1.6,4.1,1.6,5.7,0 c1.6-1.6,1.6-4.1,0-5.7l-47.1-47.1h68.8c2.2,0,4-1.8,4-4s-1.8-4-4-4h-69.4L246.5,85.4z" }));
+export default SvgGamma;

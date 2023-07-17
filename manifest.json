@@ -325,6 +325,11 @@
 		"color": "#fe5d86"
 	},
 	{
+	  "symbol": "BSC",
+	  "name": "BNB Smart Chain",
+	  "color": "#f3ba2f"
+	},
+	{
 		"symbol": "BSD",
 		"name": "BitSend",
 		"color": "#000000"

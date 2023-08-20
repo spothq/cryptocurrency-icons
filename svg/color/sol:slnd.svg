@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1133.8583 1133.8583"
+   version="1.1"
+   id="svg39"
+   sodipodi:docname="sendlend-slnd-coin-icon.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview41"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.13022229"
+     inkscape:cx="-403.15679"
+     inkscape:cy="1512.7978"
+     inkscape:current-layer="svg39" />
+  <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+  <title
+     id="title9">sendlend-logo-vector</title>
+  <desc
+     id="desc11">Created with Sketch.</desc>
+  <circle
+     style="opacity:0.98;fill:#000000;fill-rule:evenodd;stroke-width:7.4951"
+     id="path169"
+     cx="566.92914"
+     cy="566.92914"
+     r="566.92914" />
+  <defs
+     id="defs28">
+    <linearGradient
+       x1="-37.117753"
+       y1="162.82426"
+       x2="462.62895"
+       y2="256.67549"
+       id="linearGradient-1"
+       gradientTransform="scale(1.122698,0.89071147)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FF9351"
+         offset="0%"
+         id="stop13" />
+      <stop
+         stop-color="#FF5C28"
+         offset="100%"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       x1="97.860052"
+       y1="150.59419"
+       x2="372.3758"
+       y2="59.957946"
+       id="linearGradient-2"
+       gradientTransform="scale(1.1190408,0.89362246)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FF9351"
+         offset="0%"
+         id="stop18" />
+      <stop
+         stop-color="#FF5C28"
+         offset="100%"
+         id="stop20" />
+    </linearGradient>
+    <linearGradient
+       x1="169.39711"
+       y1="474.91012"
+       x2="443.22455"
+       y2="386.72624"
+       id="linearGradient-3"
+       gradientTransform="scale(1.1235275,0.89005389)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FF9351"
+         offset="0%"
+         id="stop23" />
+      <stop
+         stop-color="#FF5C28"
+         offset="100%"
+         id="stop25" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     stroke-linecap="round"
+     transform="translate(224.42914,294.92914)">
+    <g
+       id="1280"
+       transform="translate(-298,-369)"
+       stroke-width="84.8287">
+      <g
+         id="sendlend-logo-vector"
+         transform="translate(340,412)">
+        <g
+           id="Group-10"
+           transform="translate(0.425185,0.379039)">
+          <path
+             d="M 102.2674,0 42.249836,61.556502 C -13.938268,119.18536 -13.355403,211.27824 43.557735,268.19133 v 0 c 56.710135,56.71013 148.402505,57.51999 206.105755,1.82022 l 84.11642,-81.19519 c 61.14861,-59.02543 158.18737,-58.60572 218.81874,0.9473 v 0 c 65.88759,64.71123 61.88261,172.05998 -8.65037,231.67606 l -42.36511,35.80788"
+             id="Path"
+             stroke="url(#linearGradient-1)"
+             style="stroke:url(#linearGradient-1)" />
+          <path
+             d="m 151.92374,165.51949 c 0,0 97.2427,-115.863643 202.76138,-144.829553"
+             id="path31"
+             stroke="url(#linearGradient-2)"
+             style="stroke:url(#linearGradient-2)" />
+          <path
+             d="m 435.92711,310.83969 c 0,0 -97.18211,116.21833 -203.19045,143.3389"
+             id="path33"
+             stroke="url(#linearGradient-3)"
+             style="stroke:url(#linearGradient-3)" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata267">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>sendlend-logo-vector</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

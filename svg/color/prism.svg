@@ -1,0 +1,93 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 401" width="400" height="401">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m3.2 4.53h394v394h-394z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m3.2 201.53c0-108.8 88.2-197 197-197 108.79 0 197 88.2 197 197 0 108.8-88.21 197-197 197-108.8 0-197-88.2-197-197z"/>
+		</clipPath>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(394,-394,394,394,3.196,398.53)">
+			<stop offset="0" stop-color="#181d27"/>
+			<stop offset=".016" stop-color="#181d27"/>
+			<stop offset=".031" stop-color="#191e28"/>
+			<stop offset=".047" stop-color="#1a1f29"/>
+			<stop offset=".063" stop-color="#1b202a"/>
+			<stop offset=".078" stop-color="#1c212b"/>
+			<stop offset=".094" stop-color="#1d222c"/>
+			<stop offset=".109" stop-color="#1e232d"/>
+			<stop offset=".125" stop-color="#1f242e"/>
+			<stop offset=".141" stop-color="#20252f"/>
+			<stop offset=".156" stop-color="#212630"/>
+			<stop offset=".172" stop-color="#222731"/>
+			<stop offset=".188" stop-color="#232832"/>
+			<stop offset=".203" stop-color="#242933"/>
+			<stop offset=".219" stop-color="#242933"/>
+			<stop offset=".234" stop-color="#252a34"/>
+			<stop offset=".25" stop-color="#262b35"/>
+			<stop offset=".266" stop-color="#272c36"/>
+			<stop offset=".281" stop-color="#282d37"/>
+			<stop offset=".297" stop-color="#292e38"/>
+			<stop offset=".313" stop-color="#2a2f39"/>
+			<stop offset=".328" stop-color="#2b303a"/>
+			<stop offset=".344" stop-color="#2c313b"/>
+			<stop offset=".359" stop-color="#2d323c"/>
+			<stop offset=".375" stop-color="#2e333d"/>
+			<stop offset=".391" stop-color="#2f343e"/>
+			<stop offset=".406" stop-color="#30353e"/>
+			<stop offset=".422" stop-color="#30353f"/>
+			<stop offset=".438" stop-color="#313640"/>
+			<stop offset=".453" stop-color="#323741"/>
+			<stop offset=".469" stop-color="#333842"/>
+			<stop offset=".484" stop-color="#343943"/>
+			<stop offset=".5" stop-color="#363b45"/>
+			<stop offset=".516" stop-color="#363b45"/>
+			<stop offset=".531" stop-color="#373c46"/>
+			<stop offset=".547" stop-color="#383d47"/>
+			<stop offset=".563" stop-color="#393e48"/>
+			<stop offset=".578" stop-color="#3a3f49"/>
+			<stop offset=".594" stop-color="#3b404a"/>
+			<stop offset=".609" stop-color="#3b404a"/>
+			<stop offset=".625" stop-color="#3c414b"/>
+			<stop offset=".641" stop-color="#3d424c"/>
+			<stop offset=".656" stop-color="#3e434d"/>
+			<stop offset=".672" stop-color="#3f444e"/>
+			<stop offset=".688" stop-color="#40454f"/>
+			<stop offset=".703" stop-color="#414650"/>
+			<stop offset=".719" stop-color="#424751"/>
+			<stop offset=".734" stop-color="#434852"/>
+			<stop offset=".75" stop-color="#444953"/>
+			<stop offset=".766" stop-color="#454a54"/>
+			<stop offset=".781" stop-color="#464b55"/>
+			<stop offset=".797" stop-color="#474c56"/>
+			<stop offset=".813" stop-color="#474c56"/>
+			<stop offset=".828" stop-color="#484d57"/>
+			<stop offset=".844" stop-color="#494e58"/>
+			<stop offset=".859" stop-color="#4a4f59"/>
+			<stop offset=".875" stop-color="#4b505a"/>
+			<stop offset=".891" stop-color="#4c515b"/>
+			<stop offset=".906" stop-color="#4d525c"/>
+			<stop offset=".922" stop-color="#4e535d"/>
+			<stop offset=".938" stop-color="#4f545e"/>
+			<stop offset=".953" stop-color="#50555f"/>
+			<stop offset=".969" stop-color="#515660"/>
+			<stop offset=".984" stop-color="#525761"/>
+			<stop offset="1" stop-color="#535862"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: url(#g1) } 
+	</style>
+	<path fill-rule="evenodd" class="s0" d="m-40-38.67h480v480h-480z"/>
+	<path fill-rule="evenodd" class="s0" d="m-40-38.67h480v480h-480z"/>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g>
+			<g id="Clip-Path" clip-path="url(#cp2)">
+				<g>
+					<path class="s1" d="m3.2 4.53v394h394v-394z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<path fill-rule="evenodd" class="s0" d="m200.2 53.78c34.14 0 65.57 11.58 90.59 31.03h0.01q0.14 0.11 0.29 0.23 0.39 0.31 0.79 0.62 0.9 0.72 1.8 1.45 0.35 0.29 0.7 0.57 1.04 0.88 2.08 1.77 0.5 0.43 0.99 0.86 0.55 0.48 1.11 0.98 0.87 0.78 1.73 1.57 0.64 0.59 1.27 1.19 0.59 0.55 1.16 1.1 0.49 0.47 0.97 0.95 1.08 1.05 2.13 2.13 0.34 0.34 0.67 0.68 0.59 0.62 1.19 1.25 0.54 0.57 1.08 1.16 0.69 0.75 1.39 1.52 0.66 0.75 1.32 1.49 0.39 0.45 0.77 0.89 2.05 2.38 3.98 4.83 0.16 0.2 0.32 0.4 0.19 0.24 0.38 0.48l-0.01 0.01c19.45 25.01 31.04 56.45 31.04 90.59 0 31.91-10.12 61.45-27.32 85.61-8.53 11.97-34.46-14.19-26.62-26.62 10.77-17.09 17-37.31 17-58.99 0-23.93-7.59-46.09-20.49-64.21l-26.68 26.69c6.5 11 10.23 23.82 10.23 37.52 0 40.8-33.08 73.88-73.87 73.88-13.7 0-26.53-3.74-37.53-10.23l-26.68 26.67c18.11 12.91 40.28 20.49 64.21 20.49 21.68 0 41.9-6.23 58.98-17 12.45-7.83 38.6 18.1 26.62 26.62-24.15 17.2-53.7 27.32-85.6 27.32-34.15 0-65.58-11.59-90.6-31.04l-0.01 0.02q-7.23-5.62-13.87-12.25-6.63-6.65-12.25-13.87l0.01-0.02c-19.45-25.02-31.03-56.45-31.03-90.59 0-31.91 10.11-61.46 27.31-85.61 8.53-11.98 34.46 14.18 26.62 26.62-10.77 17.08-16.99 37.31-16.99 58.99 0 23.93 7.58 46.09 20.48 64.2l26.68-26.68c-6.5-11-10.23-23.82-10.23-37.52 0-40.8 33.08-73.87 73.88-73.87 13.7 0 26.52 3.73 37.51 10.23l26.69-26.69c-18.11-12.9-40.27-20.48-64.2-20.48-21.68 0-41.91 6.23-58.99 16.99-12.44 7.84-38.6-18.09-26.62-26.62 24.15-17.2 53.7-27.31 85.61-27.31zm0 110.81c-20.4 0-36.94 16.54-36.94 36.94 0 3.3 0.44 6.51 1.25 9.56l0.01-0.01q0.28 1.07 0.63 2.12 0.06 0.17 0.12 0.35 0.18 0.53 0.38 1.06c3.76 9.91 11.65 17.79 21.58 21.51q0.44 0.16 0.88 0.31 0.25 0.09 0.5 0.17 1.01 0.34 2.03 0.61c3.05 0.82 6.25 1.26 9.56 1.26 20.39 0 36.94-16.54 36.94-36.94 0-3.31-0.45-6.51-1.26-9.56l-0.01 0.01q-0.74-2.78-1.92-5.44-0.07-0.16-0.14-0.32-0.38-0.83-0.8-1.66-0.46-0.87-0.96-1.72-0.27-0.47-0.56-0.93-2.1-3.33-4.83-6.14-0.17-0.18-0.35-0.35-0.1-0.11-0.22-0.22-0.97-0.95-2.01-1.83-0.35-0.3-0.71-0.59-1.65-1.33-3.44-2.47-0.59-0.37-1.2-0.73-0.18-0.1-0.37-0.21c-2.74-1.55-5.64-2.72-8.62-3.51l0.01-0.01c-3.05-0.81-6.25-1.26-9.55-1.26z"/>
+</svg>

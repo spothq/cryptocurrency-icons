@@ -341,6 +341,7 @@ export const Cbc: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }
 export const Cbeth: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
 export const Cbl: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
 export const Cbrl: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
+export const Cbtc: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
 export const Cc: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
 export const Cct: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
 export const Cdag: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
@@ -1847,6 +1848,7 @@ export const Usda: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string 
 export const Usdc: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
 export const Usdcv: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
 export const Usdcv2: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
+export const Usdcx: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
 export const Usdd: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
 export const Usde: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
 export const Usdf: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;

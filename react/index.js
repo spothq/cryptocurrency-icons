@@ -661,6 +661,7 @@ export { default as Ethq } from "./ethq";
 export { default as Ethresolv } from "./ethresolv";
 export { default as Ethsc } from "./ethsc";
 export { default as Ethsfp } from "./ethsfp";
+export { default as Ethshvon } from "./ethshvon";
 export { default as Ethsix } from "./ethsix";
 export { default as Ethsky } from "./ethsky";
 export { default as Ethspec } from "./ethspec";

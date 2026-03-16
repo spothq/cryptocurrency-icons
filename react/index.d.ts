@@ -663,6 +663,7 @@ export const Ethq: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string 
 export const Ethresolv: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
 export const Ethsc: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
 export const Ethsfp: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
+export const Ethshvon: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
 export const Ethsix: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
 export const Ethsky: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;
 export const Ethspec: React.FC<React.SVGProps<SVGSVGElement> & { prefixId?: string }>;

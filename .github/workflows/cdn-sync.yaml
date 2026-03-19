@@ -1,0 +1,102 @@
+name: CDN Sync
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Preview changes without uploading to S3'
+        type: boolean
+        default: false
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      DRY_RUN: ${{ inputs.dry_run == true && '--dryrun' || '' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Safety check - verify SVG count
+        run: |
+          svg_color_count=$(find svg/color -name '*.svg' | wc -l)
+          svg_icon_count=$(find svg/icon -name '*.svg' | wc -l)
+          white_icon_count=$(find svg/white -name '*.svg' | wc -l)
+          black_icon_count=$(find svg/black -name '*.svg' | wc -l)
+          echo "Found $svg_color_count SVGs in svg/color/"
+          echo "Found $svg_icon_count SVGs in svg/icon/"
+          echo "Found $white_icon_count SVGs in svg/white/"
+          echo "Found $black_icon_count SVGs in svg/black/"
+          if [ "$svg_color_count" -lt 2000 ]; then
+            echo "::error::Expected at least 2000 SVGs in svg/color but found $svg_color_count — aborting to prevent accidental partial upload"
+            exit 1
+          fi
+          if [ "$svg_icon_count" -lt 400 ]; then
+            echo "::error::Expected at least 400 SVGs in svg/icon but found $svg_icon_count — aborting to prevent accidental partial upload"
+            exit 1
+          fi
+          if [ "$white_icon_count" -lt 400 ]; then
+            echo "::error::Expected at least 400 SVGs in svg/white but found $white_icon_count — aborting to prevent accidental partial upload"
+            exit 1
+          fi
+          if [ "$black_icon_count" -lt 400 ]; then
+            echo "::error::Expected at least 400 SVGs in svg/black but found $black_icon_count — aborting to prevent accidental partial upload"
+            exit 1
+          fi
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate hashed assets
+        run: node scripts/generate-cdn-manifest.js
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::199765120567:role/cryptocurrency-icons-iam-protected
+          aws-region: us-west-2
+
+      - name: Sync SVGs to CDN
+        run: |
+          # cdn-dist/ contains all SVGs renamed to {hash}-{name}.svg.
+          # Unchanged icons produce the same hash and filename, so s3 sync skips them.
+          # Only new or changed icons are uploaded on each release.
+          aws s3 sync cdn-dist/ s3://cdn.bitgo.com/cryptocurrency-icons/ \
+            --cache-control "public, max-age=31536000, immutable" \
+            --content-type "image/svg+xml" \
+            --no-progress \
+            $DRY_RUN
+
+          # Upload manifest.json
+          aws s3 cp manifest.json s3://cdn.bitgo.com/cryptocurrency-icons/manifest.json \
+            --cache-control "public, max-age=86400" \
+            --content-type "application/json" \
+            $DRY_RUN
+
+      - name: Generate and upload manifest.txt for pruning
+        run: |
+          # List all uploaded SVG files for CE-10189 prune job.
+          # Reads from cdn-dist/ to capture the hashed filenames that were synced.
+          # manifest.txt intentionally includes its own CDN path so the prune job
+          # knows to preserve it; it is uploaded after this file is written.
+          {
+            find cdn-dist/svg/color -name '*.svg' -printf 'cryptocurrency-icons/svg/color/%f\n'
+            find cdn-dist/svg/icon  -name '*.svg' -printf 'cryptocurrency-icons/svg/icon/%f\n'
+            find cdn-dist/svg/white -name '*.svg' -printf 'cryptocurrency-icons/svg/white/%f\n'
+            find cdn-dist/svg/black -name '*.svg' -printf 'cryptocurrency-icons/svg/black/%f\n'
+            echo 'cryptocurrency-icons/manifest.json'
+            echo 'cryptocurrency-icons/manifest.txt'
+          } | sort > manifest.txt
+
+          aws s3 cp manifest.txt s3://cdn.bitgo.com/cryptocurrency-icons/manifest.txt \
+            --cache-control "public, max-age=86400" \
+            --content-type "text/plain" \
+            $DRY_RUN

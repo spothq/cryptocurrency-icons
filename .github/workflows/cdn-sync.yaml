@@ -75,8 +75,8 @@ jobs:
             --no-progress \
             $DRY_RUN
 
-          # Upload manifest.json
-          aws s3 cp manifest.json s3://cdn.bitgo.com/cryptocurrency-icons/manifest.json \
+          # Upload cdn-manifest.json
+          aws s3 cp cdn-manifest.json s3://cdn.bitgo.com/cryptocurrency-icons/cdn-manifest.json \
             --cache-control "public, max-age=86400" \
             --content-type "application/json" \
             $DRY_RUN
@@ -92,7 +92,7 @@ jobs:
             find cdn-dist/svg/icon  -name '*.svg' -printf 'cryptocurrency-icons/svg/icon/%f\n'
             find cdn-dist/svg/white -name '*.svg' -printf 'cryptocurrency-icons/svg/white/%f\n'
             find cdn-dist/svg/black -name '*.svg' -printf 'cryptocurrency-icons/svg/black/%f\n'
-            echo 'cryptocurrency-icons/manifest.json'
+            echo 'cryptocurrency-icons/cdn-manifest.json'
             echo 'cryptocurrency-icons/manifest.txt'
           } | sort > manifest.txt
 

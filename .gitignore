@@ -5,3 +5,7 @@ dist
 
 # npm pack output
 *.tgz
+
+# generated at publish time (see scripts/generate-cdn-manifest.js)
+cdn-manifest.json
+cdn-dist/

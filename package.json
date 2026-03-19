@@ -14,14 +14,22 @@
 		"128",
 		"svg",
 		"react",
-		"manifest.json"
+		"manifest.json",
+		"cdn-manifest.json",
+		"cdn.js",
+		"cdn.d.ts"
 	],
 	"exports": {
 		".": {
 			"types": "./react/index.d.ts",
 			"default": "./react/index.js"
 		},
+		"./cdn": {
+			"types": "./cdn.d.ts",
+			"default": "./cdn.js"
+		},
 		"./manifest.json": "./manifest.json",
+		"./cdn-manifest.json": "./cdn-manifest.json",
 		"./svg/*": "./svg/*",
 		"./react/*": "./react/*",
 		"./32/*": "./32/*",
@@ -53,9 +61,12 @@
 		"erc721"
 	],
 	"scripts": {
-		"test": "npm run validate && npm run sync-check",
+		"pretest": "node scripts/generate-cdn-manifest.js",
+		"test": "npm run validate && npm run sync-check && node --test scripts/test-cdn.js",
+		"prepublishOnly": "node scripts/generate-cdn-manifest.js",
 		"test:pack": "node scripts/test-pack.js",
-		"generate": "node generate",
+		"generate": "node generate && node scripts/generate-cdn-manifest.js",
+		"cdn-manifest": "node scripts/generate-cdn-manifest.js",
 		"manifest": "node scripts/manifest.js",
 		"clean": "node scripts/clean-svgs.js",
 		"validate": "node scripts/validate.js",

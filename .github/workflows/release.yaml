@@ -25,3 +25,7 @@ jobs:
     with:
       disable-semantic-release-git: true
       environment: publish
+
+  cdn-sync:
+    needs: release
+    uses: ./.github/workflows/cdn-sync.yaml

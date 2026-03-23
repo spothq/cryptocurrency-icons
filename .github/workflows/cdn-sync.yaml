@@ -1,8 +1,12 @@
 name: CDN Sync
 
 on:
-  release:
-    types: [published]
+  workflow_call:
+    inputs:
+      dry_run:
+        description: 'Preview changes without uploading to S3'
+        type: boolean
+        default: false
   workflow_dispatch:
     inputs:
       dry_run:

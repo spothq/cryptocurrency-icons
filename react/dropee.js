@@ -1,0 +1,3 @@
+import * as React from "react";
+const SvgDropee = ({ prefixId = "", ...props }) => /* @__PURE__ */ React.createElement("svg", { xmlns: "http://www.w3.org/2000/svg", width: 32, height: 32, fill: "none", viewBox: "0 0 32 32", ...props }, /* @__PURE__ */ React.createElement("rect", { width: 32, height: 32, fill: "#1A0B21", rx: 4 }), /* @__PURE__ */ React.createElement("path", { fill: "#A349A4", d: "M10.5 7h14c3 0 4.5 2 4.5 5v8c0 3-1.5 5-4.5 5h-17z" }), /* @__PURE__ */ React.createElement("path", { stroke: "#F0F", strokeLinejoin: "round", strokeWidth: 1.2, d: "M10.5 7h14c3 0 4.5 2 4.5 5v8c0 3-1.5 5-4.5 5h-17z", opacity: 0.5 }), /* @__PURE__ */ React.createElement("path", { fill: "#1A0B21", d: "M14.5 12h7l-2 8h-7z" }));
+export default SvgDropee;
